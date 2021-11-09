@@ -2,7 +2,7 @@
 "name": "iPlay! TV",
 "author": "iCatz",
 "image": "https://icastmultimedia.000webhostapp.com/wiseplay/iplay.png",
-"url": "https://icastmultimedia.000webhostapp.com/wiseplay/main.w3u",
+"url": "https://raw.githubusercontent.com/GlitchRob/wiseplay/main/iPlayTV.w3u",
 "telegram": "iCatz",
 "info": "Entretenimiento gratis",
 "groups": [
