@@ -1,0 +1,29 @@
+{
+"name": "iPlay! TV",
+"author": "iCatz",
+"image": "https://icastmultimedia.000webhostapp.com/wiseplay/iplay.png",
+"url": "https://icastmultimedia.000webhostapp.com/wiseplay/main.w3u",
+"telegram": "iCatz",
+"info": "Entretenimiento gratis",
+"groups": [
+{
+"name": "TV Online",
+"image": "https://thumbs.dreamstime.com/b/icono-de-la-caja-iptv-de-la-tv-92221121.jpg",
+"url": "https://icastmultimedia.000webhostapp.com/wiseplay/tv-online/canales-mx.m3u"
+},
+{
+"name": "Series",
+"image": "https://lh5.googleusercontent.com/-T7LThgdQwnk/U02RjonUK4I/AAAAAAAABS4/IdURF8L3bWk/w532-h402-no/SERIES.png",
+"url": "https://icastmultimedia.000webhostapp.com/IPTV/Series.w3u"
+},
+{
+"name": "Películas",
+"image": "https://image.flaticon.com/icons/png/512/306/306337.png",
+"url": "https://icastmultimedia.000webhostapp.com/IPTV/Pel%C3%ADculas.w3u"
+},
+{
+"name": "Forbidden",
+"url": "https://icastmultimedia.000webhostapp.com/IPTV/BlackGhostZalTviCast.m3u"
+},
+]
+}
