@@ -1,31 +1,31 @@
 #EXTM3U url="http://flash.shortgod.com/623/tv7.m3u"
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zOiOeqG.png" group-title="Gratis",shortgod.com
 http://shortgod.com/canaldisponible.mp4
-#EXTINF:-1,CUL | Animal Planet HD
+#EXTINF:-1 group-title="Culturales",Animal Planet HD
 http://flash.shortgod.com/wadsa/tv7.php?id=229242
-#EXTINF:-1,CUL | Discovery Home & Health FHD NORTE
+#EXTINF:-1 group-title="Culturales",Discovery Home & Health FHD NORTE
 http://flash.shortgod.com/wadsa/tv7.php?id=242008
-#EXTINF:-1,CUL | Discovery Science FHD
+#EXTINF:-1 group-title="Culturales",Discovery Science FHD
 http://flash.shortgod.com/wadsa/tv7.php?id=36466
-#EXTINF:-1,CUL | Discovery TLC FHD
+#EXTINF:-1 group-title="Culturales",Discovery TLC FHD
 http://flash.shortgod.com/wadsa/tv7.php?id=242009
-#EXTINF:-1,CUL | Discovery Turbo HD
+#EXTINF:-1 group-title="Culturales",Discovery Turbo HD
 http://flash.shortgod.com/wadsa/tv7.php?id=54283
-#EXTINF:-1,CUL | History HD
+#EXTINF:-1 group-title="Culturales",History HD
 http://flash.shortgod.com/wadsa/tv7.php?id=242013
-#EXTINF:-1,CUL | Investigation Discovery FHD
+#EXTINF:-1 group-title="Culturales",Investigation Discovery FHD
 http://flash.shortgod.com/wadsa/tv7.php?id=242014
-#EXTINF:-1,CUL | Nat Geo sd
+#EXTINF:-1 group-title="Culturales",Nat Geo sd
 http://flash.shortgod.com/wadsa/tv7.php?id=242015
-#EXTINF:-1,CUL | Discovery TLC
+#EXTINF:-1 group-title="Culturales",Discovery TLC
 http://flash.shortgod.com/wadsa/tv7.php?id=268886
 #EXTINF:-1,SONY | NOVELAS
 http://flash.shortgod.com/wadsa/tv7.php?id=276161
 #EXTINF:-1,SONY  | COMEDIAS
 http://flash.shortgod.com/wadsa/tv7.php?id=276162
-#EXTINF:-1,CUL | ANIMAL PLANET SD SUR
+#EXTINF:-1 group-title="Culturales",ANIMAL PLANET SD SUR
 http://flash.shortgod.com/wadsa/tv7.php?id=276193
-#EXTINF:-1,CUL | Love Nature
+#EXTINF:-1 group-title="Culturales",Love Nature
 http://flash.shortgod.com/wadsa/tv7.php?id=276310
 #EXTINF:-1,SONY COMPETENCIAS
 http://flash.shortgod.com/wadsa/tv7.php?id=218342
@@ -277,11 +277,11 @@ http://flash.shortgod.com/wadsa/tv7.php?id=59536
 http://flash.shortgod.com/wadsa/tv7.php?id=53043
 #EXTINF:-1,MU | MTV U HD
 http://flash.shortgod.com/wadsa/tv7.php?id=176831
-#EXTINF:-1,CULT | NAT GEO
+#EXTINF:-1 group-title="Culturales",NAT GEO
 http://flash.shortgod.com/wadsa/tv7.php?id=53812
-#EXTINF:-1,CUL | NAT GEO Mundo
+#EXTINF:-1 group-title="Culturales",NAT GEO Mundo
 http://flash.shortgod.com/wadsa/tv7.php?id=54154
-#EXTINF:-1,CULT | Nat Geo Wild
+#EXTINF:-1 group-title="Culturales",Nat Geo Wild
 http://flash.shortgod.com/wadsa/tv7.php?id=53185
 #EXTINF:-1,ET | NBC
 http://flash.shortgod.com/wadsa/tv7.php?id=71868
@@ -371,7 +371,7 @@ http://flash.shortgod.com/wadsa/tv7.php?id=108634
 http://flash.shortgod.com/wadsa/tv7.php?id=166117
 #EXTINF:-1,CUB | Multivision
 http://flash.shortgod.com/wadsa/tv7.php?id=199189
-#EXTINF:-1,CUL | Discovery TLC HD
+#EXTINF:-1 group-title="Culturales",Discovery TLC HD
 http://flash.shortgod.com/wadsa/tv7.php?id=199201
 #EXTINF:-1,CINE | Sony
 http://flash.shortgod.com/wadsa/tv7.php?id=199523
@@ -393,15 +393,15 @@ http://flash.shortgod.com/wadsa/tv7.php?id=198755
 http://flash.shortgod.com/wadsa/tv7.php?id=198730
 #EXTINF:-1 group-title="México",Canal 5
 http://flash.shortgod.com/wadsa/tv7.php?id=186607
-#EXTINF:-1,CUL | History SD
+#EXTINF:-1 group-title="Culturales",History SD
 http://flash.shortgod.com/wadsa/tv7.php?id=186570
 #EXTINF:-1,CINE | HBO Family sd
 http://flash.shortgod.com/wadsa/tv7.php?id=185178
-#EXTINF:-1,CUL | Investigation Discovery SD
+#EXTINF:-1 group-title="Culturales",Investigation Discovery SD
 http://flash.shortgod.com/wadsa/tv7.php?id=36458
 #EXTINF:-1 group-title="México",Azteca Uno
 http://flash.shortgod.com/wadsa/tv7.php?id=9599
-#EXTINF:-1,CUL | Animal Planet HD
+#EXTINF:-1 group-title="Culturales",Animal Planet HD
 http://flash.shortgod.com/wadsa/tv7.php?id=9517
 #EXTINF:-1,HN  | Azteca Honduras
 http://flash.shortgod.com/wadsa/tv7.php?id=199602
@@ -563,7 +563,7 @@ http://flash.shortgod.com/wadsa/tv7.php?id=242017
 http://flash.shortgod.com/wadsa/tv7.php?id=242054
 #EXTINF:-1,CO | Caracol Internacional
 http://flash.shortgod.com/wadsa/tv7.php?id=211350
-#EXTINF:-1 group-title="México",BitMe SD group-title="🇲🇽 México" 
+#EXTINF:-1 group-title="México",BitMe SD
 http://flash.shortgod.com/wadsa/tv7.php?id=9430
 #EXTINF:-1 group-title="México",Canal de Las Estrellas FHD
 http://flash.shortgod.com/wadsa/tv7.php?id=9439
@@ -1137,7 +1137,7 @@ http://flash.shortgod.com/wadsa/tv7.php?id=158454
 http://flash.shortgod.com/wadsa/tv7.php?id=36406
 #EXTINF:-1,DEP | ESPN EXTRA HD MX @
 http://flash.shortgod.com/wadsa/tv7.php?id=19485
-#EXTINF:-1,CUL | Discovery Channel Lat
+#EXTINF:-1 group-title="Culturales",Discovery Channel Lat
 http://flash.shortgod.com/wadsa/tv7.php?id=186572
 #EXTINF:-1,DEP | ESPN 2 AR SD  ►℗
 http://flash.shortgod.com/wadsa/tv7.php?id=220900
@@ -1147,7 +1147,7 @@ http://flash.shortgod.com/wadsa/tv7.php?id=53279
 http://flash.shortgod.com/wadsa/tv7.php?id=9547
 #EXTINF:-1,ET | ABC
 http://flash.shortgod.com/wadsa/tv7.php?id=71862
-#EXTINF:-1,CULT | Animal Planet
+#EXTINF:-1 group-title="Culturales",Animal Planet
 http://flash.shortgod.com/wadsa/tv7.php?id=36479
 #EXTINF:-1,EN | Atreseries
 http://flash.shortgod.com/wadsa/tv7.php?id=53059
@@ -1161,7 +1161,7 @@ http://flash.shortgod.com/wadsa/tv7.php?id=49094
 http://flash.shortgod.com/wadsa/tv7.php?id=165331
 #EXTINF:-1,ET | Bounce
 http://flash.shortgod.com/wadsa/tv7.php?id=49633
-#EXTINF:-1,CULT | Bravo
+#EXTINF:-1 group-title="Culturales",Bravo
 http://flash.shortgod.com/wadsa/tv7.php?id=48959
 #EXTINF:-1,UY | Canal 12 HD
 http://flash.shortgod.com/wadsa/tv7.php?id=21826
@@ -1307,19 +1307,19 @@ http://flash.shortgod.com/wadsa/tv7.php?id=49089
 http://flash.shortgod.com/wadsa/tv7.php?id=117148
 #EXTINF:-1,ET | Destination America
 http://flash.shortgod.com/wadsa/tv7.php?id=48632
-#EXTINF:-1,CULT | Discovery Channel
+#EXTINF:-1 group-title="Culturales",Discovery Channel
 http://flash.shortgod.com/wadsa/tv7.php?id=36463
-#EXTINF:-1,CULT | Discovery Family
+#EXTINF:-1 group-title="Culturales",Discovery Family
 http://flash.shortgod.com/wadsa/tv7.php?id=36464
-#EXTINF:-1,CUL | Discovery Channel FHD NORTE
+#EXTINF:-1 group-title="Culturales",Discovery Channel FHD NORTE
 http://flash.shortgod.com/wadsa/tv7.php?id=9520
-#EXTINF:-1,CULT | Discovery Life
+#EXTINF:-1 group-title="Culturales",Discovery Life
 http://flash.shortgod.com/wadsa/tv7.php?id=36465
-#EXTINF:-1,CULT | Discovery Science SD
+#EXTINF:-1 group-title="Culturales",Discovery Science SD
 http://flash.shortgod.com/wadsa/tv7.php?id=53222
-#EXTINF:-1,CUL | Discovery World FHD NORTE
+#EXTINF:-1 group-title="Culturales",Discovery World FHD NORTE
 http://flash.shortgod.com/wadsa/tv7.php?id=53077
-#EXTINF:-1,CUL | Discovery World SD
+#EXTINF:-1 group-title="Culturales",Discovery World SD
 http://flash.shortgod.com/wadsa/tv7.php?id=9516
 #EXTINF:-1,INF | Disney Channel FHD
 http://flash.shortgod.com/wadsa/tv7.php?id=9421
