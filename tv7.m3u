@@ -31,143 +31,143 @@ http://flash.shortgod.com/wadsa/tv7.php?id=276310
 http://flash.shortgod.com/wadsa/tv7.php?id=218342
 #EXTINF:-1,SONY NOVELAS
 http://flash.shortgod.com/wadsa/tv7.php?id=218340
-#EXTINF:-1,VIX CINE CLUB
+#EXTINF:-1 group-title="VIX",VIX CINE CLUB
 http://flash.shortgod.com/wadsa/tv7.php?id=276308
-#EXTINF:-1,VIX VILLANOS
+#EXTINF:-1 group-title="VIX",VIX VILLANOS
 http://flash.shortgod.com/wadsa/tv7.php?id=276309
-#EXTINF:-1,DEP | Adrenalina Sports
+#EXTINF:-1 group-title="Deportivos",Adrenalina Sports
 http://flash.shortgod.com/wadsa/tv7.php?id=71832
-#EXTINF:-1,DEP | Afizzionados HD
+#EXTINF:-1 group-title="Deportivos",Afizzionados HD
 http://flash.shortgod.com/wadsa/tv7.php?id=54984
 #EXTINF:-1,DEP  | Band Sports BRA
 http://flash.shortgod.com/wadsa/tv7.php?id=48534
-#EXTINF:-1,DEP | Bein Sports Ñ
+#EXTINF:-1 group-title="Deportivos",Bein Sports Ñ
 http://flash.shortgod.com/wadsa/tv7.php?id=36401
-#EXTINF:-1,DEP | Bein Sports Ñ HD OP 2
+#EXTINF:-1 group-title="Deportivos",Bein Sports Ñ HD OP 2
 http://flash.shortgod.com/wadsa/tv7.php?id=165308
-#EXTINF:-1,DEP | Bein Sports Ñ SD
+#EXTINF:-1 group-title="Deportivos",Bein Sports Ñ SD
 http://flash.shortgod.com/wadsa/tv7.php?id=228360
-#EXTINF:-1,DEP | CDO Básico SD
+#EXTINF:-1 group-title="Deportivos",CDO Básico SD
 http://flash.shortgod.com/wadsa/tv7.php?id=12826
-#EXTINF:-1,DEP | Claro Sports HD
+#EXTINF:-1 group-title="Deportivos",Claro Sports HD
 http://flash.shortgod.com/wadsa/tv7.php?id=164262
 #EXTINF:-1,CO | Claro Sports 2
 http://flash.shortgod.com/wadsa/tv7.php?id=164261
-#EXTINF:-1,DEP | DirecTV Sports 1 AR HD ►℗
+#EXTINF:-1 group-title="Deportivos",DirecTV Sports 1 AR HD ►℗
 http://flash.shortgod.com/wadsa/tv7.php?id=158511
-#EXTINF:-1,DEP | DirecTV Sports 1 HD
+#EXTINF:-1 group-title="Deportivos",DirecTV Sports 1 HD
 http://flash.shortgod.com/wadsa/tv7.php?id=158506
-#EXTINF:-1,DEP | DirecTV Sports 2 HD COLOMBIA
+#EXTINF:-1 group-title="Deportivos",DirecTV Sports 2 HD COLOMBIA
 http://flash.shortgod.com/wadsa/tv7.php?id=257326
-#EXTINF:-1,DEP | DirecTV Sports 2 SD
+#EXTINF:-1 group-title="Deportivos",DirecTV Sports 2 SD
 http://flash.shortgod.com/wadsa/tv7.php?id=158513
-#EXTINF:-1,DEP | ESPN EXTRA  MX
+#EXTINF:-1 group-title="Deportivos",ESPN EXTRA  MX
 http://flash.shortgod.com/wadsa/tv7.php?id=21229
-#EXTINF:-1,DEP | ESPN 1  PE  SD
+#EXTINF:-1 group-title="Deportivos",ESPN 1  PE  SD
 http://flash.shortgod.com/wadsa/tv7.php?id=220727
-#EXTINF:-1,DEP | ESPN 1  SD ►℗
+#EXTINF:-1 group-title="Deportivos",ESPN 1  SD ►℗
 http://flash.shortgod.com/wadsa/tv7.php?id=219173
-#EXTINF:-1,DEP | ESPN 1 PE HD ►℗
+#EXTINF:-1 group-title="Deportivos",ESPN 1 PE HD ►℗
 http://flash.shortgod.com/wadsa/tv7.php?id=219172
-#EXTINF:-1,DEP | ESPN 1 HD
+#EXTINF:-1 group-title="Deportivos",ESPN 1 HD
 http://flash.shortgod.com/wadsa/tv7.php?id=219171
-#EXTINF:-1,DEP | ESPN 1 MX HD
+#EXTINF:-1 group-title="Deportivos",ESPN 1 MX HD
 http://flash.shortgod.com/wadsa/tv7.php?id=9380
-#EXTINF:-1,DEP | ESPN 1 MX SD
+#EXTINF:-1 group-title="Deportivos",ESPN 1 MX SD
 http://flash.shortgod.com/wadsa/tv7.php?id=185154
-#EXTINF:-1,DEP | ESPN 2  PERU HD ►℗
+#EXTINF:-1 group-title="Deportivos",ESPN 2  PERU HD ►℗
 http://flash.shortgod.com/wadsa/tv7.php?id=186705
-#EXTINF:-1,DEP | ESPN 2 AR
+#EXTINF:-1 group-title="Deportivos",ESPN 2 AR
 http://flash.shortgod.com/wadsa/tv7.php?id=185666
-#EXTINF:-1,DEP | ESPN 2 MX
+#EXTINF:-1 group-title="Deportivos",ESPN 2 MX
 http://flash.shortgod.com/wadsa/tv7.php?id=36393
-#EXTINF:-1,DEP | ESPN 2 MX HD
+#EXTINF:-1 group-title="Deportivos",ESPN 2 MX HD
 http://flash.shortgod.com/wadsa/tv7.php?id=36391
-#EXTINF:-1,DEP | ESPN 2 FHD NORTE
+#EXTINF:-1 group-title="Deportivos",ESPN 2 FHD NORTE
 http://flash.shortgod.com/wadsa/tv7.php?id=185149
-#EXTINF:-1,DEP | ESPN 3  AR HD
+#EXTINF:-1 group-title="Deportivos",ESPN 3  AR HD
 http://flash.shortgod.com/wadsa/tv7.php?id=21220
-#EXTINF:-1,DEP | ESPN 3  MX
+#EXTINF:-1 group-title="Deportivos",ESPN 3  MX
 http://flash.shortgod.com/wadsa/tv7.php?id=9530
-#EXTINF:-1,DEP | ESPN 3 AR
+#EXTINF:-1 group-title="Deportivos",ESPN 3 AR
 http://flash.shortgod.com/wadsa/tv7.php?id=19459
-#EXTINF:-1,DEP | ESPN 3 FHD SUR
+#EXTINF:-1 group-title="Deportivos",ESPN 3 FHD SUR
 http://flash.shortgod.com/wadsa/tv7.php?id=185665
-#EXTINF:-1,DEP | ESPN 3 FHD NORTE
+#EXTINF:-1 group-title="Deportivos",ESPN 3 FHD NORTE
 http://flash.shortgod.com/wadsa/tv7.php?id=40735
-#EXTINF:-1,DEP | ESPN 3 MX HD  ►℗
+#EXTINF:-1 group-title="Deportivos",ESPN 3 MX HD  ►℗
 http://flash.shortgod.com/wadsa/tv7.php?id=186774
-#EXTINF:-1,DEP | ESPN 4 FHD SUR
+#EXTINF:-1 group-title="Deportivos",ESPN 4 FHD SUR
 http://flash.shortgod.com/wadsa/tv7.php?id=224430
-#EXTINF:-1,DEP | ESPN Deportes SD
+#EXTINF:-1 group-title="Deportivos",ESPN Deportes SD
 http://flash.shortgod.com/wadsa/tv7.php?id=54094
-#EXTINF:-1,DEP | ESPN Extra BRA
+#EXTINF:-1 group-title="Deportivos",ESPN Extra BRA
 http://flash.shortgod.com/wadsa/tv7.php?id=168997
-#EXTINF:-1,DEP | FOX Deportes
+#EXTINF:-1 group-title="Deportivos",FOX Deportes
 http://flash.shortgod.com/wadsa/tv7.php?id=36396
-#EXTINF:-1,DEP | FOX Sports 1 SUR  FHD
+#EXTINF:-1 group-title="Deportivos",FOX Sports 1 SUR  FHD
 http://flash.shortgod.com/wadsa/tv7.php?id=36387
-#EXTINF:-1,DEP | FOX Sports 2 AR HD ►℗
+#EXTINF:-1 group-title="Deportivos",FOX Sports 2 AR HD ►℗
 http://flash.shortgod.com/wadsa/tv7.php?id=19652
-#EXTINF:-1,DEP | FOX Sports 2 HD BRA
+#EXTINF:-1 group-title="Deportivos",FOX Sports 2 HD BRA
 http://flash.shortgod.com/wadsa/tv7.php?id=48540
-#EXTINF:-1,DEP | FOX Sports 2 FHD NORTE
+#EXTINF:-1 group-title="Deportivos",FOX Sports 2 FHD NORTE
 http://flash.shortgod.com/wadsa/tv7.php?id=186573
-#EXTINF:-1,DEP | FOX Sports 2 MX HD
+#EXTINF:-1 group-title="Deportivos",FOX Sports 2 MX HD
 http://flash.shortgod.com/wadsa/tv7.php?id=19495
-#EXTINF:-1,DEP | FOX Sports 2 SD SUR
+#EXTINF:-1 group-title="Deportivos",FOX Sports 2 SD SUR
 http://flash.shortgod.com/wadsa/tv7.php?id=185155
-#EXTINF:-1,DEP | FOX Sports 3 AR HD ►℗
+#EXTINF:-1 group-title="Deportivos",FOX Sports 3 AR HD ►℗
 http://flash.shortgod.com/wadsa/tv7.php?id=19496
-#EXTINF:-1,DEP | FOX Sports 3 HD MX
+#EXTINF:-1 group-title="Deportivos",FOX Sports 3 HD MX
 http://flash.shortgod.com/wadsa/tv7.php?id=9538
-#EXTINF:-1,DEP | FOX Sports 3 SUR FHD
+#EXTINF:-1 group-title="Deportivos",FOX Sports 3 SUR FHD
 http://flash.shortgod.com/wadsa/tv7.php?id=36389
-#EXTINF:-1,DEP | FOX Sports 3 FHD NORTE
+#EXTINF:-1 group-title="Deportivos",FOX Sports 3 FHD NORTE
 http://flash.shortgod.com/wadsa/tv7.php?id=93563
-#EXTINF:-1,DEP | ESPN Premium HD AR
+#EXTINF:-1 group-title="Deportivos",ESPN Premium HD AR
 http://flash.shortgod.com/wadsa/tv7.php?id=215252
-#EXTINF:-1,DEP | FOX Sports Premium op2
+#EXTINF:-1 group-title="Deportivos",FOX Sports Premium op2
 http://flash.shortgod.com/wadsa/tv7.php?id=21298
-#EXTINF:-1,DEP | GOL TV @
+#EXTINF:-1 group-title="Deportivos",GOL TV @
 http://flash.shortgod.com/wadsa/tv7.php?id=51263
-#EXTINF:-1,DEP | Premiere 1 HD BRA
+#EXTINF:-1 group-title="Deportivos",Premiere 1 HD BRA
 http://flash.shortgod.com/wadsa/tv7.php?id=56720
-#EXTINF:-1,DEP | Premiere 3  BRA
+#EXTINF:-1 group-title="Deportivos",Premiere 3  BRA
 http://flash.shortgod.com/wadsa/tv7.php?id=49111
-#EXTINF:-1,DEP | Premiere 5 HD BRA
+#EXTINF:-1 group-title="Deportivos",Premiere 5 HD BRA
 http://flash.shortgod.com/wadsa/tv7.php?id=56716
-#EXTINF:-1,DEP | Premiere 6 BRA
+#EXTINF:-1 group-title="Deportivos",Premiere 6 BRA
 http://flash.shortgod.com/wadsa/tv7.php?id=56717
-#EXTINF:-1,DEP | Premiere 7 BRA
+#EXTINF:-1 group-title="Deportivos",Premiere 7 BRA
 http://flash.shortgod.com/wadsa/tv7.php?id=56718
-#EXTINF:-1,DEP | SKY Sports 16 HD
+#EXTINF:-1 group-title="Deportivos",SKY Sports 16 HD
 http://flash.shortgod.com/wadsa/tv7.php?id=149063
-#EXTINF:-1,DEP | SKY Sports 24 HD
+#EXTINF:-1 group-title="Deportivos",SKY Sports 24 HD
 http://flash.shortgod.com/wadsa/tv7.php?id=149064
-#EXTINF:-1,DEP | SporTV 2 HD BRA
+#EXTINF:-1 group-title="Deportivos",SporTV 2 HD BRA
 http://flash.shortgod.com/wadsa/tv7.php?id=48547
-#EXTINF:-1,DEP | SporTV 3 HD BRA
+#EXTINF:-1 group-title="Deportivos",SporTV 3 HD BRA
 http://flash.shortgod.com/wadsa/tv7.php?id=48548
-#EXTINF:-1,DEP | TNT Sports AR
+#EXTINF:-1 group-title="Deportivos",TNT Sports AR
 http://flash.shortgod.com/wadsa/tv7.php?id=211363
-#EXTINF:-1,DEP | TNT Sports ARG
+#EXTINF:-1 group-title="Deportivos",TNT Sports ARG
 http://flash.shortgod.com/wadsa/tv7.php?id=36424
-#EXTINF:-1,DEP | TNT Sports 3 HD
+#EXTINF:-1 group-title="Deportivos",TNT Sports 3 HD
 http://flash.shortgod.com/wadsa/tv7.php?id=19638
-#EXTINF:-1,DEP | TUDN HD USA  ►℗
+#EXTINF:-1 group-title="Deportivos",TUDN HD USA  ►℗
 http://flash.shortgod.com/wadsa/tv7.php?id=185148
-#EXTINF:-1,DEP | TUDN USA FHD
+#EXTINF:-1 group-title="Deportivos",TUDN USA FHD
 http://flash.shortgod.com/wadsa/tv7.php?id=242045
-#EXTINF:-1,DEP | TUDN USA
+#EXTINF:-1 group-title="Deportivos",TUDN USA
 http://flash.shortgod.com/wadsa/tv7.php?id=166029
-#EXTINF:-1,DEP | TyC Sport SD
+#EXTINF:-1 group-title="Deportivos",TyC Sport SD
 http://flash.shortgod.com/wadsa/tv7.php?id=21222
-#EXTINF:-1,DEP | TyC Sport  FHD
+#EXTINF:-1 group-title="Deportivos",TyC Sport  FHD
 http://flash.shortgod.com/wadsa/tv7.php?id=19461
-#EXTINF:-1,DEP | TYC Sports Internacional HD
+#EXTINF:-1 group-title="Deportivos",TYC Sports Internacional HD
 http://flash.shortgod.com/wadsa/tv7.php?id=188939
-#EXTINF:-1,DEP | VTV Plus URU HD
+#EXTINF:-1 group-title="Deportivos",VTV Plus URU HD
 http://flash.shortgod.com/wadsa/tv7.php?id=186609
 #EXTINF:-1,La Bamba (1987)
 http://home-playtv.com:8080/movie/nubetv/HMqkDZZF6r/165260.mkv
@@ -175,31 +175,31 @@ http://home-playtv.com:8080/movie/nubetv/HMqkDZZF6r/165260.mkv
 http://home-playtv.com:8080/movie/nubetv/HMqkDZZF6r/200530.mp4
 #EXTINF:-1,THE REQUIN (2022)
 http://home-playtv.com:8080/movie/nubetv/HMqkDZZF6r/241352.mkv
-#EXTINF:-1,DEP | FOX Sports 1 SD sur
+#EXTINF:-1 group-title="Deportivos",FOX Sports 1 SD sur
 http://flash.shortgod.com/wadsa/tv7.php?id=272265
-#EXTINF:-1,DEP | FOX Sports 1 COL  HD
+#EXTINF:-1 group-title="Deportivos",FOX Sports 1 COL  HD
 http://flash.shortgod.com/wadsa/tv7.php?id=272266
-#EXTINF:-1,DEP | FOX Sports 3 SD SUR
+#EXTINF:-1 group-title="Deportivos",FOX Sports 3 SD SUR
 http://flash.shortgod.com/wadsa/tv7.php?id=272269
-#EXTINF:-1,DEP | ESPN 1 FHD NORTE
+#EXTINF:-1 group-title="Deportivos",ESPN 1 FHD NORTE
 http://flash.shortgod.com/wadsa/tv7.php?id=272499
 #EXTINF:-1,ESPN PREMIUM FHD
 http://flash.shortgod.com/wadsa/tv7.php?id=276163
-#EXTINF:-1,USA | TUDN mexico SD
+#EXTINF:-1 group-title="USA",TUDN mexico SD
 http://flash.shortgod.com/wadsa/tv7.php?id=218637
 #EXTINF:-1,SUPERSPORT TENNIS
 http://flash.shortgod.com/wadsa/tv7.php?id=469491
 #EXTINF:-1,TELEMUNDO HOUSTON
 http://flash.shortgod.com/wadsa/tv7.php?id=435161
-#EXTINF:-1,US: NICK JR WEST
+#EXTINF:-1 group-title="USA",NICK JR WEST
 http://flash.shortgod.com/wadsa/tv7.php?id=276197
-#EXTINF:-1,US: NICKTOONS
+#EXTINF:-1 group-title="USA",NICKTOONS
 http://flash.shortgod.com/wadsa/tv7.php?id=276198
-#EXTINF:-1,US: BABY FIRST
+#EXTINF:-1 group-title="USA",BABY FIRST
 http://flash.shortgod.com/wadsa/tv7.php?id=276200
-#EXTINF:-1,USA: Disney HD
+#EXTINF:-1 group-title="USA",Disney HD
 http://flash.shortgod.com/wadsa/tv7.php?id=276210
-#EXTINF:-1,USA: Nick Music
+#EXTINF:-1 group-title="USA",Nick Music
 http://flash.shortgod.com/wadsa/tv7.php?id=276212
 #EXTINF:-1,NFL GAME 01
 http://flash.shortgod.com/wadsa/tv7.php?id=415345
@@ -255,11 +255,11 @@ http://flash.shortgod.com/wadsa/tv7.php?id=440269
 http://flash.shortgod.com/wadsa/tv7.php?id=440702
 #EXTINF:-1,NFL Network  HD
 http://flash.shortgod.com/wadsa/tv7.php?id=462335
-#EXTINF:-1,MOV | MOVISTAR CINEDOC&ROLL HD
+#EXTINF:-1 group-title="Movistar",MOVISTAR CINEDOC&ROLL HD
 http://flash.shortgod.com/wadsa/tv7.php?id=40697
-#EXTINF:-1,MOV | MOVISTAR DCINE Ñ  SD
+#EXTINF:-1 group-title="Movistar",MOVISTAR DCINE Ñ  SD
 http://flash.shortgod.com/wadsa/tv7.php?id=40700
-#EXTINF:-1,MOV | MOVISTAR Disney + FHD
+#EXTINF:-1 group-title="Movistar",MOVISTAR Disney + FHD
 http://flash.shortgod.com/wadsa/tv7.php?id=40696
 #EXTINF:-1,MOVISTAR  0#
 http://flash.shortgod.com/wadsa/tv7.php?id=59530
@@ -285,7 +285,7 @@ http://flash.shortgod.com/wadsa/tv7.php?id=54154
 http://flash.shortgod.com/wadsa/tv7.php?id=53185
 #EXTINF:-1,ET | NBC
 http://flash.shortgod.com/wadsa/tv7.php?id=71868
-#EXTINF:-1,INF | Nickelodeon SD
+#EXTINF:-1 group-title="Infantiles",Nickelodeon SD
 http://flash.shortgod.com/wadsa/tv7.php?id=9576
 #EXTINF:-1,ET | Oxygen
 http://flash.shortgod.com/wadsa/tv7.php?id=10566
@@ -347,9 +347,9 @@ http://flash.shortgod.com/wadsa/tv7.php?id=54397
 http://flash.shortgod.com/wadsa/tv7.php?id=47610
 #EXTINF:-1,PR | Wapa HD
 http://flash.shortgod.com/wadsa/tv7.php?id=169593
-#EXTINF:-1,EN | Warner TV HD @
+#EXTINF:-1 group-title="Entretenimiento",Warner TV HD @
 http://flash.shortgod.com/wadsa/tv7.php?id=53044
-#EXTINF:-1,EN | NBC Universo
+#EXTINF:-1 group-title="Entretenimiento",NBC Universo
 http://flash.shortgod.com/wadsa/tv7.php?id=185096
 #EXTINF:-1,CINE | Universal Comedy FHD
 http://flash.shortgod.com/wadsa/tv7.php?id=185166
@@ -375,7 +375,7 @@ http://flash.shortgod.com/wadsa/tv7.php?id=199189
 http://flash.shortgod.com/wadsa/tv7.php?id=199201
 #EXTINF:-1,CINE | Sony
 http://flash.shortgod.com/wadsa/tv7.php?id=199523
-#EXTINF:-1,EN | NBC Universo
+#EXTINF:-1 group-title="Entretenimiento",NBC Universo
 http://flash.shortgod.com/wadsa/tv7.php?id=199524
 #EXTINF:-1,CINE | HORRORIFY US @
 http://flash.shortgod.com/wadsa/tv7.php?id=199525
@@ -383,7 +383,7 @@ http://flash.shortgod.com/wadsa/tv7.php?id=199525
 http://flash.shortgod.com/wadsa/tv7.php?id=199527
 #EXTINF:-1,CINE | Top Cine @
 http://flash.shortgod.com/wadsa/tv7.php?id=199528
-#EXTINF:-1,ES | #0 @
+#EXTINF:-1 group-title="España",#0 @
 http://flash.shortgod.com/wadsa/tv7.php?id=199529
 #EXTINF:-1,MU | TeleHit Música
 http://flash.shortgod.com/wadsa/tv7.php?id=199531
@@ -417,7 +417,7 @@ http://flash.shortgod.com/wadsa/tv7.php?id=210686
 http://flash.shortgod.com/wadsa/tv7.php?id=203769
 #EXTINF:-1,CINE | STAR Channel FHD NORTE
 http://flash.shortgod.com/wadsa/tv7.php?id=198736
-#EXTINF:-1,ES |  A3Series Internacional
+#EXTINF:-1 group-title="España", A3Series Internacional
 http://flash.shortgod.com/wadsa/tv7.php?id=214242
 #EXTINF:-1,G.I. Joe: Snake Eyes (2021)LAT
 http://home-playtv.com:8080/movie/nubetv/HMqkDZZF6r/216151.mkv
@@ -429,7 +429,7 @@ http://flash.shortgod.com/wadsa/tv7.php?id=242080
 http://flash.shortgod.com/wadsa/tv7.php?id=259316
 #EXTINF:-1,AR | Telefé Internacional HD
 http://flash.shortgod.com/wadsa/tv7.php?id=259317
-#EXTINF:-1,DEP | Barca TV HD
+#EXTINF:-1 group-title="Deportivos",Barca TV HD
 http://flash.shortgod.com/wadsa/tv7.php?id=33519
 #EXTINF:-1,MOVISTAR GOLF HD
 http://flash.shortgod.com/wadsa/tv7.php?id=33526
@@ -479,87 +479,87 @@ http://flash.shortgod.com/wadsa/tv7.php?id=214970
 http://flash.shortgod.com/wadsa/tv7.php?id=220992
 #EXTINF:-1,PE | Movistar PlUS
 http://flash.shortgod.com/wadsa/tv7.php?id=230754
-#EXTINF:-1,EN | Kanal D Drama FHD ⭐️
+#EXTINF:-1 group-title="Entretenimiento",Kanal D Drama FHD ⭐️
 http://flash.shortgod.com/wadsa/tv7.php?id=183185
-#EXTINF:-1,EN | A3 Series
+#EXTINF:-1 group-title="Entretenimiento",A3 Series
 http://flash.shortgod.com/wadsa/tv7.php?id=211198
-#EXTINF:-1,INF | Baby First
+#EXTINF:-1 group-title="Infantiles",Baby First
 http://flash.shortgod.com/wadsa/tv7.php?id=9419
-#EXTINF:-1,INF | Nick 2
+#EXTINF:-1 group-title="Infantiles",Nick 2
 http://flash.shortgod.com/wadsa/tv7.php?id=9424
-#EXTINF:-1,INF | Discovery Kids FHD NORTE
+#EXTINF:-1 group-title="Infantiles",Discovery Kids FHD NORTE
 http://flash.shortgod.com/wadsa/tv7.php?id=9426
-#EXTINF:-1,INF | Cartoon Network SD
+#EXTINF:-1 group-title="Infantiles",Cartoon Network SD
 http://flash.shortgod.com/wadsa/tv7.php?id=19458
-#EXTINF:-1,INF | Cartoonito SD
+#EXTINF:-1 group-title="Infantiles",Cartoonito SD
 http://flash.shortgod.com/wadsa/tv7.php?id=19474
-#EXTINF:-1,INF | Tooncast
+#EXTINF:-1 group-title="Infantiles",Tooncast
 http://flash.shortgod.com/wadsa/tv7.php?id=19567
-#EXTINF:-1,INF | Discovery Kids SD
+#EXTINF:-1 group-title="Infantiles",Discovery Kids SD
 http://flash.shortgod.com/wadsa/tv7.php?id=36459
-#EXTINF:-1,INF | Cartoon Network  HD
+#EXTINF:-1 group-title="Infantiles",Cartoon Network  HD
 http://flash.shortgod.com/wadsa/tv7.php?id=54404
-#EXTINF:-1,INF | Cartoonito
+#EXTINF:-1 group-title="Infantiles",Cartoonito
 http://flash.shortgod.com/wadsa/tv7.php?id=54405
-#EXTINF:-1,INF | Baby TV SD
+#EXTINF:-1 group-title="Infantiles",Baby TV SD
 http://flash.shortgod.com/wadsa/tv7.php?id=56214
-#EXTINF:-1,INF | Boing HD
+#EXTINF:-1 group-title="Infantiles",Boing HD
 http://flash.shortgod.com/wadsa/tv7.php?id=186608
-#EXTINF:-1,INF | Cartoon Network FHD NORTE
+#EXTINF:-1 group-title="Infantiles",Cartoon Network FHD NORTE
 http://flash.shortgod.com/wadsa/tv7.php?id=211218
-#EXTINF:-1,INF | Disney Channel SD
+#EXTINF:-1 group-title="Infantiles",Disney Channel SD
 http://flash.shortgod.com/wadsa/tv7.php?id=211237
-#EXTINF:-1,INF | Disney JR
+#EXTINF:-1 group-title="Infantiles",Disney JR
 http://flash.shortgod.com/wadsa/tv7.php?id=211238
-#EXTINF:-1,INF | Nick JR SD
+#EXTINF:-1 group-title="Infantiles",Nick JR SD
 http://flash.shortgod.com/wadsa/tv7.php?id=211305
-#EXTINF:-1,INF | Disney Junior FHD
+#EXTINF:-1 group-title="Infantiles",Disney Junior FHD
 http://flash.shortgod.com/wadsa/tv7.php?id=225866
-#EXTINF:-1,INF | Nick Jr HD
+#EXTINF:-1 group-title="Infantiles",Nick Jr HD
 http://flash.shortgod.com/wadsa/tv7.php?id=242022
-#EXTINF:-1,EN | Hola TV FHD
+#EXTINF:-1 group-title="Entretenimiento",Hola TV FHD
 http://flash.shortgod.com/wadsa/tv7.php?id=9397
-#EXTINF:-1,EN | FX SD
+#EXTINF:-1 group-title="Entretenimiento",FX SD
 http://flash.shortgod.com/wadsa/tv7.php?id=9546
-#EXTINF:-1,EN | TNT Series FHD SUR
+#EXTINF:-1 group-title="Entretenimiento",TNT Series FHD SUR
 http://flash.shortgod.com/wadsa/tv7.php?id=9560
-#EXTINF:-1,EN | Tru TV
+#EXTINF:-1 group-title="Entretenimiento",Tru TV
 http://flash.shortgod.com/wadsa/tv7.php?id=19466
-#EXTINF:-1,EN | El Garage SD
+#EXTINF:-1 group-title="Entretenimiento",El Garage SD
 http://flash.shortgod.com/wadsa/tv7.php?id=19529
-#EXTINF:-1,EN | Quiero Música
+#EXTINF:-1 group-title="Entretenimiento",Quiero Música
 http://flash.shortgod.com/wadsa/tv7.php?id=19557
-#EXTINF:-1,EN | Food Network  FHD SUR
+#EXTINF:-1 group-title="Entretenimiento",Food Network  FHD SUR
 http://flash.shortgod.com/wadsa/tv7.php?id=19583
-#EXTINF:-1,EN | Estrella TV
+#EXTINF:-1 group-title="Entretenimiento",Estrella TV
 http://flash.shortgod.com/wadsa/tv7.php?id=51169
-#EXTINF:-1,EN | Sony Channel HD
+#EXTINF:-1 group-title="Entretenimiento",Sony Channel HD
 http://flash.shortgod.com/wadsa/tv7.php?id=53039
-#EXTINF:-1,EN | Warner TV FHD NORTE
+#EXTINF:-1 group-title="Entretenimiento",Warner TV FHD NORTE
 http://flash.shortgod.com/wadsa/tv7.php?id=53040
-#EXTINF:-1,EN | Glitz
+#EXTINF:-1 group-title="Entretenimiento",Glitz
 http://flash.shortgod.com/wadsa/tv7.php?id=54399
-#EXTINF:-1,EN | FX HD
+#EXTINF:-1 group-title="Entretenimiento",FX HD
 http://flash.shortgod.com/wadsa/tv7.php?id=167656
-#EXTINF:-1,EN | El Gourmet HD
+#EXTINF:-1 group-title="Entretenimiento",El Gourmet HD
 http://flash.shortgod.com/wadsa/tv7.php?id=186629
-#EXTINF:-1,EN | Antena 3 INTERNACIONAL
+#EXTINF:-1 group-title="Entretenimiento",Antena 3 INTERNACIONAL
 http://flash.shortgod.com/wadsa/tv7.php?id=211202
-#EXTINF:-1,EN | Sony SD
+#EXTINF:-1 group-title="Entretenimiento",Sony SD
 http://flash.shortgod.com/wadsa/tv7.php?id=211310
-#EXTINF:-1,EN | Comedy Central FHD
+#EXTINF:-1 group-title="Entretenimiento",Comedy Central FHD
 http://flash.shortgod.com/wadsa/tv7.php?id=241997
-#EXTINF:-1,EN | E! Entertaiment FHD NORTE
+#EXTINF:-1 group-title="Entretenimiento",E! Entertaiment FHD NORTE
 http://flash.shortgod.com/wadsa/tv7.php?id=241998
-#EXTINF:-1,EN | FX FHD
+#EXTINF:-1 group-title="Entretenimiento",FX FHD
 http://flash.shortgod.com/wadsa/tv7.php?id=242001
-#EXTINF:-1,EN | Lifetime  FHD
+#EXTINF:-1 group-title="Entretenimiento",Lifetime  FHD
 http://flash.shortgod.com/wadsa/tv7.php?id=242002
-#EXTINF:-1,EN | Unicable FHD
+#EXTINF:-1 group-title="Entretenimiento",Unicable FHD
 http://flash.shortgod.com/wadsa/tv7.php?id=242004
-#EXTINF:-1,EN | Pasiones
+#EXTINF:-1 group-title="Entretenimiento",Pasiones
 http://flash.shortgod.com/wadsa/tv7.php?id=242017
-#EXTINF:-1,EN | E! Entertainment FHD SUR
+#EXTINF:-1 group-title="Entretenimiento",E! Entertainment FHD SUR
 http://flash.shortgod.com/wadsa/tv7.php?id=242054
 #EXTINF:-1,CO | Caracol Internacional
 http://flash.shortgod.com/wadsa/tv7.php?id=211350
@@ -741,7 +741,7 @@ http://flash.shortgod.com/wadsa/tv7.php?id=64395
 http://flash.shortgod.com/wadsa/tv7.php?id=77116
 #EXTINF:-1,CL |  Canal 13
 http://flash.shortgod.com/wadsa/tv7.php?id=77117
-#EXTINF:-1,DEP | TNT Sports FHD
+#EXTINF:-1 group-title="Deportivos",TNT Sports FHD
 http://flash.shortgod.com/wadsa/tv7.php?id=224369
 #EXTINF:-1,EC | TeleAmazonas FHD
 http://flash.shortgod.com/wadsa/tv7.php?id=12867
@@ -1129,27 +1129,27 @@ http://flash.shortgod.com/wadsa/tv7.php?id=236380
 http://flash.shortgod.com/wadsa/tv7.php?id=198741
 #EXTINF:-1,CINE | Claro Cinema
 http://flash.shortgod.com/wadsa/tv7.php?id=276307
-#EXTINF:-1,DEP | FOX Sports 2 SUR FHD ►℗
+#EXTINF:-1 group-title="Deportivos",FOX Sports 2 SUR FHD ►℗
 http://flash.shortgod.com/wadsa/tv7.php?id=186606
-#EXTINF:-1,DEP | FOX Sports Premium
+#EXTINF:-1 group-title="Deportivos",FOX Sports Premium
 http://flash.shortgod.com/wadsa/tv7.php?id=158454
-#EXTINF:-1,DEP | TVC Deportes HD
+#EXTINF:-1 group-title="Deportivos",TVC Deportes HD
 http://flash.shortgod.com/wadsa/tv7.php?id=36406
-#EXTINF:-1,DEP | ESPN EXTRA HD MX @
+#EXTINF:-1 group-title="Deportivos",ESPN EXTRA HD MX @
 http://flash.shortgod.com/wadsa/tv7.php?id=19485
 #EXTINF:-1 group-title="Culturales",Discovery Channel Lat
 http://flash.shortgod.com/wadsa/tv7.php?id=186572
-#EXTINF:-1,DEP | ESPN 2 AR SD  ►℗
+#EXTINF:-1 group-title="Deportivos",ESPN 2 AR SD  ►℗
 http://flash.shortgod.com/wadsa/tv7.php?id=220900
 #EXTINF:-1, Movistar Drama
 http://flash.shortgod.com/wadsa/tv7.php?id=53279
-#EXTINF:-1,EN | A&E HD
+#EXTINF:-1 group-title="Entretenimiento",A&E HD
 http://flash.shortgod.com/wadsa/tv7.php?id=9547
 #EXTINF:-1,ET | ABC
 http://flash.shortgod.com/wadsa/tv7.php?id=71862
 #EXTINF:-1 group-title="Culturales",Animal Planet
 http://flash.shortgod.com/wadsa/tv7.php?id=36479
-#EXTINF:-1,EN | Atreseries
+#EXTINF:-1 group-title="Entretenimiento",Atreseries
 http://flash.shortgod.com/wadsa/tv7.php?id=53059
 #EXTINF:-1 group-title="México",Azteca 7 SD
 http://flash.shortgod.com/wadsa/tv7.php?id=52965
@@ -1297,7 +1297,7 @@ http://flash.shortgod.com/wadsa/tv7.php?id=55815
 http://flash.shortgod.com/wadsa/tv7.php?id=52246
 #EXTINF:-1,ET | COMEDY CENTRAL
 http://flash.shortgod.com/wadsa/tv7.php?id=49090
-#EXTINF:-1,EN | Comedy Central
+#EXTINF:-1 group-title="Entretenimiento",Comedy Central
 http://flash.shortgod.com/wadsa/tv7.php?id=53049
 #EXTINF:-1,ET | COMET TV  HD
 http://flash.shortgod.com/wadsa/tv7.php?id=51473
@@ -1321,23 +1321,23 @@ http://flash.shortgod.com/wadsa/tv7.php?id=53222
 http://flash.shortgod.com/wadsa/tv7.php?id=53077
 #EXTINF:-1 group-title="Culturales",Discovery World SD
 http://flash.shortgod.com/wadsa/tv7.php?id=9516
-#EXTINF:-1,INF | Disney Channel FHD
+#EXTINF:-1 group-title="Infantiles",Disney Channel FHD
 http://flash.shortgod.com/wadsa/tv7.php?id=9421
 #EXTINF:-1,KD | Disney Channel EAST
 http://flash.shortgod.com/wadsa/tv7.php?id=181154
-#EXTINF:-1,INF | Disney Junior HD
+#EXTINF:-1 group-title="Infantiles",Disney Junior HD
 http://flash.shortgod.com/wadsa/tv7.php?id=53062
 #EXTINF:-1,KD | Disney Junior EAST
 http://flash.shortgod.com/wadsa/tv7.php?id=181155
 #EXTINF:-1,KD | Disney XD EAST
 http://flash.shortgod.com/wadsa/tv7.php?id=181156
-#EXTINF:-1,EN | Distrito Comedia SD
+#EXTINF:-1 group-title="Entretenimiento",Distrito Comedia SD
 http://flash.shortgod.com/wadsa/tv7.php?id=9565
-#EXTINF:-1,EN | Distrito Comedia HD
+#EXTINF:-1 group-title="Entretenimiento",Distrito Comedia HD
 http://flash.shortgod.com/wadsa/tv7.php?id=9412
 #EXTINF:-1,ET | E!
 http://flash.shortgod.com/wadsa/tv7.php?id=51171
-#EXTINF:-1,EN | E! Entertainment SD
+#EXTINF:-1 group-title="Entretenimiento",E! Entertainment SD
 http://flash.shortgod.com/wadsa/tv7.php?id=9405
 #EXTINF:-1,EC | RTU
 http://flash.shortgod.com/wadsa/tv7.php?id=118054
@@ -1345,127 +1345,127 @@ http://flash.shortgod.com/wadsa/tv7.php?id=118054
 http://flash.shortgod.com/wadsa/tv7.php?id=12788
 #EXTINF:-1,EC | Ecuavisa Internacional HD
 http://flash.shortgod.com/wadsa/tv7.php?id=118049
-#EXTINF:-1,EN | El Gourmet FHD
+#EXTINF:-1 group-title="Entretenimiento",El Gourmet FHD
 http://flash.shortgod.com/wadsa/tv7.php?id=9408
 #EXTINF:-1,ES  | Sundance
 http://flash.shortgod.com/wadsa/tv7.php?id=56229
-#EXTINF:-1,ES |   CANAL PANDA
+#EXTINF:-1 group-title="España",  CANAL PANDA
 http://flash.shortgod.com/wadsa/tv7.php?id=12741
-#EXTINF:-1,ES |  Baby tv
+#EXTINF:-1 group-title="España", Baby tv
 http://flash.shortgod.com/wadsa/tv7.php?id=56231
-#EXTINF:-1,ES | #0 FAMILIAR
+#EXTINF:-1 group-title="España",#0 FAMILIAR
 http://flash.shortgod.com/wadsa/tv7.php?id=56114
-#EXTINF:-1,EN | A3Series
+#EXTINF:-1 group-title="Entretenimiento",A3Series
 http://flash.shortgod.com/wadsa/tv7.php?id=171484
-#EXTINF:-1,ES | Alternativa TV
+#EXTINF:-1 group-title="España",Alternativa TV
 http://flash.shortgod.com/wadsa/tv7.php?id=56082
-#EXTINF:-1,ES | Amc HD
+#EXTINF:-1 group-title="España",Amc HD
 http://flash.shortgod.com/wadsa/tv7.php?id=54501
-#EXTINF:-1,ES | ANTENA 3
+#EXTINF:-1 group-title="España",ANTENA 3
 http://flash.shortgod.com/wadsa/tv7.php?id=54407
-#EXTINF:-1,ES | Axn HD
+#EXTINF:-1 group-title="España",Axn HD
 http://flash.shortgod.com/wadsa/tv7.php?id=54505
-#EXTINF:-1,ES | Axn White Hd
+#EXTINF:-1 group-title="España",Axn White Hd
 http://flash.shortgod.com/wadsa/tv7.php?id=54506
-#EXTINF:-1,ES | BEMAD
+#EXTINF:-1 group-title="España",BEMAD
 http://flash.shortgod.com/wadsa/tv7.php?id=56111
-#EXTINF:-1,ES | BLAZE
+#EXTINF:-1 group-title="España",BLAZE
 http://flash.shortgod.com/wadsa/tv7.php?id=59538
-#EXTINF:-1,ES | Boing
+#EXTINF:-1 group-title="España",Boing
 http://flash.shortgod.com/wadsa/tv7.php?id=56224
-#EXTINF:-1,ES | CALLE 13
+#EXTINF:-1 group-title="España",CALLE 13
 http://flash.shortgod.com/wadsa/tv7.php?id=56110
-#EXTINF:-1,ES | Clan
+#EXTINF:-1 group-title="España",Clan
 http://flash.shortgod.com/wadsa/tv7.php?id=56218
-#EXTINF:-1,ES | Comedy Central FHD
+#EXTINF:-1 group-title="España",Comedy Central FHD
 http://flash.shortgod.com/wadsa/tv7.php?id=54509
-#EXTINF:-1,ES | COSMOPOLITAN
+#EXTINF:-1 group-title="España",COSMOPOLITAN
 http://flash.shortgod.com/wadsa/tv7.php?id=56109
-#EXTINF:-1,ES | Crimen Investigacion SD
+#EXTINF:-1 group-title="España",Crimen Investigacion SD
 http://flash.shortgod.com/wadsa/tv7.php?id=54524
-#EXTINF:-1,ES | CUATRO
+#EXTINF:-1 group-title="España",CUATRO
 http://flash.shortgod.com/wadsa/tv7.php?id=54409
-#EXTINF:-1,ES | Decasa
+#EXTINF:-1 group-title="España",Decasa
 http://flash.shortgod.com/wadsa/tv7.php?id=56227
-#EXTINF:-1,ES | Disney Channel HD
+#EXTINF:-1 group-title="España",Disney Channel HD
 http://flash.shortgod.com/wadsa/tv7.php?id=54518
-#EXTINF:-1,ES | DISNEY JR
+#EXTINF:-1 group-title="España",DISNEY JR
 http://flash.shortgod.com/wadsa/tv7.php?id=56108
-#EXTINF:-1,ES | Divinity
+#EXTINF:-1 group-title="España",Divinity
 http://flash.shortgod.com/wadsa/tv7.php?id=54489
-#EXTINF:-1,ES | DKISS
+#EXTINF:-1 group-title="España",DKISS
 http://flash.shortgod.com/wadsa/tv7.php?id=59546
-#EXTINF:-1,ES | DMAX HD
+#EXTINF:-1 group-title="España",DMAX HD
 http://flash.shortgod.com/wadsa/tv7.php?id=117150
-#EXTINF:-1,ES | ENERGY
+#EXTINF:-1 group-title="España",ENERGY
 http://flash.shortgod.com/wadsa/tv7.php?id=56103
-#EXTINF:-1,ES | FDF FACTORIA DE FICCION
+#EXTINF:-1 group-title="España",FDF FACTORIA DE FICCION
 http://flash.shortgod.com/wadsa/tv7.php?id=54410
-#EXTINF:-1,ES | Fox HD
+#EXTINF:-1 group-title="España",Fox HD
 http://flash.shortgod.com/wadsa/tv7.php?id=54503
-#EXTINF:-1,ES | Fox life HD
+#EXTINF:-1 group-title="España",Fox life HD
 http://flash.shortgod.com/wadsa/tv7.php?id=54504
-#EXTINF:-1,ES | HISTORY
+#EXTINF:-1 group-title="España",HISTORY
 http://flash.shortgod.com/wadsa/tv7.php?id=56221
-#EXTINF:-1,ES | HOLLYWOOD / HOLLYWOOD PELICULAS
+#EXTINF:-1 group-title="España",HOLLYWOOD / HOLLYWOOD PELICULAS
 http://flash.shortgod.com/wadsa/tv7.php?id=56107
-#EXTINF:-1,ES | La 1 HD
+#EXTINF:-1 group-title="España",La 1 HD
 http://flash.shortgod.com/wadsa/tv7.php?id=54482
-#EXTINF:-1,ES | LA 2
+#EXTINF:-1 group-title="España",LA 2
 http://flash.shortgod.com/wadsa/tv7.php?id=56102
-#EXTINF:-1,ES | Logos TV
+#EXTINF:-1 group-title="España",Logos TV
 http://flash.shortgod.com/wadsa/tv7.php?id=56095
-#EXTINF:-1,ES | Mezzo
+#EXTINF:-1 group-title="España",Mezzo
 http://flash.shortgod.com/wadsa/tv7.php?id=56232
-#EXTINF:-1,ES | Movistar Seriemania
+#EXTINF:-1 group-title="España",Movistar Seriemania
 http://flash.shortgod.com/wadsa/tv7.php?id=47438
-#EXTINF:-1,ES | MTV España
+#EXTINF:-1 group-title="España",MTV España
 http://flash.shortgod.com/wadsa/tv7.php?id=56223
-#EXTINF:-1,ES | NAT GEO WILD HD
+#EXTINF:-1 group-title="España",NAT GEO WILD HD
 http://flash.shortgod.com/wadsa/tv7.php?id=56106
-#EXTINF:-1,ES | National Geographic HD
+#EXTINF:-1 group-title="España",National Geographic HD
 http://flash.shortgod.com/wadsa/tv7.php?id=54520
-#EXTINF:-1,ES | NEOX
+#EXTINF:-1 group-title="España",NEOX
 http://flash.shortgod.com/wadsa/tv7.php?id=53252
-#EXTINF:-1,ES | Nick Jr
+#EXTINF:-1 group-title="España",Nick Jr
 http://flash.shortgod.com/wadsa/tv7.php?id=54517
-#EXTINF:-1,ES | Nickelodeon HD
+#EXTINF:-1 group-title="España",Nickelodeon HD
 http://flash.shortgod.com/wadsa/tv7.php?id=54516
-#EXTINF:-1,ES | NOVA
+#EXTINF:-1 group-title="España",NOVA
 http://flash.shortgod.com/wadsa/tv7.php?id=53251
-#EXTINF:-1,ES | ODISEA
+#EXTINF:-1 group-title="España",ODISEA
 http://flash.shortgod.com/wadsa/tv7.php?id=56105
-#EXTINF:-1,ES | Paramount
+#EXTINF:-1 group-title="España",Paramount
 http://flash.shortgod.com/wadsa/tv7.php?id=56222
-#EXTINF:-1,ES | SEXTA
+#EXTINF:-1 group-title="España",SEXTA
 http://flash.shortgod.com/wadsa/tv7.php?id=54411
-#EXTINF:-1,ES | Syfy HD
+#EXTINF:-1 group-title="España",Syfy HD
 http://flash.shortgod.com/wadsa/tv7.php?id=54502
-#EXTINF:-1,ES | Tcm HD
+#EXTINF:-1 group-title="España",Tcm HD
 http://flash.shortgod.com/wadsa/tv7.php?id=54514
-#EXTINF:-1,ES | Telecinco HD
+#EXTINF:-1 group-title="España",Telecinco HD
 http://flash.shortgod.com/wadsa/tv7.php?id=54483
-#EXTINF:-1,ES | Telemax
+#EXTINF:-1 group-title="España",Telemax
 http://flash.shortgod.com/wadsa/tv7.php?id=56090
-#EXTINF:-1,ES | TeleRibera
+#EXTINF:-1 group-title="España",TeleRibera
 http://flash.shortgod.com/wadsa/tv7.php?id=56097
-#EXTINF:-1,ES | Tnt HD
+#EXTINF:-1 group-title="España",Tnt HD
 http://flash.shortgod.com/wadsa/tv7.php?id=54507
-#EXTINF:-1,ES | TVE Internacional
+#EXTINF:-1 group-title="España",TVE Internacional
 http://flash.shortgod.com/wadsa/tv7.php?id=171486
-#EXTINF:-1,ES | TVG
+#EXTINF:-1 group-title="España",TVG
 http://flash.shortgod.com/wadsa/tv7.php?id=56070
-#EXTINF:-1,ES | TVG América
+#EXTINF:-1 group-title="España",TVG América
 http://flash.shortgod.com/wadsa/tv7.php?id=56072
-#EXTINF:-1,ES | TVG Cultura HD
+#EXTINF:-1 group-title="España",TVG Cultura HD
 http://flash.shortgod.com/wadsa/tv7.php?id=56092
-#EXTINF:-1,ES | TVG Infantil
+#EXTINF:-1 group-title="España",TVG Infantil
 http://flash.shortgod.com/wadsa/tv7.php?id=56069
-#EXTINF:-1,ES | TVG Musigal HD
+#EXTINF:-1 group-title="España",TVG Musigal HD
 http://flash.shortgod.com/wadsa/tv7.php?id=56091
-#EXTINF:-1,ES | Viajar
+#EXTINF:-1 group-title="España",Viajar
 http://flash.shortgod.com/wadsa/tv7.php?id=56230
-#EXTINF:-1,ES | XTRM HD
+#EXTINF:-1 group-title="España",XTRM HD
 http://flash.shortgod.com/wadsa/tv7.php?id=59535
 #EXTINF:-1,ESPN 2 HD
 http://flash.shortgod.com/wadsa/tv7.php?id=54531
