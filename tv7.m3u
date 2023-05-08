@@ -361,7 +361,7 @@ http://flash.shortgod.com/wadsa/tv7.php?id=185170
 http://flash.shortgod.com/wadsa/tv7.php?id=185172
 #EXTINF:-1,CINE | HBO Xtreme FHD
 http://flash.shortgod.com/wadsa/tv7.php?id=185175
-#EXTINF:-1,MX Milenio TV HD
+#EXTINF:-1 group-title="México",Milenio TV HD
 http://flash.shortgod.com/wadsa/tv7.php?id=53104
 #EXTINF:-1,CINE | Golden SD
 http://flash.shortgod.com/wadsa/tv7.php?id=9504
@@ -391,7 +391,7 @@ http://flash.shortgod.com/wadsa/tv7.php?id=199531
 http://flash.shortgod.com/wadsa/tv7.php?id=198755
 #EXTINF:-1,CINE | Universal Premiere FHD SUR
 http://flash.shortgod.com/wadsa/tv7.php?id=198730
-#EXTINF:-1,MX Canal 5
+#EXTINF:-1 group-title="México",Canal 5
 http://flash.shortgod.com/wadsa/tv7.php?id=186607
 #EXTINF:-1,CUL | History SD
 http://flash.shortgod.com/wadsa/tv7.php?id=186570
@@ -399,7 +399,7 @@ http://flash.shortgod.com/wadsa/tv7.php?id=186570
 http://flash.shortgod.com/wadsa/tv7.php?id=185178
 #EXTINF:-1,CUL | Investigation Discovery SD
 http://flash.shortgod.com/wadsa/tv7.php?id=36458
-#EXTINF:-1,MX Azteca Uno
+#EXTINF:-1 group-title="México",Azteca Uno
 http://flash.shortgod.com/wadsa/tv7.php?id=9599
 #EXTINF:-1,CUL | Animal Planet HD
 http://flash.shortgod.com/wadsa/tv7.php?id=9517
@@ -563,71 +563,71 @@ http://flash.shortgod.com/wadsa/tv7.php?id=242017
 http://flash.shortgod.com/wadsa/tv7.php?id=242054
 #EXTINF:-1,CO | Caracol Internacional
 http://flash.shortgod.com/wadsa/tv7.php?id=211350
-#EXTINF:-1,MX BitMe SD group-title="🇲🇽 México" 
+#EXTINF:-1 group-title="México",BitMe SD group-title="🇲🇽 México" 
 http://flash.shortgod.com/wadsa/tv7.php?id=9430
-#EXTINF:-1,MX Canal de Las Estrellas FHD
+#EXTINF:-1 group-title="México",Canal de Las Estrellas FHD
 http://flash.shortgod.com/wadsa/tv7.php?id=9439
-#EXTINF:-1,MX Ingenio TV SD
+#EXTINF:-1 group-title="México",Ingenio TV SD
 http://flash.shortgod.com/wadsa/tv7.php?id=9457
-#EXTINF:-1,MX AZ Clic!
+#EXTINF:-1 group-title="México",AZ Clic!
 http://flash.shortgod.com/wadsa/tv7.php?id=9463
-#EXTINF:-1,MX AYM Sports (R)
+#EXTINF:-1 group-title="México",AYM Sports (R)
 http://flash.shortgod.com/wadsa/tv7.php?id=9540
-#EXTINF:-1,MX Multimedios (K)
+#EXTINF:-1 group-title="México",Multimedios (K)
 http://flash.shortgod.com/wadsa/tv7.php?id=9603
-#EXTINF:-1,MX Teleformula
+#EXTINF:-1 group-title="México",Teleformula
 http://flash.shortgod.com/wadsa/tv7.php?id=9609
-#EXTINF:-1,MX Bandamax @
+#EXTINF:-1 group-title="México",Bandamax @
 http://flash.shortgod.com/wadsa/tv7.php?id=9621
-#EXTINF:-1,MX Azteca Mundo
+#EXTINF:-1 group-title="México",Azteca Mundo
 http://flash.shortgod.com/wadsa/tv7.php?id=50294
-#EXTINF:-1,MX Canal 10 Cancún (Q)
+#EXTINF:-1 group-title="México",Canal 10 Cancún (Q)
 http://flash.shortgod.com/wadsa/tv7.php?id=50297
-#EXTINF:-1,MX Multimedios Monterrey
+#EXTINF:-1 group-title="México",Multimedios Monterrey
 http://flash.shortgod.com/wadsa/tv7.php?id=50298
-#EXTINF:-1,MX Foro TV HD
+#EXTINF:-1 group-title="México",Foro TV HD
 http://flash.shortgod.com/wadsa/tv7.php?id=52964
-#EXTINF:-1,MX ADN 40
+#EXTINF:-1 group-title="México",ADN 40
 http://flash.shortgod.com/wadsa/tv7.php?id=52967
-#EXTINF:-1,MX Multimedios SD
+#EXTINF:-1 group-title="México",Multimedios SD
 http://flash.shortgod.com/wadsa/tv7.php?id=52969
-#EXTINF:-1,MX Mexiquense TV SD
+#EXTINF:-1 group-title="México",Mexiquense TV SD
 http://flash.shortgod.com/wadsa/tv7.php?id=53036
-#EXTINF:-1,MX AZ Corazon SD
+#EXTINF:-1 group-title="México",AZ Corazon SD
 http://flash.shortgod.com/wadsa/tv7.php?id=53052
-#EXTINF:-1,MX AZ Mundo SD
+#EXTINF:-1 group-title="México",AZ Mundo SD
 http://flash.shortgod.com/wadsa/tv7.php?id=53058
 #EXTINF:-1,group-title="🇲?? México" Excélsior TV
 http://flash.shortgod.com/wadsa/tv7.php?id=56215
-#EXTINF:-1,MX Canal 26
+#EXTINF:-1 group-title="México",Canal 26
 http://flash.shortgod.com/wadsa/tv7.php?id=56365
-#EXTINF:-1,MX Canal 8
+#EXTINF:-1 group-title="México",Canal 8
 http://flash.shortgod.com/wadsa/tv7.php?id=56367
-#EXTINF:-1,MX Justicia TV
+#EXTINF:-1 group-title="México",Justicia TV
 http://flash.shortgod.com/wadsa/tv7.php?id=56368
-#EXTINF:-1,MX Canal Once FHD
+#EXTINF:-1 group-title="México",Canal Once FHD
 http://flash.shortgod.com/wadsa/tv7.php?id=56369
-#EXTINF:-1,MX Televisa Monterrey
+#EXTINF:-1 group-title="México",Televisa Monterrey
 http://flash.shortgod.com/wadsa/tv7.php?id=67424
-#EXTINF:-1,MX Nu9ve
+#EXTINF:-1 group-title="México",Nu9ve
 http://flash.shortgod.com/wadsa/tv7.php?id=67449
-#EXTINF:-1,MX I-SAT
+#EXTINF:-1 group-title="México",I-SAT
 http://flash.shortgod.com/wadsa/tv7.php?id=69392
-#EXTINF:-1,MX AZ Mundo HD
+#EXTINF:-1 group-title="México",AZ Mundo HD
 http://flash.shortgod.com/wadsa/tv7.php?id=186631
-#EXTINF:-1,MX Azteca Uno - 2 HORAS
+#EXTINF:-1 group-title="México",Azteca Uno - 2 HORAS
 http://flash.shortgod.com/wadsa/tv7.php?id=217392
-#EXTINF:-1,MX Canal de Las Estrellas HD - 2 HORAS
+#EXTINF:-1 group-title="México",Canal de Las Estrellas HD - 2 HORAS
 http://flash.shortgod.com/wadsa/tv7.php?id=217393
-#EXTINF:-1,MX Canal de Las Estrellas HD
+#EXTINF:-1 group-title="México",Canal de Las Estrellas HD
 http://flash.shortgod.com/wadsa/tv7.php?id=236447
-#EXTINF:-1,MX Canal 5 HD
+#EXTINF:-1 group-title="México",Canal 5 HD
 http://flash.shortgod.com/wadsa/tv7.php?id=241991
-#EXTINF:-1,MX Azteca 7 FHD
+#EXTINF:-1 group-title="México",Azteca 7 FHD
 http://flash.shortgod.com/wadsa/tv7.php?id=241992
-#EXTINF:-1,MX Imagen Tv HD
+#EXTINF:-1 group-title="México",Imagen Tv HD
 http://flash.shortgod.com/wadsa/tv7.php?id=241993
-#EXTINF:-1,MX Foro TV FHD
+#EXTINF:-1 group-title="México",Foro TV FHD
 http://flash.shortgod.com/wadsa/tv7.php?id=241994
 #EXTINF:-1,MU | MTV FHD
 http://flash.shortgod.com/wadsa/tv7.php?id=242039
@@ -1151,7 +1151,7 @@ http://flash.shortgod.com/wadsa/tv7.php?id=71862
 http://flash.shortgod.com/wadsa/tv7.php?id=36479
 #EXTINF:-1,EN | Atreseries
 http://flash.shortgod.com/wadsa/tv7.php?id=53059
-#EXTINF:-1,MX Azteca 7 SD
+#EXTINF:-1 group-title="México",Azteca 7 SD
 http://flash.shortgod.com/wadsa/tv7.php?id=52965
 #EXTINF:-1,ET | BET FHD
 http://flash.shortgod.com/wadsa/tv7.php?id=181048
@@ -1165,7 +1165,7 @@ http://flash.shortgod.com/wadsa/tv7.php?id=49633
 http://flash.shortgod.com/wadsa/tv7.php?id=48959
 #EXTINF:-1,UY | Canal 12 HD
 http://flash.shortgod.com/wadsa/tv7.php?id=21826
-#EXTINF:-1,MX Canal 4 HD Guadalajara
+#EXTINF:-1 group-title="México",Canal 4 HD Guadalajara
 http://flash.shortgod.com/wadsa/tv7.php?id=165148
 #EXTINF:-1,KD | CARTOON NETWORK EAST
 http://flash.shortgod.com/wadsa/tv7.php?id=108646
@@ -1181,7 +1181,7 @@ http://flash.shortgod.com/wadsa/tv7.php?id=12919
 http://flash.shortgod.com/wadsa/tv7.php?id=48613
 #EXTINF:-1,CINE | AMC HD ARG
 http://flash.shortgod.com/wadsa/tv7.php?id=159149
-#EXTINF:-1,MX AZ Cinema HD (J)
+#EXTINF:-1 group-title="México",AZ Cinema HD (J)
 http://flash.shortgod.com/wadsa/tv7.php?id=9492
 #EXTINF:-1,CINE | Cine DC Film HD
 http://flash.shortgod.com/wadsa/tv7.php?id=159150
