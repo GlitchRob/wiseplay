@@ -255,23 +255,23 @@ http://flash.shortgod.com/wadsa/tv7.php?id=440269
 http://flash.shortgod.com/wadsa/tv7.php?id=440702
 #EXTINF:-1,NFL Network  HD
 http://flash.shortgod.com/wadsa/tv7.php?id=462335
-#EXTINF:-1 group-title="Movistar",MOVISTAR CINEDOC&ROLL HD
+#EXTINF:-1 group-title="Movistar"group-title="Movistar",Movistar CINEDOC&ROLL HD
 http://flash.shortgod.com/wadsa/tv7.php?id=40697
-#EXTINF:-1 group-title="Movistar",MOVISTAR DCINE Ñ  SD
+#EXTINF:-1 group-title="Movistar"group-title="Movistar",Movistar DCINE Ñ  SD
 http://flash.shortgod.com/wadsa/tv7.php?id=40700
-#EXTINF:-1 group-title="Movistar",MOVISTAR Disney + FHD
+#EXTINF:-1 group-title="Movistar"group-title="Movistar",Movistar Disney + FHD
 http://flash.shortgod.com/wadsa/tv7.php?id=40696
-#EXTINF:-1,MOVISTAR  0#
+#EXTINF:-1group-title="Movistar",Movistar  0#
 http://flash.shortgod.com/wadsa/tv7.php?id=59530
-#EXTINF:-1,MOVISTAR 0# FULL HD
+#EXTINF:-1group-title="Movistar",Movistar 0# FULL HD
 http://flash.shortgod.com/wadsa/tv7.php?id=59531
-#EXTINF:-1,MOVISTAR ACCI©N hd
+#EXTINF:-1group-title="Movistar",Movistar ACCI©N hd
 http://flash.shortgod.com/wadsa/tv7.php?id=59533
-#EXTINF:-1,MOVISTAR COMEDIA FHD
+#EXTINF:-1group-title="Movistar",Movistar COMEDIA FHD
 http://flash.shortgod.com/wadsa/tv7.php?id=53276
-#EXTINF:-1,Movistar Comedia SD
+#EXTINF:-1group-title="Movistar",Movistar Comedia SD
 http://flash.shortgod.com/wadsa/tv7.php?id=53280
-#EXTINF:-1,MOVISTAR SERIESMANIA HD
+#EXTINF:-1group-title="Movistar",Movistar SERIESMANIA HD
 http://flash.shortgod.com/wadsa/tv7.php?id=59536
 #EXTINF:-1,MU | MTV USA HD
 http://flash.shortgod.com/wadsa/tv7.php?id=53043
@@ -413,7 +413,7 @@ http://home-playtv.com:8080/movie/nubetv/HMqkDZZF6r/200366.mkv
 http://flash.shortgod.com/wadsa/tv7.php?id=210685
 #EXTINF:-1,RD | Super TV 55
 http://flash.shortgod.com/wadsa/tv7.php?id=210686
-#EXTINF:-1,MOVISTAR DEPORTES
+#EXTINF:-1group-title="Movistar",Movistar DEPORTES
 http://flash.shortgod.com/wadsa/tv7.php?id=203769
 #EXTINF:-1,CINE | STAR Channel FHD NORTE
 http://flash.shortgod.com/wadsa/tv7.php?id=198736
@@ -431,7 +431,7 @@ http://flash.shortgod.com/wadsa/tv7.php?id=259316
 http://flash.shortgod.com/wadsa/tv7.php?id=259317
 #EXTINF:-1 group-title="Deportivos",Barca TV HD
 http://flash.shortgod.com/wadsa/tv7.php?id=33519
-#EXTINF:-1,MOVISTAR GOLF HD
+#EXTINF:-1group-title="Movistar",Movistar GOLF HD
 http://flash.shortgod.com/wadsa/tv7.php?id=33526
 #EXTINF:-1,PE | Movistar Deportes SD
 http://flash.shortgod.com/wadsa/tv7.php?id=186611
@@ -1417,7 +1417,7 @@ http://flash.shortgod.com/wadsa/tv7.php?id=56102
 http://flash.shortgod.com/wadsa/tv7.php?id=56095
 #EXTINF:-1 group-title="España",Mezzo
 http://flash.shortgod.com/wadsa/tv7.php?id=56232
-#EXTINF:-1 group-title="España",Movistar Seriemania
+#EXTINF:-1 group-title="España"group-title="Movistar",Movistar Seriemania
 http://flash.shortgod.com/wadsa/tv7.php?id=47438
 #EXTINF:-1 group-title="España",MTV España
 http://flash.shortgod.com/wadsa/tv7.php?id=56223
