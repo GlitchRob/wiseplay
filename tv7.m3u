@@ -1,4 +1,4 @@
-#EXTM3U url="http://flash.shortgod.com/623/tv7.m3u"
+#EXTM3U
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zOiOeqG.png" group-title="Gratis",shortgod.com
 http://shortgod.com/canaldisponible.mp4
 #EXTINF:-1 group-title="Culturales",Animal Planet HD
