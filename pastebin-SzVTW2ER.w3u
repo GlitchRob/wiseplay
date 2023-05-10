@@ -1,0 +1,154 @@
+{
+"name": "DARK",
+"author": "iCatz",
+"telegram":"EntretenimientoWiseplay",
+"image":"https://image.tmdb.org/t/p/w185/apbrbWs8M9lyOpJYU5WXrpFbk1Z.jpg",
+"url": "https://pastebin.com/SzVTW2ER",
+"groups": [
+{
+"name": "Temporada 1",
+"image":"https://1.bp.blogspot.com/--2fnJFbwJPg/Wmam2vAeDeI/AAAAAAAABFM/-HAmpeHARIA0bTC570TB-RArIIAVuMQawCLcBGAs/s1600/da.jpg",
+"stations":[
+{
+"name":"Capitulo 1",
+"url":"https://api.mycdn.moe/video/DARK-1x01/",
+"embed":"true"
+},
+{
+"name":"Capitulo 2",
+"url":"https://api.mycdn.moe/video/DARK-1x02/",
+"embed":"true"
+},
+{
+"name":"Capitulo 3",
+"url":"https://api.mycdn.moe/video/DARK-1x03/",
+"embed":"true"
+},
+{
+"name":"Capitulo 4",
+"url":"https://api.mycdn.moe/video/DARK-1x04",
+"embed":"true"
+},
+{
+"name":"Capitulo 5",
+"url":"https://api.mycdn.moe/video/DARK-1x05",
+"embed":"true"
+},
+{
+"name":"Capitulo 6",
+"url":"https://api.mycdn.moe/video/DARK-1x06",
+"embed":"true"
+},
+{
+"name":"Capitulo 7",
+"url":"https://api.mycdn.moe/video/DARK-1x07",
+"embed":"true"
+},
+{
+"name":"Capitulo 8",
+"url":"https://api.mycdn.moe/video/DARK-1x08",
+"embed":"true"
+},
+{
+"name":"Capitulo 9",
+"url":"https://api.mycdn.moe/video/DARK-1x09",
+"embed":"true"
+},
+{
+"name":"Capitulo 10",
+"url":"https://api.mycdn.moe/video/DARK-1x10",
+"embed":"true"
+}
+]},
+{
+"name": "Temporada 2",
+"image":"https://i.pinimg.com/originals/d0/87/5e/d0875eab347105d63f1fb644f631eb71.png",
+"stations":[
+{
+"name":"Capitulo 1",
+"url":"https://api.mycdn.moe/video/DARK-LA-2x01/",
+"embed":"true"
+},
+{
+"name":"Capitulo 2",
+"url":"https://api.mycdn.moe/video/DARK-LA-2x02/",
+"embed":"true"
+},
+{
+"name":"Capitulo 3",
+"url":"https://api.mycdn.moe/video/DARK-LA-2x03/",
+"embed":"true"
+},
+{
+"name":"Capitulo 4",
+"url":"https://api.mycdn.moe/video/DARK-LA-2x04",
+"embed":"true"
+},
+{
+"name":"Capitulo 5",
+"url":"https://api.mycdn.moe/video/DARK-LA-2x05",
+"embed":"true"
+},
+{
+"name":"Capitulo 6",
+"url":"https://api.mycdn.moe/video/DARK-LA-2x06",
+"embed":"true"
+},
+{
+"name":"Capitulo 7",
+"url":"https://api.mycdn.moe/video/DARK-LA-2x07",
+"embed":"true"
+},
+{
+"name":"Capitulo 8",
+"url":"https://api.mycdn.moe/video/DARK-LA-2x08",
+"embed":"true"
+}
+]},
+{
+"name": "Temporada 3",
+"image":"https://i.redd.it/b7ux95rczt551.jpg",
+"stations":[
+{
+"name":"Capitulo 1",
+"url":"https://api.mycdn.moe/video/DARK-LA-3x01/",
+"embed":"true"
+},
+{
+"name":"Capitulo 2",
+"url":"https://api.mycdn.moe/video/DARK-LA-3x02/",
+"embed":"true"
+},
+{
+"name":"Capitulo 3",
+"url":"https://api.mycdn.moe/video/DARK-LA-3x03/",
+"embed":"true"
+},
+{
+"name":"Capitulo 4",
+"url":"https://api.mycdn.moe/video/DARK-LA-3x04",
+"embed":"true"
+},
+{
+"name":"Capitulo 5",
+"url":"https://api.mycdn.moe/video/DARK-LA-3x05",
+"embed":"true"
+},
+{
+"name":"Capitulo 6",
+"url":"https://api.mycdn.moe/video/DARK-LA-3x06",
+"embed":"true"
+},
+{
+"name":"Capitulo 7",
+"url":"https://api.mycdn.moe/video/DARK-LA-3x07",
+"embed":"true"
+},
+{
+"name":"Capitulo 8",
+"url":"https://api.mycdn.moe/video/DARK-LA-3x08",
+"embed":"true"
+}
+]},
+]}
+]}
