@@ -1,0 +1,12 @@
+{"name":"Series",
+"author":"iCatz",
+"image":"https://raw.githubusercontent.com/GlitchRob/wiseplay/main/index_series.w3u",
+"url":"https://raw.githubusercontent.com/GlitchRob/wiseplay/main/index_series.w3u","telegram":"iCatz",
+"info":"Series y películas gratis",
+"epg":"",
+"stations":[{
+"name":"Merlina",
+"info":"Serie | Netflix",
+"image":"file:///android_asset/www/img/channel.png",
+"url":"https://raw.githubusercontent.com/GlitchRob/wiseplay/main/m3rl1n4.w3u"}
+]}
