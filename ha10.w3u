@@ -1,0 +1,78 @@
+{
+"name": "Tokyo",
+"info":"Tokyo",
+"author": "iCatz",
+"telegram":"SeriesWiseCatz",
+"image":"Imagen",
+"url": "https://raw.githubusercontent.com/GlitchRob/wiseplay/main/ha10.w3u",
+"groups": [
+{
+"name": "Temporada 1",
+"image":"imagenjpgpng",
+"stations":[
+{
+"name":"Series • T1:C1",
+"info":"T1:C1",
+"image":"Imagen",
+"url":"https://43598303.xyz/video/tt2934286-1x01/",
+"embed":"true"
+},
+{
+"name":"Series • T1:C2",
+"info":"T1:C2",
+"image":"Imagen",
+"url":"https://43598303.xyz/video/tt2934286-1x02/",
+"embed":"true"
+},
+{
+"name":"Series • T1:C3",
+"info":"T1:C3",
+"image":"Imagen",
+"url":"https://43598303.xyz/video/tt2934286-1x03/",
+"embed":"true"
+},
+{
+"name":"Series • T1:C4",
+"info":"T1:C4",
+"image":"Imagen",
+"url":"https://43598303.xyz/video/tt2934286-1x04/",
+"embed":"true"
+},
+{
+"name":"Series • T1:C5",
+"info":"T1:C5",
+"image":"Imagen",
+"url":"https://43598303.xyz/video/tt2934286-1x05/",
+"embed":"true"
+},
+{
+"name":"Series • T1:C6",
+"info":"T1:C6",
+"image":"Imagen",
+"url":"https://43598303.xyz/video/tt2934286-1x06/",
+"embed":"true"
+},
+{
+"name":"Series • T1:C7",
+"info":"T1:C7",
+"image":"Imagen",
+"url":"https://43598303.xyz/video/tt2934286-1x07/",
+"embed":"true"
+},
+{
+"name":"Series • T1:C8",
+"info":"T1:C8",
+"image":"Imagen",
+"url":"https://43598303.xyz/video/tt2934286-1x08/",
+"embed":"true"
+},
+{
+"name":"Series • T1:C9",
+"info":"T1:C9",
+"image":"Imagen",
+"url":"https://43598303.xyz/video/tt2934286-1x09/",
+"embed":"true"
+}
+]},
+]}
+]}
