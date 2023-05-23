@@ -1,5 +1,5 @@
 {
-"name": "iCatz Entertainment",
+"name": "Series",
 "author": "iCatz",
 "image": "https://lh3.googleusercontent.com/_SHQjLM1rdpx-5EhldGl8yTLIb5tfBF5p_ELnto0XqON3WjKN07C3pDmKT6sob1ER3A=s180",
 "url": "https://raw.githubusercontent.com/GlitchRob/wiseplay/main/iCatz_series.w3u",
@@ -13,9 +13,19 @@ Todo el contenido es recopilado de diferentes fuentes",
 "url": "https://raw.githubusercontent.com/GlitchRob/wiseplay/main/D4RK.w3u"
 },
 {
-"name": "Gotham",
+"name": "GOTHAM",
 "image":"https://image.tmdb.org/t/p/w185/nMQXkl7RgZizN5JuRBUtSdUx3Ri.jpg",
 "url": "https://raw.githubusercontent.com/GlitchRob/wiseplay/main/G0th4m.w3u"
-}
+},
+{
+"name": "GRIMM",
+"image":"https://1.bp.blogspot.com/-jyL6ECq6_lE/VrYaMMQwBUI/AAAAAAAAIAI/5JYPMZFl0Kg/s1600/grimm.jpg",
+"url": "https://raw.githubusercontent.com/GlitchRob/wiseplay/main/GR1MM.w3u"
+},
+{
+"name": "Hora de aventura",
+"image":"https://4.bp.blogspot.com/--2PHySrwqiY/WOP-ZzCzZlI/AAAAAAAAD5k/YFvy4TGuOHMDW3Hvirah7CJ6iok_WIZbQCLcB/s1600/123123.jpg",
+"url": "https://raw.githubusercontent.com/GlitchRob/wiseplay/main/H0r4_d3_4v3ntur4.w3u"
+},
 ]
 }
