@@ -9,23 +9,13 @@ Todo el contenido es recopilado de diferentes fuentes",
 "groups": [
 {
 "name": "DARK",
-"image": "",
+"image": "http://br.web.img2.acsta.net/pictures/19/06/11/21/33/0075880.jpg",
 "url": "https://raw.githubusercontent.com/GlitchRob/wiseplay/main/D4RK.w3u"
 },
 {
-"name": "🎫 Películas (Próximamente)",
-"image":"https://st2.depositphotos.com/3474539/6442/v/950/depositphotos_64426961-stock-illustration-set-of-movie-design-elements.jpg",
-"url": ""
-},
-{
-"name": "📺 TV En Vivo",
-"image":"https://iptvplayerlatino.pro/wp-content/uploads/teleclub.jpg",
-"info":"Activación requerida",
-"url": "http://tv.teleclub.xyz/lista/club.m3u"
-},
-{
-"name": "🔘 Activador de canales",
-"url": "http://tv.teleclub.xyz/activar"
+"name": "Gotham",
+"image":"https://image.tmdb.org/t/p/w185/nMQXkl7RgZizN5JuRBUtSdUx3Ri.jpg",
+"url": "https://raw.githubusercontent.com/GlitchRob/wiseplay/main/G0th4m.w3u"
 }
 ]
 }
