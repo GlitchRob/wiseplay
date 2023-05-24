@@ -1,0 +1,58 @@
+{
+"name": "Centro de ayuda",
+"info":"Centro de ayuda y tutoriales",
+"author": "iCatz",
+"telegram":"iCatz_entertainment",
+"image":"",
+"url": "https://raw.githubusercontent.com/GlitchRob/wiseplay/main/hlp_center.w3u",
+"groups": [
+{
+"name":"Tutoriales",
+"image":"imag",
+"stations":[
+{
+"name":"¿Como reproducir contenido?",
+"image":"",
+"url":"https",
+"embed":"true"
+},
+{
+"name": "Wiseplay PREMIUM por $1 USD",
+"image":"HHHH",
+"url": "https"
+}
+]},
+{
+"name":"Contacto",
+"image":"imag",
+"stations":[
+{
+"name":"Telegram",
+"image":"https://image.tmdb.org/t/p/w154/c3CUKHtQUvPvp9NSFsKwYsPLAdW.jpg",
+"url":"https://filemoon.sx/e/0vaer5e7v6fm",
+"embed":"true"
+},
+{
+"name": "WhatsApp",
+"image":"https://image.tmdb.org/t/p/w154/puffdkze3GZmQHu2Hy8t1XdOYtM.jpg",
+"url": "https://43598303.xyz/video/tt23037488/"
+},
+{
+"name": "Página web",
+"image":"https://image.tmdb.org/t/p/w154/a2rrZrhDq9BhaBelbmj0u0z9S7p.jpg",
+"url": "https://43598303.xyz/video/tt14522892/"
+}
+]},
+{
+"name":"Wiseplay Premium",
+"image":"imag",
+"stations":[
+{
+"name":"PayPal",
+"image":"https://image.tmdb.org/t/p/w154/c3CUKHtQUvPvp9NSFsKwYsPLAdW.jpg",
+"url":"https://filemoon.sx/e/0vaer5e7v6fm",
+"embed":"true"
+}
+]},
+]}
+]}
