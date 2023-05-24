@@ -19,12 +19,14 @@
 {
 "name": "One Ranger",
 "image":"https://image.tmdb.org/t/p/w154/puffdkze3GZmQHu2Hy8t1XdOYtM.jpg",
-"url": "https://43598303.xyz/video/tt23037488/"
+"url": "https://43598303.xyz/video/tt23037488/",
+"embed":"true"
 },
 {
 "name": "Ramona",
 "image":"https://image.tmdb.org/t/p/w154/a2rrZrhDq9BhaBelbmj0u0z9S7p.jpg",
-"url": "https://43598303.xyz/video/tt14522892/"
+"url": "https://43598303.xyz/video/tt14522892/",
+"embed":"true"
 }
 ]},
 ]}
