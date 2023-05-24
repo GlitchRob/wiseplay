@@ -1,0 +1,94 @@
+{
+"name": "Tokyo",
+"info":"Tokyo",
+"author": "iCatz",
+"telegram":"SeriesWiseCatz",
+"image":"Imagen",
+"url": "urlhttp",
+"groups": [
+{
+"name":"Series • T1:C1",
+"info":"T1:C1",
+"image":"Imagen",
+"url":"https://api.mycdn.moe/video/VideoID-1x01/",
+"embed":"true"
+},
+{
+"name":"Series • T1:C2",
+"info":"T1:C2",
+"image":"Imagen",
+"url":"https://api.mycdn.moe/video/VideoID-1x02/",
+"embed":"true"
+},
+{
+"name":"Series • T1:C3",
+"info":"T1:C3",
+"image":"Imagen",
+"url":"https://api.mycdn.moe/video/VideoID-1x03/",
+"embed":"true"
+},
+{
+"name":"Series • T1:C4",
+"info":"T1:C4",
+"image":"Imagen",
+"url":"https://api.mycdn.moe/video/VideoID-1x04/",
+"embed":"true"
+},
+{
+"name":"Series • T1:C5",
+"info":"T1:C5",
+"image":"Imagen",
+"url":"https://api.mycdn.moe/video/VideoID-1x05/",
+"embed":"true"
+},
+{
+"name":"Series • T1:C6",
+"info":"T1:C6",
+"image":"Imagen",
+"url":"https://api.mycdn.moe/video/VideoID-1x06/",
+"embed":"true"
+},
+{
+"name":"Series • T1:C7",
+"info":"T1:C7",
+"image":"Imagen",
+"url":"https://api.mycdn.moe/video/VideoID-1x07/",
+"embed":"true"
+},
+{
+"name":"Series • T1:C8",
+"info":"T1:C8",
+"image":"Imagen",
+"url":"https://api.mycdn.moe/video/VideoID-1x08/",
+"embed":"true"
+},
+{
+"name":"Series • T1:C9",
+"info":"T1:C9",
+"image":"Imagen",
+"url":"https://api.mycdn.moe/video/VideoID-1x09/",
+"embed":"true"
+},
+{
+"name":"Series • T1:C10",
+"info":"T1:C10",
+"image":"Imagen",
+"url":"https://api.mycdn.moe/video/VideoID-1x10/",
+"embed":"true"
+},
+{
+"name":"Series • T1:C11",
+"info":"T1:C11",
+"image":"Imagen",
+"url":"https://api.mycdn.moe/video/VideoID-1x11/",
+"embed":"true"
+},
+{
+"name":"Series • T1:C12",
+"info":"T1:C12",
+"image":"Imagen",
+"url":"https://api.mycdn.moe/video/VideoID-1x12/",
+"embed":"true"
+}
+]
+}
