@@ -18,7 +18,7 @@
 },
 {
 "name": "Wiseplay PREMIUM",
-"info":"Por $1 USD",
+"info":"Por $1 USD
 "image":"HHHH",
 "url": "https"
 }
@@ -45,13 +45,13 @@
 }
 ]},
 {
-"name":"Wiseplay Premium",
+"name":"Donaciones",
 "image":"imag",
 "stations":[
 {
 "name":"PayPal",
 "image":"https://image.tmdb.org/t/p/w154/c3CUKHtQUvPvp9NSFsKwYsPLAdW.jpg",
-"url":"https://filemoon.sx/e/0vaer5e7v6fm",
+"url":"https://paypal.me/iCatz",
 "embed":"true"
 }
 ]},
