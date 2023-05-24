@@ -21,6 +21,11 @@ Todo el contenido es recopilado de diferentes fuentes",
 "name": "TV En Vivo",
 "image":"https://webstockreview.net/images/clipart-tv-tv-icon-13.png",
 "url": "https://raw.githubusercontent.com/GlitchRob/wiseplay/main/tv7.m3u"
+},
+{
+"name": "Centro de ayuda",
+"image":"https://media.istockphoto.com/vectors/warning-sign-exclamation-point-icon-vector-vector-id931779192?k=6&m=931779192&s=612x612&w=0&h=C40OOAvwgoQvfj6sy9zIq61baWhMga8HhLaXWAqSSro=",
+"url": "https://raw.githubusercontent.com/GlitchRob/wiseplay/main/hlp_center.w3u"
 }
 ]
 }
