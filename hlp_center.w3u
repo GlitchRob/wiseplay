@@ -50,7 +50,7 @@
 "stations":[
 {
 "name":"PayPal",
-"image":"https://image.tmdb.org/t/p/w154/c3CUKHtQUvPvp9NSFsKwYsPLAdW.jpg",
+"image":"https://cdn-icons-png.flaticon.com/512/174/174861.png",
 "url":"https://paypal.me/iCatz",
 "embed":"true"
 }
