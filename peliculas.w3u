@@ -7,9 +7,14 @@
 "url": "https://raw.githubusercontent.com/GlitchRob/wiseplay/main/peliculas.w3u",
 "groups": [
 {
+"name":"Acción",
+"image":"image",
+"stations":[
+{
 "name":"War of the Worlds: The Attack",
 "image":"https://image.tmdb.org/t/p/w154/c3CUKHtQUvPvp9NSFsKwYsPLAdW.jpg",
 "url":"https://43598303.xyz/video/tt12519802/"
 }
-]
-}
+]},
+}]
+]}
