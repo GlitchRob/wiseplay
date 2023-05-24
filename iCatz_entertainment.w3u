@@ -18,14 +18,9 @@ Todo el contenido es recopilado de diferentes fuentes",
 "url": ""
 },
 {
-"name": "📺 TV En Vivo",
-"image":"https://iptvplayerlatino.pro/wp-content/uploads/teleclub.jpg",
-"info":"Activación requerida",
-"url": "http://tv.teleclub.xyz/lista/club.m3u"
-},
-{
-"name": "🔘 Activador de canales",
-"url": "http://tv.teleclub.xyz/activar"
+"name": "TV En Vivo",
+"image":"https://webstockreview.net/images/clipart-tv-tv-icon-13.png",
+"url": "https://raw.githubusercontent.com/GlitchRob/wiseplay/main/tv7.m3u"
 }
 ]
 }
