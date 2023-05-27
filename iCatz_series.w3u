@@ -44,42 +44,42 @@ Todo el contenido es recopilado de diferentes fuentes",
 },,
 {
 "name": "HOUSE",
-"image":"UUJU",
+"image":"https://image.tmdb.org/t/p/original/pK140Y2fNa5ErbL3tRj5hEcDuJ6.jpg",
 "url": "https://raw.githubusercontent.com/GlitchRob/wiseplay/main/H0U53.w3u"
 },
 {
 "name": "iZombie",
-"image":"videoimage",
+"image":"https://es.web.img3.acsta.net/pictures/15/02/16/10/58/492685.jpg",
 "url": "https://raw.githubusercontent.com/GlitchRob/wiseplay/main/1Z0mb13.w3u"
 },
 {
 "name": "Merlina",
-"image":"videoimage",
+"image":"https://mx.web.img2.acsta.net/pictures/22/09/23/16/53/5812822.jpg",
 "url": "https://raw.githubusercontent.com/GlitchRob/wiseplay/main/M3rl1n4.w3u"
 },
 {
 "name": "New Girl",
-"image":"videoimage",
+"image":"https://es.web.img3.acsta.net/pictures/15/08/25/13/56/037709.jpg",
 "url": "https://raw.githubusercontent.com/GlitchRob/wiseplay/main/N3w_g1rl.w3u"
 },
 {
 "name": "On my Block",
-"image":"videoimage",
+"image":"https://es.web.img2.acsta.net/pictures/18/02/01/11/56/4746129.jpg",
 "url": "https://raw.githubusercontent.com/GlitchRob/wiseplay/main/0n_my_bl0ck.w3u"
 },
 {
 "name": "Orange Is The New Black",
-"image":"videoimage",
+"image":"https://refstatic.sk/movie/1b3472af88c7604f394b.jpg?is=600x900c&c=2w&s=5396ae20abaf44c019974286b1e62fb441b03ea3d0f09d948ab4c42ef3aae06a",
 "url": "https://raw.githubusercontent.com/GlitchRob/wiseplay/main/0r4n93_15_n3w_8l4ck.w3u"
 },
 {
 "name": "Peaky Blinders",
-"image":"videoimage",
+"image":"https://image.tmdb.org/t/p/original/lMEEl4qh4yaDBsqXrb6RGLS9NOa.jpg",
 "url": "https://raw.githubusercontent.com/GlitchRob/wiseplay/main/P34ky_bl1nd3r5.w3u"
 },
 {
 "name": "Stranger Things",
-"image":"videoimage",
+"image":"http://es.web.img3.acsta.net/pictures/17/10/24/09/04/3656474.jpg?coixp=50&coiyp=36",
 "url": "https://raw.githubusercontent.com/GlitchRob/wiseplay/main/5tr4n93r_t1n95.w3u"
 },
 {
@@ -89,12 +89,12 @@ Todo el contenido es recopilado de diferentes fuentes",
 },
 {
 "name": "The Walking Dead",
-"image":"videoimage",
+"image":"https://deadline.com/wp-content/uploads/2020/03/the-walking-dead.jpg",
 "url": "https://raw.githubusercontent.com/GlitchRob/wiseplay/main/th3_w4lk1n9_d34d.w3u"
 },
 {
 "name": "Tokyo Ghoul",
-"image":"videoimage",
+"image":"https://media.senscritique.com/media/000010632811/source_big/Tokyo_Ghoul.jpg",
 "url": "https://raw.githubusercontent.com/GlitchRob/wiseplay/main/t0ky0_9h0ul.w3u"
 }
 ]
