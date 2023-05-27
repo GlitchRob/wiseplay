@@ -7,13 +7,120 @@
 "url": "https://raw.githubusercontent.com/GlitchRob/wiseplay/main/peliculas.w3u",
 "groups": [
 {
-"name":"Acción",
+"name":"Recién agregado",
 "image":"imag",
 "stations":[
 {
 "name": "El año en que empecé a masturbarme",
 "image":"https://image.tmdb.org/t/p/w154/iRBOXMjTJ9NAXv2U2H7VNi7Y7ST.jpg",
-"url": "https://43598303.xyz/video/tt15411160/",
+"url": "https://43598303.xyz/video/tt15411160/"
+},
+{
+"name": "videoname",
+"image":"videoimage",
+"url": "https://43598303.xyz/video/videocode-1x01/",
+"embed":"true"
+},
+{
+"name": "videoname",
+"image":"videoimage",
+"url": "https://43598303.xyz/video/videocode-1x01/",
+"embed":"true"
+},
+{
+"name": "videoname",
+"image":"videoimage",
+"url": "https://43598303.xyz/video/videocode-1x01/",
+"embed":"true"
+},
+{
+"name": "videoname",
+"image":"videoimage",
+"url": "https://43598303.xyz/video/videocode-1x01/",
+"embed":"true"
+},
+{
+"name": "videoname",
+"image":"videoimage",
+"url": "https://43598303.xyz/video/videocode-1x01/",
+"embed":"true"
+},
+{
+"name": "videoname",
+"image":"videoimage",
+"url": "https://43598303.xyz/video/videocode-1x01/",
+"embed":"true"
+},
+{
+"name": "videoname",
+"image":"videoimage",
+"url": "https://43598303.xyz/video/videocode-1x01/",
+"embed":"true"
+},
+{
+"name": "videoname",
+"image":"videoimage",
+"url": "https://43598303.xyz/video/videocode-1x01/",
+"embed":"true"
+},
+{
+"name": "videoname",
+"image":"videoimage",
+"url": "https://43598303.xyz/video/videocode-1x01/",
+"embed":"true"
+},
+{
+"name": "videoname",
+"image":"videoimage",
+"url": "https://43598303.xyz/video/videocode-1x01/",
+"embed":"true"
+},
+{
+"name": "videoname",
+"image":"videoimage",
+"url": "https://43598303.xyz/video/videocode-1x01/",
+"embed":"true"
+},
+{
+"name": "videoname",
+"image":"videoimage",
+"url": "https://43598303.xyz/video/videocode-1x01/",
+"embed":"true"
+},
+{
+"name": "videoname",
+"image":"videoimage",
+"url": "https://43598303.xyz/video/videocode-1x01/",
+"embed":"true"
+},
+{
+"name": "videoname",
+"image":"videoimage",
+"url": "https://43598303.xyz/video/videocode-1x01/",
+"embed":"true"
+},
+{
+"name": "videoname",
+"image":"videoimage",
+"url": "https://43598303.xyz/video/videocode-1x01/",
+"embed":"true"
+},
+{
+"name": "videoname",
+"image":"videoimage",
+"url": "https://43598303.xyz/video/videocode-1x01/",
+"embed":"true"
+},
+{
+"name": "videoname",
+"image":"videoimage",
+"url": "https://43598303.xyz/video/videocode-1x01/",
+"embed":"true"
+},
+{
+"name": "videoname",
+"image":"videoimage",
+"url": "https://43598303.xyz/video/videocode-1x01/",
 "embed":"true"
 },
 {
@@ -25,14 +132,12 @@
 {
 "name": "One Ranger",
 "image":"https://image.tmdb.org/t/p/w154/puffdkze3GZmQHu2Hy8t1XdOYtM.jpg",
-"url": "https://43598303.xyz/video/tt23037488/",
-"embed":"true"
+"url": "https://43598303.xyz/video/tt23037488/"
 },
 {
 "name": "Ramona",
 "image":"https://image.tmdb.org/t/p/w154/a2rrZrhDq9BhaBelbmj0u0z9S7p.jpg",
-"url": "https://43598303.xyz/video/tt14522892/",
-"embed":"true"
+"url": "https://43598303.xyz/video/tt14522892/"
 }
 ]},
 ]}
