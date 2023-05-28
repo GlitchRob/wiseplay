@@ -1,0 +1,903 @@
+{
+"name": "HOUSE",
+"author": "iCatz",
+"telegram":"iCatz_entertainment",
+"image":"https://image.tmdb.org/t/p/w185/lkvhReTBZ2Ksl0Dl5Oplsf6UYkF.jpg",
+"url": "url",
+"groups": [
+{
+"name": "Temporada 1",
+"image":"https",
+"stations":[
+{
+"name":"Capitulo 1",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-1x01",
+"embed":"true"
+},
+{
+"name":"Capitulo 2",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-1x02", "embed":"true"
+},
+{
+"name":"Capitulo 3",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-1x03", "embed":"true"
+},
+{
+"name":"Capitulo 4",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-1x04",
+"embed":"true"
+},
+{
+"name":"Capitulo 5",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-1x05",
+"embed":"true"
+},
+{
+"name":"Capitulo 6",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-1x06",
+"embed":"true"
+},
+{
+"name":"Capitulo 7",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-1x07",
+"embed":"true"
+},
+{
+"name":"Capitulo 8",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-1x08",
+"embed":"true"
+},
+{
+"name":"Capitulo 9",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-1x09",
+"embed":"true"
+},
+{
+"name":"Capitulo 10",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-1x10",
+"embed":"true"},
+{
+"name":"Capitulo 11",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-1x11",
+"embed":"true"
+},
+{
+"name":"Capitulo 12",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-1x12",
+"embed":"true"
+},
+{
+"name":"Capitulo 13",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-1x13",
+"embed":"true"
+},
+{
+"name":"Capitulo 14",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-1x14",
+"embed":"true"
+},
+{
+"name":"Capitulo 15",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-1x15",
+"embed":"true"
+},
+{
+"name":"Capitulo 16",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-1x16",
+"embed":"true"
+},
+{
+"name":"Capitulo 17",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-1x17",
+"embed":"true"
+},
+{
+"name":"Capitulo 18",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-1x18",
+"embed":"true"
+},
+{
+"name":"Capitulo 19",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-1x19",
+"embed":"true"
+},
+{
+"name":"Capitulo 20",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-1x20",
+"embed":"true"
+},
+{
+"name":"Capitulo 21",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-1x21",
+"embed":"true"
+},
+{
+"name":"Capitulo 22",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-1x22",
+"embed":"true"
+}
+]},
+{
+"name": "Temporada 2",
+"image":"https",
+"stations":[
+{
+"name":"Capitulo 1",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-2x01", "embed":"true"
+},
+{
+"name":"Capitulo 2",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-2x02", "embed":"true"
+},
+{
+"name":"Capitulo 3",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-2x03", "embed":"true"
+},
+{
+"name":"Capitulo 4",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-2x04",
+"embed":"true"
+},
+{
+"name":"Capitulo 5",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-2x05",
+"embed":"true"
+},
+{
+"name":"Capitulo 6",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-2x06",
+"embed":"true"
+},
+{
+"name":"Capitulo 7",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-2x07",
+"embed":"true"
+},
+{
+"name":"Capitulo 8",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-2x08",
+"embed":"true"
+},
+{
+"name":"Capitulo 9",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-2x09",
+"embed":"true"
+},
+{
+"name":"Capitulo 10",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-2x10",
+"embed":"true"},
+{
+"name":"Capitulo 11",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-2x11",
+"embed":"true"
+},
+{
+"name":"Capitulo 12",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-2x12",
+"embed":"true"
+},
+{
+"name":"Capitulo 13",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-2x13",
+"embed":"true"
+},
+{
+"name":"Capitulo 14",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-2x14",
+"embed":"true"
+},
+{
+"name":"Capitulo 15",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-2x15",
+"embed":"true"
+},
+{
+"name":"Capitulo 16",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-2x16",
+"embed":"true"
+},
+{
+"name":"Capitulo 17",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-2x17",
+"embed":"true"
+},
+{
+"name":"Capitulo 18",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-2x18",
+"embed":"true"
+},
+{
+"name":"Capitulo 19",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-2x19",
+"embed":"true"
+},
+{
+"name":"Capitulo 20",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-2x20",
+"embed":"true"
+},
+{
+"name":"Capitulo 21",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-2x21",
+"embed":"true"
+},
+{
+"name":"Capitulo 22",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-2x22",
+"embed":"true"
+},
+{
+"name":"Capitulo 23",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-2x23",
+"embed":"true"
+},
+{
+"name":"Capitulo 24",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-2x24",
+"embed":"true"
+}
+]},
+{
+"name": "Temporada 3",
+"image":"https",
+"stations":[
+{
+"name":"Capitulo 1",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-3x01", "embed":"true"
+},
+{
+"name":"Capitulo 2",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-3x02", "embed":"true"
+},
+{
+"name":"Capitulo 3",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-3x03", "embed":"true"
+},
+{
+"name":"Capitulo 4",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-3x04",
+"embed":"true"
+},
+{
+"name":"Capitulo 5",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-3x05",
+"embed":"true"
+},
+{
+"name":"Capitulo 6",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-3x06",
+"embed":"true"
+},
+{
+"name":"Capitulo 7",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-3x07",
+"embed":"true"
+},
+{
+"name":"Capitulo 8",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-3x08",
+"embed":"true"
+},
+{
+"name":"Capitulo 9",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-3x09",
+"embed":"true"
+},
+{
+"name":"Capitulo 10",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-3x10",
+"embed":"true"},
+{
+"name":"Capitulo 11",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-3x11",
+"embed":"true"
+},
+{
+"name":"Capitulo 12",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-3x12",
+"embed":"true"
+},
+{
+"name":"Capitulo 13",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-3x13",
+"embed":"true"
+},
+{
+"name":"Capitulo 14",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-3x14",
+"embed":"true"
+},
+{
+"name":"Capitulo 15",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-3x15",
+"embed":"true"
+},
+{
+"name":"Capitulo 16",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-3x16",
+"embed":"true"
+},
+{
+"name":"Capitulo 17",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-3x17",
+"embed":"true"
+},
+{
+"name":"Capitulo 18",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-3x18",
+"embed":"true"
+},
+{
+"name":"Capitulo 19",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-3x19",
+"embed":"true"
+},
+{
+"name":"Capitulo 20",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-3x20",
+"embed":"true"
+},
+{
+"name":"Capitulo 21",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-3x21",
+"embed":"true"
+},
+{
+"name":"Capitulo 22",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-3x22",
+"embed":"true"
+},
+{
+"name":"Capitulo 23",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-3x23",
+"embed":"true"
+},
+{
+"name":"Capitulo 24",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-3x24",
+"embed":"true"
+}
+]},
+{
+"name": "Temporada 4",
+"image":"https",
+"stations":[
+{
+"name":"Capitulo 1",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-4x01", "embed":"true"
+},
+{
+"name":"Capitulo 2",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-4x02", "embed":"true"
+},
+{
+"name":"Capitulo 3",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-4x03", "embed":"true"
+},
+{
+"name":"Capitulo 4",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-4x04",
+"embed":"true"
+},
+{
+"name":"Capitulo 5",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-4x05",
+"embed":"true"
+},
+{
+"name":"Capitulo 6",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-4x06",
+"embed":"true"
+},
+{
+"name":"Capitulo 7",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-4x07",
+"embed":"true"
+},
+{
+"name":"Capitulo 8",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-4x08",
+"embed":"true"
+},
+{
+"name":"Capitulo 9",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-4x09",
+"embed":"true"
+},
+{
+"name":"Capitulo 10",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-4x10",
+"embed":"true"},
+{
+"name":"Capitulo 11",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-4x11",
+"embed":"true"
+},
+{
+"name":"Capitulo 12",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-4x12",
+"embed":"true"
+},
+{
+"name":"Capitulo 13",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-4x13",
+"embed":"true"
+},
+{
+"name":"Capitulo 14",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-4x14",
+"embed":"true"
+},
+{
+"name":"Capitulo 15",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-4x15",
+"embed":"true"
+},
+{
+"name":"Capitulo 16",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-4x16",
+"embed":"true"
+}
+]},
+{
+"name": "Temporada 5",
+"image":"https",
+"stations":[
+{
+"name":"Capitulo 1",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-5x01", "embed":"true"
+},
+{
+"name":"Capitulo 2",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-5x02", "embed":"true"
+},
+{
+"name":"Capitulo 3",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-5x03", "embed":"true"
+},
+{
+"name":"Capitulo 4",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-5x04",
+"embed":"true"
+},
+{
+"name":"Capitulo 5",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-5x05",
+"embed":"true"
+},
+{
+"name":"Capitulo 6",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-5x06",
+"embed":"true"
+},
+{
+"name":"Capitulo 7",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-5x07",
+"embed":"true"
+},
+{
+"name":"Capitulo 8",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-5x08",
+"embed":"true"
+},
+{
+"name":"Capitulo 9",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-5x09",
+"embed":"true"
+},
+{
+"name":"Capitulo 10",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-5x10",
+"embed":"true"},
+{
+"name":"Capitulo 11",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-5x11",
+"embed":"true"
+},
+{
+"name":"Capitulo 12",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-5x12",
+"embed":"true"
+},
+{
+"name":"Capitulo 13",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-5x13",
+"embed":"true"
+},
+{
+"name":"Capitulo 14",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-5x14",
+"embed":"true"
+},
+{
+"name":"Capitulo 15",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-5x15",
+"embed":"true"
+},
+{
+"name":"Capitulo 16",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-5x16",
+"embed":"true"
+},
+{
+"name":"Capitulo 17",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-5x17",
+"embed":"true"
+},
+{
+"name":"Capitulo 18",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-5x18",
+"embed":"true"
+},
+{
+"name":"Capitulo 19",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-5x19",
+"embed":"true"
+},
+{
+"name":"Capitulo 20",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-5x20",
+"embed":"true"
+},
+{
+"name":"Capitulo 21",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-5x21",
+"embed":"true"
+},
+{
+"name":"Capitulo 22",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-5x22",
+"embed":"true"
+},
+{
+"name":"Capitulo 23",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-5x23",
+"embed":"true"
+},
+{
+"name":"Capitulo 24",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-5x24",
+"embed":"true"
+}
+]},
+{
+"name": "Temporada 6",
+"image":"https",
+"stations":[
+{
+"name":"Capitulo 1",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-6x01", "embed":"true"
+},
+{
+"name":"Capitulo 2",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-6x02", "embed":"true"
+},
+{
+"name":"Capitulo 3",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-6x03", "embed":"true"
+},
+{
+"name":"Capitulo 4",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-6x04",
+"embed":"true"
+},
+{
+"name":"Capitulo 5",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-6x05",
+"embed":"true"
+},
+{
+"name":"Capitulo 6",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-6x06",
+"embed":"true"
+},
+{
+"name":"Capitulo 7",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-6x07",
+"embed":"true"
+},
+{
+"name":"Capitulo 8",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-6x08",
+"embed":"true"
+},
+{
+"name":"Capitulo 9",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-6x09",
+"embed":"true"
+},
+{
+"name":"Capitulo 10",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-6x10",
+"embed":"true"},
+{
+"name":"Capitulo 11",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-6x11",
+"embed":"true"
+},
+{
+"name":"Capitulo 12",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-6x12",
+"embed":"true"
+},
+{
+"name":"Capitulo 13",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-6x13",
+"embed":"true"
+},
+{
+"name":"Capitulo 14",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-6x14",
+"embed":"true"
+},
+{
+"name":"Capitulo 15",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-6x15",
+"embed":"true"
+},
+{
+"name":"Capitulo 16",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-6x16",
+"embed":"true"
+},
+{
+"name":"Capitulo 17",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-6x17",
+"embed":"true"
+},
+{
+"name":"Capitulo 18",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-6x18",
+"embed":"true"
+},
+{
+"name":"Capitulo 19",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-6x19",
+"embed":"true"
+},
+{
+"name":"Capitulo 20",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-6x20",
+"embed":"true"
+},
+{
+"name":"Capitulo 21",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-6x21",
+"embed":"true"
+},
+{
+"name":"Capitulo 22",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-6x22",
+"embed":"true"
+}
+]},
+{
+"name": "Temporada 7",
+"image":"https",
+"stations":[
+{
+"name":"Capitulo 1",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-7x01", "embed":"true"
+},
+{
+"name":"Capitulo 2",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-7x02", "embed":"true"
+},
+{
+"name":"Capitulo 3",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-7x03", "embed":"true"
+},
+{
+"name":"Capitulo 4",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-7x04",
+"embed":"true"
+},
+{
+"name":"Capitulo 5",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-7x05",
+"embed":"true"
+},
+{
+"name":"Capitulo 6",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-7x06",
+"embed":"true"
+},
+{
+"name":"Capitulo 7",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-7x07",
+"embed":"true"
+},
+{
+"name":"Capitulo 8",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-7x08",
+"embed":"true"
+},
+{
+"name":"Capitulo 9",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-7x09",
+"embed":"true"
+},
+{
+"name":"Capitulo 10",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-7x10",
+"embed":"true"},
+{
+"name":"Capitulo 11",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-7x11",
+"embed":"true"
+},
+{
+"name":"Capitulo 12",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-7x12",
+"embed":"true"
+},
+{
+"name":"Capitulo 13",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-7x13",
+"embed":"true"
+},
+{
+"name":"Capitulo 14",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-7x14",
+"embed":"true"
+},
+{
+"name":"Capitulo 15",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-7x15",
+"embed":"true"
+},
+{
+"name":"Capitulo 16",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-7x16",
+"embed":"true"
+},
+{
+"name":"Capitulo 17",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-7x17",
+"embed":"true"
+},
+{
+"name":"Capitulo 18",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-7x18",
+"embed":"true"
+},
+{
+"name":"Capitulo 19",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-7x19",
+"embed":"true"
+},
+{
+"name":"Capitulo 20",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-7x20",
+"embed":"true"
+},
+{
+"name":"Capitulo 21",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-7x21",
+"embed":"true"
+},
+{
+"name":"Capitulo 22",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-7x22",
+"embed":"true"
+},
+{
+"name":"Capitulo 23",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-7x23",
+"embed":"true"
+}
+]},
+{
+"name": "Temporada 8",
+"image":"https",
+"stations":[
+{
+"name":"Capitulo 1",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-8x01", "embed":"true"
+},
+{
+"name":"Capitulo 2",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-8x02", "embed":"true"
+},
+{
+"name":"Capitulo 3",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-8x03", "embed":"true"
+},
+{
+"name":"Capitulo 4",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-8x04",
+"embed":"true"
+},
+{
+"name":"Capitulo 5",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-8x05",
+"embed":"true"
+},
+{
+"name":"Capitulo 6",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-8x06",
+"embed":"true"
+},
+{
+"name":"Capitulo 7",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-8x07",
+"embed":"true"
+},
+{
+"name":"Capitulo 8",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-8x08",
+"embed":"true"
+},
+{
+"name":"Capitulo 9",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-8x09",
+"embed":"true"
+},
+{
+"name":"Capitulo 10",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-8x10",
+"embed":"true"},
+{
+"name":"Capitulo 11",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-8x11",
+"embed":"true"
+},
+{
+"name":"Capitulo 12",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-8x12",
+"embed":"true"
+},
+{
+"name":"Capitulo 13",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-8x13",
+"embed":"true"
+},
+{
+"name":"Capitulo 14",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-8x14",
+"embed":"true"
+},
+{
+"name":"Capitulo 15",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-8x15",
+"embed":"true"
+},
+{
+"name":"Capitulo 16",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-8x16",
+"embed":"true"
+},
+{
+"name":"Capitulo 17",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-8x17",
+"embed":"true"
+},
+{
+"name":"Capitulo 18",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-8x18",
+"embed":"true"
+},
+{
+"name":"Capitulo 19",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-8x19",
+"embed":"true"
+},
+{
+"name":"Capitulo 20",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-8x20",
+"embed":"true"
+},
+{
+"name":"Capitulo 21",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-8x21",
+"embed":"true"
+},
+{
+"name":"Capitulo 22",
+"url":"https://api.mycdn.moe/embed.php?customid=tt0412142-8x22",
+"embed":"true"
+}
+]},
+]}
+]}
