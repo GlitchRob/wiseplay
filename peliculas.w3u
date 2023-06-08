@@ -11,13 +11,13 @@
 "image":"imag",
 "stations":[
 {
-"name": "Taz: Búsqueda de Hamburguesa",
+"name": "Taz: Búsqueda de Hamburguesa","info:"2023",
 "image":"https://image.tmdb.org/t/p/w154/qS2KvIftgBf32ijeMuAwb6DbHkP.jpg",
 "url": "https://43598303.xyz/video/tt27469256/",
 "embed":"true"
 },
 {
-"name": "Tiempo de Matar",
+"name": "Tiempo de Matar","info":"1996",
 "image":"https://image.tmdb.org/t/p/w154/apUSR9WE7lMATBGYhzZ8RnPDYsK.jpg",
 "url": "https://43598303.xyz/video/tt0117913/",
 "embed":"true"
@@ -30,7 +30,7 @@
 "embed":"true"
 },
 {
-"name": "Monstruos","info":"2022"
+"name": "Monstruos","info":"2022",
 "image":"https://image.tmdb.org/t/p/w154/ec3aX4DyjepEhPkpIUukaBxKpN3.jpg",
 "url": "https://43598303.xyz/video/tt4624366/",
 "embed":"true"
