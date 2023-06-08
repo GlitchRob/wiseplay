@@ -11,7 +11,8 @@
 "image":"imag",
 "stations":[
 {
-"name": "Taz: Búsqueda de Hamburguesa","info:"2023",
+"name": "Taz: Búsqueda de Hamburguesa",
+"info":"2023",
 "image":"https://image.tmdb.org/t/p/w154/qS2KvIftgBf32ijeMuAwb6DbHkP.jpg",
 "url": "https://43598303.xyz/video/tt27469256/",
 "embed":"true"
