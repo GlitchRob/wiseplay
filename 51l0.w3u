@@ -1,0 +1,64 @@
+{
+"name": "SILO",
+"info":"2023 | ApleTV+ | Serie",
+"author": "iCatz",
+"telegram":"iCatz_entertainment",
+"image":"https://image.tmdb.org/t/p/w154/mx3n0DbDhwEClnoOjtHvPUKmNtQ.jpg",
+"url": "https://raw.githubusercontent.com/GlitchRob/wiseplay/main/51l0.w3u",
+"groups": [
+{
+"name": "Temporada 1",
+"image":"https://image.tmdb.org/t/p/w154/mx3n0DbDhwEClnoOjtHvPUKmNtQ.jpg",
+"stations":[
+{
+"name":"Series • T1:C1",
+"info":"T1:C1",
+"image":"Imagen",
+"url":"https://api.mycdn.moe/video/tt14688458-1x01/",
+"embed":"true"
+},
+{
+"name":"Series • T1:C2",
+"info":"T1:C2",
+"image":"Imagen",
+"url":"https://api.mycdn.moe/video/tt14688458-1x02/",
+"embed":"true"
+},
+{
+"name":"Series • T1:C3",
+"info":"T1:C3",
+"image":"Imagen",
+"url":"https://api.mycdn.moe/video/tt14688458-1x03/",
+"embed":"true"
+},
+{
+"name":"Series • T1:C4",
+"info":"T1:C4",
+"image":"Imagen",
+"url":"https://api.mycdn.moe/video/tt14688458-1x04/",
+"embed":"true"
+},
+{
+"name":"Series • T1:C5",
+"info":"T1:C5",
+"image":"Imagen",
+"url":"https://api.mycdn.moe/video/tt14688458-1x05/",
+"embed":"true"
+},
+{
+"name":"Series • T1:C6",
+"info":"T1:C6",
+"image":"Imagen",
+"url":"https://api.mycdn.moe/video/tt14688458-1x06/",
+"embed":"true"
+},
+{
+"name":"Series • T1:C7",
+"info":"T1:C7",
+"image":"Imagen",
+"url":"https://api.mycdn.moe/video/tt14688458-1x07/",
+"embed":"true"
+}
+]},
+]}
+]}
