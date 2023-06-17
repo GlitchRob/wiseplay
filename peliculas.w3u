@@ -11,9 +11,9 @@
 "image":"imag",
 "stations":[
 {
-"name": "videoname","info":"año",
-"image":"videoimage",
-"url": "urlpeli",
+"name": "Chevalier","info":"2022",
+"image":"https://image.tmdb.org/t/p/w154/mRvqJLGhhW43DNTgn5IJzIuqkqk.jpg",
+"url": "https://2323231.xyz/video/tt12758486/",
 "embed":"true"
 },
 {
