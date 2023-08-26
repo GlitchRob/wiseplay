@@ -4,7 +4,7 @@
   "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm9_2twTJTv1LQQ4ddpSq2XomlYyTCRVg0ZFUDQa_uHw&s",
   "author": "iCatz",
   "telegram": "t.me/iCatz_entertainment",
-  "url": "content://android/data/com.wiseplay/files/lists/películaskao.org.w3u",
+  "url": "https://raw.githubusercontent.com/GlitchRob/wiseplay/main/peliculas.w3u",
   "groups": [
     {
       "image": "",
