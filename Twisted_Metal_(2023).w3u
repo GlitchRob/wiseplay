@@ -12,7 +12,7 @@
 "stations":[
 {
 "name":"Twisted Metal (2023): T1:C1",
-"info":"T1:C1",
+"info":"T1:C1","imageScale": "centerCrop",
 "url":"https://41414142.xyz/video/tt14261112-1x01/",
 "embed":"true"
 },
