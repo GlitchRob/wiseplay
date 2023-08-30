@@ -1,435 +1,130 @@
 {
   "name": "Series",
-  "info": "Películas recopiladas de series kao",
+  "info": "Series recopiladas de series kao",
   "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm9_2twTJTv1LQQ4ddpSq2XomlYyTCRVg0ZFUDQa_uHw&s",
   "author": "iCatz",
   "telegram": "t.me/iCatz_entertainment",
   "url": "https://raw.githubusercontent.com/GlitchRob/wiseplay/main/series.w3u",
   "groups": [
 {
-"image":"https://image.tmdb.org/t/p/w154/94xUIhSzLiU3WvatcLLK1EifCib.jpg",
-"name":"Secretos del deporte: Los reyes del pantano (2023)",
-"url":"https://raw.githubusercontent.com/GlitchRob/wiseplay/main/Secretos_del_deporte__Los_reyes_del_pantano_(2023).w3u",
-"embed":"true"
-},
-{
-"image":"https://image.tmdb.org/t/p/w154/9JVOfSYafqMBame8bDs6u3jg5H.jpg",
-"name":"Te quiero y me duele (2023)",
-"url":"https://raw.githubusercontent.com/GlitchRob/wiseplay/main/Te_quiero_y_me_duele_(2023).w3u",
-"embed":"true"
-},
-{
-"image":"https://image.tmdb.org/t/p/w154/w80XbLlE0slKdFPsZWpZHGI1fl1.jpg",
-"name":"La isla del drama (2023)",
-"url":"https://raw.githubusercontent.com/GlitchRob/wiseplay/main/La_isla_del_drama_(2023).w3u",
-"embed":"true"
-},
-{
-"image":"https://image.tmdb.org/t/p/w154/zeT47uOYH8IEtImcAuI3FtGYq1l.jpg",
-"name":"Un amor predestinado (2023)",
-"url":"https://raw.githubusercontent.com/GlitchRob/wiseplay/main/Un_amor_predestinado_(2023).w3u",
-"embed":"true"
-},
-{
-"image":"https://image.tmdb.org/t/p/w154/hSmp4akD6lXpvhGbt5t6RRg6jlj.jpg",
-"name":"Star Wars: Ahsoka (2023)",
-"url":"https://raw.githubusercontent.com/GlitchRob/wiseplay/main/Star_Wars__Ahsoka_(2023).w3u",
-"embed":"true"
+"image":"https://image.tmdb.org/t/p/w154/x1osLoAJ5NrethvokbqvnqTarxu.jpg",
+"name":"King the Land (2023)",
+"url":"https://raw.githubusercontent.com/GlitchRob/wiseplay/main/King_the_Land_(2023)"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/hEFK8QEZ07sxTVUvwXASk3ZQoEZ.jpg",
 "name":"¿Quién es Erin Carter? (2023)",
-"url":"https://raw.githubusercontent.com/GlitchRob/wiseplay/main/¿Quién_es_Erin_Carter__(2023).w3u",
-"embed":"true"
+"url":"https://raw.githubusercontent.com/GlitchRob/wiseplay/main/¿Quién_es_Erin_Carter_(2023)"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/2DtCytjcBWHlXyTNLgEuP2YrQDx.jpg",
 "name":"Ellas soy yo, Gloria Trevi (2023)",
-"url":"https://raw.githubusercontent.com/GlitchRob/wiseplay/main/Ellas_soy_yo,_Gloria_Trevi_(2023).w3u",
-"embed":"true"
+"url":"https://raw.githubusercontent.com/GlitchRob/wiseplay/main/Ellas_soy_yo,_Gloria_Trevi_(2023)"
+},
+{
+"image":"https://image.tmdb.org/t/p/w154/94xUIhSzLiU3WvatcLLK1EifCib.jpg",
+"name":"Secretos del deporte: Los reyes del pantano (2023)",
+"url":"https://raw.githubusercontent.com/GlitchRob/wiseplay/main/Secretos_del_deporte_Los_reyes_del_pantano_(2023)"
+},
+{
+"image":"https://image.tmdb.org/t/p/w154/9JVOfSYafqMBame8bDs6u3jg5H.jpg",
+"name":"Te quiero y me duele (2023)",
+"url":"https://raw.githubusercontent.com/GlitchRob/wiseplay/main/Te_quiero_y_me_duele_(2023)"
+},
+{
+"image":"https://image.tmdb.org/t/p/w154/w80XbLlE0slKdFPsZWpZHGI1fl1.jpg",
+"name":"La isla del drama (2023)",
+"url":"https://raw.githubusercontent.com/GlitchRob/wiseplay/main/La_isla_del_drama_(2023)"
+},
+{
+"image":"https://image.tmdb.org/t/p/w154/zeT47uOYH8IEtImcAuI3FtGYq1l.jpg",
+"name":"Un amor predestinado (2023)",
+"url":"https://raw.githubusercontent.com/GlitchRob/wiseplay/main/Un_amor_predestinado_(2023)"
+},
+{
+"image":"https://image.tmdb.org/t/p/w154/hSmp4akD6lXpvhGbt5t6RRg6jlj.jpg",
+"name":"Star Wars: Ahsoka (2023)",
+"url":"https://raw.githubusercontent.com/GlitchRob/wiseplay/main/Star_Wars_Ahsoka_(2023)"
+},
+{
+"image":"https://image.tmdb.org/t/p/w154/cFxXB0WH25inmNGo7UYYGJKQq7i.jpg",
+"name":"Nuevos Bandidos (2023)",
+"url":"https://raw.githubusercontent.com/GlitchRob/wiseplay/main/Nuevos_Bandidos_(2023)"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/yRSvwppi9u77UWGPrRgJoTfv5DR.jpg",
 "name":"Armas y amores (2023)",
-"url":"https://raw.githubusercontent.com/GlitchRob/wiseplay/main/Armas_y_amores_(2023).w3u",
-"embed":"true"
+"url":"https://raw.githubusercontent.com/GlitchRob/wiseplay/main/Armas_y_amores_(2023)"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/mKRIwsjNRoGes1hVZxU192EQZZL.jpg",
 "name":"La chica enmascarada (2023)",
-"url":"https://raw.githubusercontent.com/GlitchRob/wiseplay/main/La_chica_enmascarada_(2023).w3u",
-"embed":"true"
+"url":"https://raw.githubusercontent.com/GlitchRob/wiseplay/main/La_chica_enmascarada_(2023)"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/jVmKVsPIq13ZajQEKARqgAFaVGo.jpg",
 "name":"Sexo en Nueva York (19982004)",
-"url":"https://raw.githubusercontent.com/GlitchRob/wiseplay/main/Sexo_en_Nueva_York_(19982004).w3u",
-"embed":"true"
+"url":"https://raw.githubusercontent.com/GlitchRob/wiseplay/main/Sexo_en_Nueva_York_(19982004)"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/6l0Hyufh0FiJMJ7zJntD2YnTfHA.jpg",
 "name":"Con tacto especial (2023)",
-"url":"https://raw.githubusercontent.com/GlitchRob/wiseplay/main/Con_tacto_especial_(2023).w3u",
-"embed":"true"
+"url":"https://raw.githubusercontent.com/GlitchRob/wiseplay/main/Con_tacto_especial_(2023)"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/tuA0rHwN3OEzapXSjsSoYt42dJ6.jpg",
 "name":"Mala Fortuna (2023)",
-"url":"https://raw.githubusercontent.com/GlitchRob/wiseplay/main/Mala_Fortuna_(2023).w3u",
-"embed":"true"
+"url":"https://raw.githubusercontent.com/GlitchRob/wiseplay/main/Mala_Fortuna_(2023)"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/pbh99N5Uguoq8XWtOQmCf46eDp7.jpg",
 "name":"Refugio (2023)",
-"url":"https://raw.githubusercontent.com/GlitchRob/wiseplay/main/Refugio_(2023).w3u",
-"embed":"true"
+"url":"https://raw.githubusercontent.com/GlitchRob/wiseplay/main/Refugio_(2023)"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/zCpHYSmb8lvrPj8LQf4Abc4W9yR.jpg",
 "name":"Detective de sombras (2022)",
-"url":"https://raw.githubusercontent.com/GlitchRob/wiseplay/main/Detective_de_sombras_(2022).w3u",
-"embed":"true"
+"url":"https://raw.githubusercontent.com/GlitchRob/wiseplay/main/Detective_de_sombras_(2022)"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/9MMDK85gpE9usy6QCCLGgTzgroW.jpg",
 "name":"En casa de los Fury (2023)",
-"url":"https://raw.githubusercontent.com/GlitchRob/wiseplay/main/En_casa_de_los_Fury_(2023).w3u",
-"embed":"true"
+"url":"https://raw.githubusercontent.com/GlitchRob/wiseplay/main/En_casa_de_los_Fury_(2023)"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/bzll2Yht3wpcEBic2NuJDRftD10.jpg",
 "name":"Depp Vs Heard (2023)",
-"url":"https://raw.githubusercontent.com/GlitchRob/wiseplay/main/Depp_Vs_Heard_(2023).w3u",
-"embed":"true"
+"url":"https://raw.githubusercontent.com/GlitchRob/wiseplay/main/Depp_Vs_Heard_(2023)"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/ddhesUg1IKrMapWTGRkF650F3dh.jpg",
 "name":"El elegido (2023)",
-"url":"https://raw.githubusercontent.com/GlitchRob/wiseplay/main/El_elegido_(2023).w3u",
-"embed":"true"
+"url":"https://raw.githubusercontent.com/GlitchRob/wiseplay/main/El_elegido_(2023)"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/j4bSPHuQodAf8SLbSalyKPo6jMU.jpg",
 "name":"Night Court (2023)",
-"url":"https://raw.githubusercontent.com/GlitchRob/wiseplay/main/Night_Court_(2023).w3u",
-"embed":"true"
+"url":"https://raw.githubusercontent.com/GlitchRob/wiseplay/main/Night_Court_(2023)"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/6sa43ghLgVY0zi0imlG2jfGYCQx.jpg",
 "name":"LEGO DREAMZzz (2023)",
-"url":"https://raw.githubusercontent.com/GlitchRob/wiseplay/main/LEGO_DREAMZzz_(2023).w3u",
-"embed":"true"
+"url":"https://raw.githubusercontent.com/GlitchRob/wiseplay/main/LEGO_DREAMZzz_(2023)"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/bo4UKcVWwX2T5HA5UsFXTXcoUsy.jpg",
 "name":"LOL: Last One Laughing Colombia (2023)",
-"url":"https://raw.githubusercontent.com/GlitchRob/wiseplay/main/LOL__Last_One_Laughing_Colombia_(2023).w3u",
-"embed":"true"
+"url":"https://raw.githubusercontent.com/GlitchRob/wiseplay/main/LOL_Last_One_Laughing_Colombia_(2023)"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/3M4smSvCOqLKN1FKG4pXLG64OlR.jpg",
 "name":"Las damas primero: Mujeres en el hiphop (2023)",
-"url":"https://raw.githubusercontent.com/GlitchRob/wiseplay/main/Las_damas_primero__Mujeres_en_el_hiphop_(2023).w3u",
-"embed":"true"
+"url":"https://raw.githubusercontent.com/GlitchRob/wiseplay/main/Las_damas_primero_Mujeres_en_el_hiphop_(2023)"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/5awFqxnqJHQD0TQCasf8VjAWqTb.jpg",
 "name":"Cadetes de mechas (2023)",
-"url":"https://raw.githubusercontent.com/GlitchRob/wiseplay/main/Cadetes_de_mechas_(2023).w3u",
-"embed":"true"
+"url":"https://raw.githubusercontent.com/GlitchRob/wiseplay/main/Cadetes_de_mechas_(2023)"
 },
-{
-"image":"https://image.tmdb.org/t/p/w154/bZzEf47CKpfh3PTkFVEOsb4lgtJ.jpg",
-"name":"Medicina letal (2023)",
-"url":"https://raw.githubusercontent.com/GlitchRob/wiseplay/main/Medicina_letal_(2023).w3u",
-"embed":"true"
-},
-{
-"image":"https://image.tmdb.org/t/p/w154/eb9KtnA0ED1gGI8Rmiw4fLGEeOl.jpg",
-"name":"Un planeta extraño (2023)",
-"url":"https://raw.githubusercontent.com/GlitchRob/wiseplay/main/Un_planeta_extraño_(2023).w3u",
-"embed":"true"
-},
-{
-"image":"https://image.tmdb.org/t/p/w154/tdCu8ggq26CqxtMUJ2o8Z5Bcw0o.jpg",
-"name":"Zombiverso (2023)",
-"url":"https://raw.githubusercontent.com/GlitchRob/wiseplay/main/Zombiverso_(2023).w3u",
-"embed":"true"
-},
-{
-"image":"https://image.tmdb.org/t/p/w154/yIIAqF0wLJnxOIv5EGSN9t4ZzmZ.jpg",
-"name":"A la caza de Veerappan (2023)",
-"url":"https://raw.githubusercontent.com/GlitchRob/wiseplay/main/A_la_caza_de_Veerappan_(2023).w3u",
-"embed":"true"
-},
-{
-"image":"https://image.tmdb.org/t/p/w154/qA95MHhhAN9yzAAOz6vJoA5APuP.jpg",
-"name":"Las últimas horas de Mario Biondo (2023)",
-"url":"https://raw.githubusercontent.com/GlitchRob/wiseplay/main/Las_últimas_horas_de_Mario_Biondo_(2023).w3u",
-"embed":"true"
-},
-{
-"image":"https://image.tmdb.org/t/p/w154/d4bCJ5f8LzZr5TG3EpU9rzfFfui.jpg",
-"name":"Cómo se convirtieron en líderes de sectas (2023)",
-"url":"https://raw.githubusercontent.com/GlitchRob/wiseplay/main/Cómo_se_convirtieron_en_líderes_de_sectas_(2023).w3u",
-"embed":"true"
-},
-{
-"image":"https://image.tmdb.org/t/p/w154/1dSlhCWkiNVVkGrEuAeNZx5Rpse.jpg",
-"name":"A través del armario (2023)",
-"url":"https://raw.githubusercontent.com/GlitchRob/wiseplay/main/A_través_del_armario_(2023).w3u",
-"embed":"true"
-},
-{
-"image":"https://image.tmdb.org/t/p/w154/gQHc3XpcD2mnlGkabIkiMHQ3n7Z.jpg",
-"name":"Chavorrucos (2023)",
-"url":"https://raw.githubusercontent.com/GlitchRob/wiseplay/main/Chavorrucos_(2023).w3u",
-"embed":"true"
-},
-{
-"image":"https://image.tmdb.org/t/p/w154/sNeGAamuke1a2I4ndcaE0bnukh4.jpg",
-"name":"Las flores perdidas de Alice Hart (2023)",
-"url":"https://raw.githubusercontent.com/GlitchRob/wiseplay/main/Las_flores_perdidas_de_Alice_Hart_(2023).w3u",
-"embed":"true"
-},
-{
-"image":"https://image.tmdb.org/t/p/w154/uPHFvc2ma51e9AEHjRDAbRSsWIA.jpg",
-"name":"The Chemistry of Death (2023)",
-"url":"https://raw.githubusercontent.com/GlitchRob/wiseplay/main/The_Chemistry_of_Death_(2023).w3u",
-"embed":"true"
-},
-{
-"image":"https://image.tmdb.org/t/p/w154/jpHziYpJniprEFDFwMbOHabgnow.jpg",
-"name":"How To with John Wilson (20202023)",
-"url":"https://raw.githubusercontent.com/GlitchRob/wiseplay/main/How_To_with_John_Wilson_(20202023).w3u",
-"embed":"true"
-},
-{
-"image":"https://image.tmdb.org/t/p/w154/sbQCbn2t8mZp7mmGqJlQWbejpLT.jpg",
-"name":"Justified: Ciudad salvaje (2023)",
-"url":"https://raw.githubusercontent.com/GlitchRob/wiseplay/main/Justified__Ciudad_salvaje_(2023).w3u",
-"embed":"true"
-},
-{
-"image":"https://image.tmdb.org/t/p/w154/t0u48HwAGsahgtvCVGp6rsVG2J5.jpg",
-"name":"Un cuento perfecto (2023)",
-"url":"https://raw.githubusercontent.com/GlitchRob/wiseplay/main/Un_cuento_perfecto_(2023).w3u",
-"embed":"true"
-},
-{
-"image":"https://image.tmdb.org/t/p/w154/msMIkS6HPRWWXXHLaTa8nQLbnz6.jpg",
-"name":"Novela (2023)",
-"url":"https://raw.githubusercontent.com/GlitchRob/wiseplay/main/Novela_(2023).w3u",
-"embed":"true"
-},
-{
-"image":"https://image.tmdb.org/t/p/w154/9tMX3Uywla2izqq6sJavzLhgXPx.jpg",
-"name":"Capitán Fall (2023)",
-"url":"https://raw.githubusercontent.com/GlitchRob/wiseplay/main/Capitán_Fall_(2023).w3u",
-"embed":"true"
-},
-{
-"image":"https://image.tmdb.org/t/p/w154/w40j5uqjJIUvRSP5zJ7Q5qRdNRs.jpg",
-"name":"Ghosts of Beirut (2023)",
-"url":"https://raw.githubusercontent.com/GlitchRob/wiseplay/main/Ghosts_of_Beirut_(2023).w3u",
-"embed":"true"
-},
-{
-"image":"https://image.tmdb.org/t/p/w154/10CTxuKTyxkCbx8pbIk1NKLSro5.jpg",
-"name":"Art Attack: Modo Desafio (2023)",
-"url":"https://raw.githubusercontent.com/GlitchRob/wiseplay/main/Art_Attack__Modo_Desafio_(2023).w3u",
-"embed":"true"
-},
-{
-"image":"https://image.tmdb.org/t/p/w154/3Zr9qJXqHQwi9IyPBDwukgg1jcZ.jpg",
-"name":"Twisted Metal (2023)",
-"url":"https://raw.githubusercontent.com/GlitchRob/wiseplay/main/Twisted_Metal_(2023).w3u",
-"embed":"true"
-},
-{
-"image":"https://image.tmdb.org/t/p/w154/6Bz9jGVoXhqp6Ihk3OI8osXzbT8.jpg",
-"name":"Colin from Accounts (2022)",
-"url":"https://raw.githubusercontent.com/GlitchRob/wiseplay/main/Colin_from_Accounts_(2022).w3u",
-"embed":"true"
-},
-{
-"image":"https://image.tmdb.org/t/p/w154/rXCzevakJoAN1qnZY0nAQPSLVRv.jpg",
-"name":"Special Ops: Lioness (2023)",
-"url":"https://raw.githubusercontent.com/GlitchRob/wiseplay/main/Special_Ops__Lioness_(2023).w3u",
-"embed":"true"
-},
-{
-"image":"https://image.tmdb.org/t/p/w154/cFmYdvzY4fXRlH0crFLElvW2fu.jpg",
-"name":"Slip (2023)",
-"url":"https://raw.githubusercontent.com/GlitchRob/wiseplay/main/Slip_(2023).w3u",
-"embed":"true"
-},
-{
-"image":"https://image.tmdb.org/t/p/w154/dwzMMyg4Ry9g2JIusULjAggWk7o.jpg",
-"name":"Negociador (2023)",
-"url":"https://raw.githubusercontent.com/GlitchRob/wiseplay/main/Negociador_(2023).w3u",
-"embed":"true"
-},
-{
-"image":"https://image.tmdb.org/t/p/w154/A4dlv2PzrMNeM4bgzamcvK3bWlf.jpg",
-"name":"Libre de reír (2023)",
-"url":"https://raw.githubusercontent.com/GlitchRob/wiseplay/main/Libre_de_reír_(2023).w3u",
-"embed":"true"
-},
-{
-"image":"https://image.tmdb.org/t/p/w154/70yC4YXA0ZJ3EpwV0T08AbP3LR0.jpg",
-"name":"Las Super-4 (2023)",
-"url":"https://raw.githubusercontent.com/GlitchRob/wiseplay/main/Las_Super-4_(2023).w3u",
-"embed":"true"
-},
-{
-"image":"https://image.tmdb.org/t/p/w154/pEmo6aaLTTdDwXY41liecyDeYtc.jpg",
-"name":"Monster High (2022)",
-"url":"https://raw.githubusercontent.com/GlitchRob/wiseplay/main/Monster_High_(2022).w3u",
-"embed":"true"
-},
-{
-"image":"https://image.tmdb.org/t/p/w154/esXkEJVabYCvl15jAvzYkBB4gyT.jpg",
-"name":"Volver a caer (2023)",
-"url":"https://raw.githubusercontent.com/GlitchRob/wiseplay/main/Volver_a_caer_(2023).w3u",
-"embed":"true"
-},
-{
-"image":"https://image.tmdb.org/t/p/w154/79GHPsQqcHMaOckLa18Wbk30F69.jpg",
-"name":"Pancho Villa: El centauro del norte (2023)",
-"url":"https://raw.githubusercontent.com/GlitchRob/wiseplay/main/Pancho_Villa:_El_centauro_del_norte_(2023).w3u",
-"embed":"true"
-},
-{
-"image":"https://image.tmdb.org/t/p/w154/4makcnBhtTRRDh01AY4eqsu3ZM8.jpg",
-"name":"Bajo el paraguas de la reina (2022)",
-"url":"https://raw.githubusercontent.com/GlitchRob/wiseplay/main/Bajo_el_paraguas_de_la_reina_(2022).w3u",
-"embed":"true"
-},
-{
-"image":"https://image.tmdb.org/t/p/w154/AurLEp91XVWnkgRsn5dR5vkPFYM.jpg",
-"name":"Cenizas del pasado (2023)",
-"url":"https://raw.githubusercontent.com/GlitchRob/wiseplay/main/Cenizas_del_pasado_(2023).w3u",
-"embed":"true"
-},
-{
-"image":"https://image.tmdb.org/t/p/w154/uFnFNqYTpVr3DRiEr6P5e9Xa7xV.jpg",
-"name":"La supervivencia de una chica con curvas (2023)",
-"url":"https://raw.githubusercontent.com/GlitchRob/wiseplay/main/La_supervivencia_de_una_chica_con_curvas_(2023).w3u",
-"embed":"true"
-},
-{
-"image":"https://image.tmdb.org/t/p/w154/9JYquzF1KxDAkVXFm2rdVAYH48D.jpg",
-"name":"C.H.U.E.C.O (2023)",
-"url":"https://raw.githubusercontent.com/GlitchRob/wiseplay/main/C.H.U.E.C.O_(2023).w3u",
-"embed":"true"
-},
-{
-"image":"tt27282525",
-"name":"tt27282525",
-"url":"https://raw.githubusercontent.com/GlitchRob/wiseplay/main/tt27282525.w3u",
-"embed":"true"
-},
-{
-"image":"https://image.tmdb.org/t/p/w154/ee708UKCOyM5sgEY0NcizO2s1OF.jpg",
-"name":"Círculo cerrado (2023)",
-"url":"https://raw.githubusercontent.com/GlitchRob/wiseplay/main/Círculo_cerrado_(2023).w3u",
-"embed":"true"
-},
-{
-"image":"https://image.tmdb.org/t/p/w154/sFLBmaQcUDSz87bL7UlkE8oVumm.jpg",
-"name":"The Rookie: Feds (2022)",
-"url":"https://raw.githubusercontent.com/GlitchRob/wiseplay/main/The_Rookie:_Feds_(2022).w3u",
-"embed":"true"
-},
-{
-"image":"https://image.tmdb.org/t/p/w154/bKdElEIyuwrbdochxCXwlaUBFaR.jpg",
-"name":"Quarterback (2023)",
-"url":"https://raw.githubusercontent.com/GlitchRob/wiseplay/main/Quarterback_(2023).w3u",
-"embed":"true"
-},
-{
-"image":"https://image.tmdb.org/t/p/w154/5USXoPoKWu6LxIdCOIlJoxWvyqC.jpg",
-"name":"Without Sin (2022)",
-"url":"https://raw.githubusercontent.com/GlitchRob/wiseplay/main/Without_Sin_(2022).w3u",
-"embed":"true"
-},
-{
-"image":"https://image.tmdb.org/t/p/w154/sDwRlM1l7f2w4AJDz3b9P26qPSa.jpg",
-"name":"De los 19 a los 20 (2023)",
-"url":"https://raw.githubusercontent.com/GlitchRob/wiseplay/main/De_los_19_a_los_20_(2023).w3u",
-"embed":"true"
-},
-{
-"image":"https://image.tmdb.org/t/p/w154/q0hJGwue4SZlBIy33SXprTgPw1g.jpg",
-"name":"Marcelo, Marmelo, Martelo (2023)",
-"url":"https://raw.githubusercontent.com/GlitchRob/wiseplay/main/Marcelo,_Marmelo,_Martelo_(2023).w3u",
-"embed":"true"
-},
-{
-"image":"https://image.tmdb.org/t/p/w154/e1r3CSHTgd7ZKX8yhfsZ0JUlFgw.jpg",
-"name":"548 días: captada por una secta (2023)",
-"url":"https://raw.githubusercontent.com/GlitchRob/wiseplay/main/548_días:_captada_por_una_secta_(2023).w3u",
-"embed":"true"
-},
-{
-"image":"https://image.tmdb.org/t/p/w154/s83DmhvDxeVPu4x4ZpLQ3KmGe0K.jpg",
-"name":"Vagrant Queen (2020)",
-"url":"https://raw.githubusercontent.com/GlitchRob/wiseplay/main/Vagrant_Queen_(2020).w3u",
-"embed":"true"
-},
-{
-"image":"https://image.tmdb.org/t/p/w154/o8YYo24AIe5KxRqrgEEVwcPw0M6.jpg",
-"name":"Mis aventuras con Superman (2023)",
-"url":"https://raw.githubusercontent.com/GlitchRob/wiseplay/main/Mis_aventuras_con_Superman_(2023).w3u",
-"embed":"true"
-},
-{
-"image":"https://image.tmdb.org/t/p/w154/r36Eqjlz6vm20ETTK4ctfADgItb.jpg",
-"name":"Seducción fatal (2023)",
-"url":"https://raw.githubusercontent.com/GlitchRob/wiseplay/main/Seducción_fatal_(2023).w3u",
-"embed":"true"
-},
-{
-"image":"https://image.tmdb.org/t/p/w154/y2hAQhAwE9fRe4cpq2OrcPLRxNO.jpg",
-"name":"bupkis (2023)",
-"url":"https://raw.githubusercontent.com/GlitchRob/wiseplay/main/bupkis_(2023).w3u",
-"embed":"true"
-},
-{
-"image":"https://image.tmdb.org/t/p/w154/kNfgnkczmgrp6Bj9D8hoeCh2lJK.jpg",
-"name":"¡Despierta, Carlo! (2023)",
-"url":"https://raw.githubusercontent.com/GlitchRob/wiseplay/main/¡Despierta,_Carlo!_(2023).w3u",
-"embed":"true"
-},
-{
-"image":"https://image.tmdb.org/t/p/w154/qTYLRBCNyOuyktuTcjqJ7rbXxaF.jpg",
-"name":"La trágica historia de Dolores Roach (2023)",
-"url":"https://raw.githubusercontent.com/GlitchRob/wiseplay/main/La_trágica_historia_de_Dolores_Roach_(2023).w3u",
-"embed":"true"
-},
-{
-"image":"https://image.tmdb.org/t/p/w154/8aWRzJClwsPieNrKMB11B8mmqHg.jpg",
-"name":"A Thin Line (2023)",
-"url":"https://raw.githubusercontent.com/GlitchRob/wiseplay/main/A_Thin_Line_(2023).w3u",
-"embed":"true"
-},
-{
-"image":"https://image.tmdb.org/t/p/w154/dMzKtQl7PSXYIOGlVWpHkA4UJDo.jpg",
-"name":"Las buenas madres (2023)",
-"url":"https://raw.githubusercontent.com/GlitchRob/wiseplay/main/Las_buenas_madres_(2023).w3u",
-"embed":"true"
-},
-{
-"image":"https://image.tmdb.org/t/p/w154/3r2mlFb4Kg2d7epkEmLFyJq9oGQ.jpg",
-"name":"Mentiras arriesgadas (2023)",
-"url":"https://raw.githubusercontent.com/GlitchRob/wiseplay/main/Mentiras_arriesgadas_(2023).w3u",
-"embed":"true"
-},
-{
-"image":"https://image.tmdb.org/t/p/w154/aDlBM1flPwBxQykQaaGy2JjNsk2.jpg",
-"name":"Fatalidad a tu servicio (2021)",
-"url":"https://raw.githubusercontent.com/GlitchRob/wiseplay/main/Fatalidad_a_tu_servicio_(2021).w3u",
-"embed":"true"
-}
+
 ]}
