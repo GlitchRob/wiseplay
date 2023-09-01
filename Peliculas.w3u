@@ -5258,7 +5258,6 @@
 "url":"https://41414142.xyz/video/tt16377862/",
 "embed":"true"
 },
-
 {
 "image":"https://image.tmdb.org/t/p/w154/jPuNCEn62VybTAa9cvavO32i226.jpg",
 "name":"28 días","info":"2000",
@@ -5339,8 +5338,7 @@
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/rxttEiGllbzbx7TaNfxi1PLYm6X.jpg",
-"name":"<p class="text-opacity m-b-20 font-size-13">@
-Dear David </p>",
+"name":"Dear David",
 "url":"https://41414142.xyz/video/tt21986198/",
 "embed":"true"
 },
@@ -5547,7 +5545,6 @@ Dear David </p>",
 "name":"One Day as a Lion","info":"2023",
 "url":"https://41414142.xyz/video/tt15783426/",
 "embed":"true"
-},
-
+}
 ]}
 ]}
