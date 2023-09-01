@@ -1,108 +1,113 @@
 {
   "name": "Películas",
-  "info": "Películas recopiladas de series kao",
+  "info": "Peliculas recopiladas de series kao",
   "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm9_2twTJTv1LQQ4ddpSq2XomlYyTCRVg0ZFUDQa_uHw&s",
   "author": "iCatz",
   "telegram": "t.me/iCatz_entertainment",
   "url": "https://raw.githubusercontent.com/GlitchRob/wiseplay/main/Peliculas.w3u",
   "groups": [
-    {
-      "image": "",
-      "name": "Recién agregos",
-      "stations": [
- {
+{
+"name":"Recién agregado",
+"stations": [
+{
+"image":"https://image.tmdb.org/t/p/w154/hSnvrM0rY4sBA2s8XygP76YBDJJ.jpg",
+"name":"No es otra estúpida película americana","info":"2001",
+"url":"https://41414142.xyz/video/tt0277371/",
+"embed":"true"
+},
+{
 "image":"https://image.tmdb.org/t/p/w154/wwPiJcj8q6VTnOPbrwjVp4HKeR1.jpg",
-"name":"Vida perra (2023)",
+"name":"Vida perra","info":"2023",
 "url":"https://41414142.xyz/video/tt15153532/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/deoxTZeVAULpVvbbxrNxAcyHAkk.jpg",
-"name":"Wonderwell (2023)",
+"name":"Wonderwell","info":"2023",
 "url":"https://41414142.xyz/video/tt6195756/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/idew42l7ILdyR97XC9yG4hFUy1Z.jpg",
-"name":"El club de los lectores criminales (2023)",
+"name":"El club de los lectores criminales","info":"2023",
 "url":"https://41414142.xyz/video/tt18260564/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/iLJsl9CIKiW497tYdtyzWruxTvr.jpg",
-"name":"El extraño caso del fantasma claustrofóbico (2023)",
+"name":"El extraño caso del fantasma claustrofóbico","info":"2023",
 "url":"https://41414142.xyz/video/tt22048932/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/sKBjnmHQZv2l6EkBs2wCcL3ANv3.jpg",
-"name":"Vanished: Searching for My Sister (2022)",
+"name":"Vanished: Searching for My Sister","info":"2022",
 "url":"https://41414142.xyz/video/tt15726370/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/1eU21is04jYYaqNq6NMMvEWVP8J.jpg",
-"name":"Brie's Bake Off Challenge (2022)",
+"name":"Brie's Bake Off Challenge","info":"2022",
 "url":"https://41414142.xyz/video/tt8834630/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/zIFSswSCCnIHga9rT9ZV7jwPLmx.jpg",
-"name":"Love, Fashion, Repeat (2022)",
+"name":"Love, Fashion, Repeat","info":"2022",
 "url":"https://41414142.xyz/video/tt16411844/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/uo5mcikR6oGyqpgem8R2NDuPvFt.jpg",
-"name":"Jules (2023)",
+"name":"Jules","info":"2023",
 "url":"https://41414142.xyz/video/tt15428940/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/rclheGt04HeMD892DFbm6xWjCFJ.jpg",
-"name":"Mount Hideaway Mysteries: Heartache and Homecoming (2022)",
+"name":"Mount Hideaway Mysteries: Heartache and Homecoming","info":"2022",
 "url":"https://41414142.xyz/video/tt21310658/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/ykrOMIARBk0b4NY2I0IxsFUhUe8.jpg",
-"name":"Trapped in the Cabin (2023)",
+"name":"Trapped in the Cabin","info":"2023",
 "url":"https://41414142.xyz/video/tt27460992/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/gAkbyeCnrraLx6viWMuz1oZsdCM.jpg",
-"name":"Sanctified (2022)",
+"name":"Sanctified","info":"2022",
 "url":"https://41414142.xyz/video/tt11613450/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/fGc9HKeGKebC1RD7WPt0NYDONTo.jpg",
-"name":"Metalocalypse: El Ejercito de la estrella del mal (2023)",
+"name":"Metalocalypse: El Ejercito de la estrella del mal","info":"2023",
 "url":"https://41414142.xyz/video/tt14636170/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/aGfgmMwL010Ll9rEgrn6XXPzZgP.jpg",
-"name":"To Leslie (2022)",
+"name":"To Leslie","info":"2022",
 "url":"https://41414142.xyz/video/tt8129806/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/pBiCR1Rl2YX0tNXg38EFPGRytsS.jpg",
-"name":"Hasta el límite del honor (2022)",
+"name":"Hasta el límite del honor","info":"2022",
 "url":"https://41414142.xyz/video/tt19770590/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/svuvnyQSCn4NPPK6bYiZ1WUqjql.jpg",
-"name":"Amor al cuadrado por siempre ()",
+"name":"Amor al cuadrado por siempre","info":"",
 "url":"https://41414142.xyz/video/tt28496500/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/8yIc01aYTo5NsM6qzog80CBZr55.jpg",
-"name":"Io e Angela (2021)",
+"name":"Io e Angela","info":"2021",
 "url":"https://41414142.xyz/video/tt14631460/",
 "embed":"true"
 },
@@ -114,19 +119,19 @@
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/xb63VT8E4Q2RjLT7qnzvc5jRFAQ.jpg",
-"name":"The Wash (2001)",
+"name":"The Wash","info":"2001",
 "url":"https://41414142.xyz/video/tt0290332/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/eN6AKmTX4E5F7mLT4c6Zia9MKkR.jpg",
-"name":"The List: Rienda suelta (2023)",
+"name":"The List: Rienda suelta","info":"2023",
 "url":"https://41414142.xyz/video/tt12917050/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/AenJ68E9z4IeasZs72jUgwO4Fo5.jpg",
-"name":"Somewhere in Queens (2022)",
+"name":"Somewhere in Queens","info":"2022",
 "url":"https://41414142.xyz/video/tt14097180/",
 "embed":"true"
 },
@@ -3534,187 +3539,187 @@
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/8tmVuix29w6RH2T09D0crzXMQj1.jpg",
-"name":"Kill Shot (2023)",
+"name":"Kill Shot","info":"2023",
 "url":"https://41414142.xyz/video/tt13039008/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/VmFkaJdH1lXYU0a4ZDGO5Fq9B2.jpg",
-"name":"Unfinished (2022)",
+"name":"Unfinished","info":"2022",
 "url":"https://41414142.xyz/video/tt15106604/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/zYt35YGKoc85LXULzMKDfJ8qX1C.jpg",
-"name":"Aporia (2023)",
+"name":"Aporia","info":"2023",
 "url":"https://41414142.xyz/video/tt8511466/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/dAImnw2GJNDAEVeGij9HVQNJD2c.jpg",
-"name":"El último viaje del Demeter (2023)",
+"name":"El último viaje del Demeter","info":"2023",
 "url":"https://41414142.xyz/video/tt1001520/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/twdgFrp9Sd8rb3TdbWFQXAvslrH.jpg",
-"name":"Praise This (2023)",
+"name":"Praise This","info":"2023",
 "url":"https://41414142.xyz/video/tt9658388/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/xDaSyYTkevwjcS4EQeRK1ztW0dL.jpg",
-"name":"Hambre (2023)",
+"name":"Hambre","info":"2023",
 "url":"https://41414142.xyz/video/tt22695402/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/yRZ44AtDgxeCVtIihzgZRN0k8H.jpg",
-"name":"La Trampa (2022)",
+"name":"La Trampa","info":"2022",
 "url":"https://41414142.xyz/video/tt18245048/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/3WtPRtnlNh3DhKVL231NgO07cUA.jpg",
-"name":"La maniobra de la tortuga (2022)",
+"name":"La maniobra de la tortuga","info":"2022",
 "url":"https://41414142.xyz/video/tt6378536/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/zie3aYN3aFNWN4iVfCZL5pJgBv9.jpg",
-"name":"El Arte de la Sobrevivencia ()",
+"name":"El Arte de la Sobrevivencia","info":"",
 "url":"https://41414142.xyz/video/tt15053106/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/eM5e77LUC3X6K6Fy5sxGNvTv63w.jpg",
-"name":"Kings of Mulberry Street: Let Love Reign (2023)",
+"name":"Kings of Mulberry Street: Let Love Reign","info":"2023",
 "url":"https://41414142.xyz/video/tt13014820/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/gSxVt7yW4s8lqnGCCXDGJT2UxMZ.jpg",
-"name":"Under the Stadium Lights (2021)",
+"name":"Under the Stadium Lights","info":"2021",
 "url":"https://41414142.xyz/video/tt6384920/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/mcLwcWIvlgqyR08HHz4vZL3RpxF.jpg",
-"name":"Chanson douce (2019)",
+"name":"Chanson douce","info":"2019",
 "url":"https://41414142.xyz/video/tt7600706/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/6WD5wdt4SFylLyE66SoE3kEZskB.jpg",
-"name":"Boon (2022)",
+"name":"Boon","info":"2022",
 "url":"https://41414142.xyz/video/tt13026738/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/dAwvE6Vd4mhlx2xJU6PqjBAM2y5.jpg",
-"name":"Chupa (2023)",
+"name":"Chupa","info":"2023",
 "url":"https://41414142.xyz/video/tt14923260/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/vXbs90UPMn7pioX5euaKTzhi5Bi.jpg",
-"name":"Aaahh Belinda (2023)",
+"name":"Aaahh Belinda","info":"2023",
 "url":"https://41414142.xyz/video/tt20567314/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/6Nhm3ZRThp0W97igGTUDNTf25c7.jpg",
-"name":"A jatszma (2022)",
+"name":"A jatszma","info":"2022",
 "url":"https://41414142.xyz/video/tt13400142/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/qiAM7Y8xF8wJDDsjeSuLgzyFGmd.jpg",
-"name":"Infelices para Siempre (2023)",
+"name":"Infelices para Siempre","info":"2023",
 "url":"https://41414142.xyz/video/tt10669914/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/nOc3KwOtTtgXraeBddn3gLpCuaA.jpg",
-"name":"Las aventuras de Maurice (2022)",
+"name":"Las aventuras de Maurice","info":"2022",
 "url":"https://41414142.xyz/video/tt10473036/",
 "embed":"true"
 },
 {
 "image":"https://41414142.xyz/video/tt10473036/",
-"name":"Super Mario Bros: La pelicula (2023)",
+"name":"Super Mario Bros: La pelicula","info":"2023",
 "url":"https://41414142.xyz/video/tt6718170/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/cDsjKX93HdfTMzkdiOVBhXERhph.jpg",
-"name":"Air (2023)",
+"name":"Air","info":"2023",
 "url":"https://41414142.xyz/video/tt16419074/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/qcknZEeD71byJ3XSalDDZ5iHpNr.jpg",
-"name":"El exorcista del papa (2023)",
+"name":"El exorcista del papa","info":"2023",
 "url":"https://41414142.xyz/video/tt13375076/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/kogK99QugddnSIMe3Wy8fWCLL60.jpg",
-"name":"Ten Little Mistresses (2023)",
+"name":"Ten Little Mistresses","info":"2023",
 "url":"https://41414142.xyz/video/tt24787466/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/1dGTTSiHPujTJUuMCdDsrNKkWfI.jpg",
-"name":"My Landlord Wants Me Dead (2023)",
+"name":"My Landlord Wants Me Dead","info":"2023",
 "url":"https://41414142.xyz/video/tt21277660/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/t32wZY57Iue9g1M7pQ3uqldEYZW.jpg",
-"name":"True Legend: King of Beggars (2022)",
+"name":"True Legend: King of Beggars","info":"2022",
 "url":"https://41414142.xyz/video/8443812537/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/t32wZY57Iue9g1M7pQ3uqldEYZW.jpg",
-"name":"True Legend: King of Beggars (2022)",
+"name":"True Legend: King of Beggars","info":"2022",
 "url":"https://41414142.xyz/video/8443812537/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/s6D8g3TZsIZtsg8Hn1WPqPgcKa6.jpg",
-"name":"Heavy Gear 4 Attack of the Behemoths (2022)",
+"name":"Heavy Gear 4 Attack of the Behemoths","info":"2022",
 "url":"https://41414142.xyz/video/1162908410/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/ze1c4Pyom6Db9Xhie4kX0Ke8J53.jpg",
-"name":"Clutch Time (2020)",
+"name":"Clutch Time","info":"2020",
 "url":"https://41414142.xyz/video/0370594333/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/lx3SoVYVrVxnXwP380KqCnNxHxz.jpg",
-"name":"The Mulligan (2022)",
+"name":"The Mulligan","info":"2022",
 "url":"https://41414142.xyz/video/tt11563926/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/1f3qspv64L5FXrRy0MF8X92ieuw.jpg",
-"name":"Monsters of Man (2020)",
+"name":"Monsters of Man","info":"2020",
 "url":"https://41414142.xyz/video/tt6456326/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/byYLhZLwKAMlLFVEcIH6LMOc5Us.jpg",
-"name":"Inside (2023)",
+"name":"Inside","info":"2023",
 "url":"https://41414142.xyz/video/tt14781036/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/A7COUQP7HWcQgnrFdg99JNAsZ7D.jpg",
-"name":"La Maldicion (2022)",
+"name":"La Maldicion","info":"2022",
 "url":"https://41414142.xyz/video/tt17162336/",
 "embed":"true"
 },
@@ -3726,607 +3731,607 @@
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/1Bi9eVHTu2OW24aqNZjLgGUYT3k.jpg",
-"name":"90 minutos en el cielo (2015)",
+"name":"90 minutos en el cielo","info":"2015",
 "url":"https://41414142.xyz/video/tt4337690/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/vxm6Q2krtLaHN3rroS2XHqyyucg.jpg",
-"name":"Assassin (2023)",
+"name":"Assassin","info":"2023",
 "url":"https://41414142.xyz/video/tt14555174/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/oXHFblufSKk4O8fhJTzS5OhMNkh.jpg",
-"name":"Los tres deseos de Cenicienta (2021)",
+"name":"Los tres deseos de Cenicienta","info":"2021",
 "url":"https://41414142.xyz/video/tt10147580/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/bewmBcjJxHeipS1PNu9Lfyvt3zY.jpg",
-"name":"The Cursed (2021)",
+"name":"The Cursed","info":"2021",
 "url":"https://41414142.xyz/video/tt9907782/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/AcdEqYTTnh6luc2heEsjf0fAI7X.jpg",
-"name":"Amor en Rye Lane (2023)",
+"name":"Amor en Rye Lane","info":"2023",
 "url":"https://41414142.xyz/video/tt15893750/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/vqeTY6g1ZTT7mkrvlSCiVgft8Wr.jpg",
-"name":"The Reading (2023)",
+"name":"The Reading","info":"2023",
 "url":"https://41414142.xyz/video/tt13358022/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/uGxIYzYhYKDgE1U5DDI7gSkYmoC.jpg",
-"name":"Dungeons & Dragons: Honor entre ladrones (2023)",
+"name":"Dungeons & Dragons: Honor entre ladrones","info":"2023",
 "url":"https://41414142.xyz/video/tt2906216/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/2eAjJ3oRr7tOI82h1H8M6z8r7bC.jpg",
-"name":"Tres mil años esperándote (2022)",
+"name":"Tres mil años esperándote","info":"2022",
 "url":"https://41414142.xyz/video/tt9198364/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/748fvxCzIKHKZI2c98DdWPAeNkR.jpg",
-"name":"Pacto de graduación (2023)",
+"name":"Pacto de graduación","info":"2023",
 "url":"https://41414142.xyz/video/tt17321230/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/w1CviNrfYjtPDN6UTIUcqCe3WfN.jpg",
-"name":"Misterio a Bordo 2 (2023)",
+"name":"Misterio a Bordo 2","info":"2023",
 "url":"https://41414142.xyz/video/tt15255288/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/1MQoYvEIvsCZMpTuBlWfbaliJes.jpg",
-"name":"Boksoon debe morir (2023)",
+"name":"Boksoon debe morir","info":"2023",
 "url":"https://41414142.xyz/video/tt16900880/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/4F2QwCOYHJJjecSvdOjStuVLkpu.jpg",
-"name":"Tetris (2023)",
+"name":"Tetris","info":"2023",
 "url":"https://41414142.xyz/video/tt12758060/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/lsYUqcltjhTmAfPXtzKZHX0SL7z.jpg",
-"name":"Trickster (2018)",
+"name":"Trickster","info":"2018",
 "url":"https://41414142.xyz/video/tt7558166/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/ieyUpr5ES9QEz1cn4clCnBf9XJl.jpg",
-"name":"¡Que viva México! (2023)",
+"name":"¡Que viva México!","info":"2023",
 "url":"https://41414142.xyz/video/tt22185848/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/uDsvma9dAwnDPVuCFi99YpWvBk0.jpg",
-"name":"Ninjas Down the Street (2022)",
+"name":"Ninjas Down the Street","info":"2022",
 "url":"https://41414142.xyz/video/tt18274606/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/99OyDJoYWAgEpJHqUL9pOFnnm9C.jpg",
-"name":"Sola (2021)",
+"name":"Sola","info":"2021",
 "url":"https://41414142.xyz/video/tt9584128/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/bQ6VHfXvBvlhqCXCm1GezQe1YUX.jpg",
-"name":"Eminence Hill (2019)",
+"name":"Eminence Hill","info":"2019",
 "url":"https://41414142.xyz/video/tt9135272/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/oQdcQBnKKGTX83PANTq5LiYkBlb.jpg",
-"name":"Big Mäck: Gánsteres y oro (2023)",
+"name":"Big Mäck: Gánsteres y oro","info":"2023",
 "url":"https://41414142.xyz/video/tt26450458/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/xNyqgBBkbII8qBejh5czNqrT70p.jpg",
-"name":"Float (2022)",
+"name":"Float","info":"2022",
 "url":"https://41414142.xyz/video/tt15289312/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/5MiVG39r82aYUAtvs3bTycmbewJ.jpg",
-"name":"Mi maestra se comió a mi amigo (2023)",
+"name":"Mi maestra se comió a mi amigo","info":"2023",
 "url":"https://41414142.xyz/video/tt27272780/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/j8qwK8zpYAuaylpoox8taSUdHrB.jpg",
-"name":"Mientras Haya Esperanza (2023)",
+"name":"Mientras Haya Esperanza","info":"2023",
 "url":"https://41414142.xyz/video/tt13929998/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/kVBZBDHO271obL91WG8l2owoq5f.jpg",
-"name":"Champions (2023)",
+"name":"Champions","info":"2023",
 "url":"https://41414142.xyz/video/tt15339570/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/mn1GYIQ1tvFuuu0YBNZBvrHyrkO.jpg",
-"name":"The Commando (2022)",
+"name":"The Commando","info":"2022",
 "url":"https://41414142.xyz/video/tt12689248/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/sWZMtsaGeco7Mqha5nOOr48jdcm.jpg",
-"name":"Catorce Dias (2021)",
+"name":"Catorce Dias","info":"2021",
 "url":"https://41414142.xyz/video/tt16293668/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/aXxkw7orae4FNaCZ7X65WTBLhx2.jpg",
-"name":"Ghetto (2006)",
+"name":"Ghetto","info":"2006",
 "url":"https://41414142.xyz/video/tt0783522/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/5uriF7cQQzfcgwWblJD80tIE7gu.jpg",
-"name":"Rescate en el Barrio Chino (1986)",
+"name":"Rescate en el Barrio Chino","info":"1986",
 "url":"https://41414142.xyz/video/tt0090728/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/cQVOJcX7pUbmRQb0MgM1uqnj0kM.jpg",
-"name":"The Policemans Lineage (2022)",
+"name":"The Policemans Lineage","info":"2022",
 "url":"https://41414142.xyz/video/tt16676718/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/8ow86OtVt4H92JYlNM8Qep4a6gi.jpg",
-"name":"Cambio de turno (2020)",
+"name":"Cambio de turno","info":"2020",
 "url":"https://41414142.xyz/video/tt10405760/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/41mYa7BXAxhwv5g2Gj2lvhTtbXN.jpg",
-"name":"Andrew Bennett (2018)",
+"name":"Andrew Bennett","info":"2018",
 "url":"https://41414142.xyz/video/tt8816186/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/gh2bmprLtUQ8oXCSluzfqaicyrm.jpg",
-"name":"John Wick 4 (2023)",
+"name":"John Wick 4","info":"2023",
 "url":"https://41414142.xyz/video/tt10366206/",
 "embed":"true"
 },
 {
 "image":"https://i.embedsito.net/t/solo_somos_carne.jpg",
-"name":"Solo Somos Carne (2022)",
+"name":"Solo Somos Carne","info":"2022",
 "url":"https://41414142.xyz/video/tt22526694/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/1yth1Hep2Z6AyRE6U3dz7t1oQ7d.jpg",
-"name":"Furies (2022)",
+"name":"Furies","info":"2022",
 "url":"https://41414142.xyz/video/tt25260664/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/gpnYOOKmI6KHj1VScHymF0u2QVe.jpg",
-"name":"Locked-in Society (2022)",
+"name":"Locked-in Society","info":"2022",
 "url":"https://41414142.xyz/video/tt17517876/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/88tCnvwviiHhmkpJxFcaDS1Vg5S.jpg",
-"name":"El vuelo de los ladrones (2023)",
+"name":"El vuelo de los ladrones","info":"2023",
 "url":"https://41414142.xyz/video/tt22297828/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/ucO3NFIvMff71cBRR5EgYXPKWMC.jpg",
-"name":"Adicción perfecta (2023)",
+"name":"Adicción perfecta","info":"2023",
 "url":"https://41414142.xyz/video/tt12965390/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/cNrNzSUIY9wIgPQOb4Sf77qqhQ3.jpg",
-"name":"The Grandson (2022)",
+"name":"The Grandson","info":"2022",
 "url":"https://41414142.xyz/video/tt13921588/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/aWLR3s0EpqZYXNXXHVH0GCu6Gru.jpg",
-"name":"Battle for Saipan (2022)",
+"name":"Battle for Saipan","info":"2022",
 "url":"https://41414142.xyz/video/tt17156822/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/9T6RD2i3aI8PXjGEcj07xTQetcs.jpg",
-"name":"Here Love Lies (2023)",
+"name":"Here Love Lies","info":"2023",
 "url":"https://41414142.xyz/video/tt15139698/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/zbzkNNViy1dH2jCLMok2DmHX8e9.jpg",
-"name":"Johnny (2022)",
+"name":"Johnny","info":"2022",
 "url":"https://41414142.xyz/video/tt15538570/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/iJLCd9Tj69tZGNO1NevEOZXvpAT.jpg",
-"name":"Bring Me a Dream (2020)",
+"name":"Bring Me a Dream","info":"2020",
 "url":"https://41414142.xyz/video/tt5672750/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/5KSdIPMGQHHbIu7R6YkX0BVI8vP.jpg",
-"name":"Con canas y a lo loco (2022)",
+"name":"Con canas y a lo loco","info":"2022",
 "url":"https://41414142.xyz/video/tt14330236/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/qjlpRjvnjDKwLJmK3Q2PPkj6PtU.jpg",
-"name":"El engaño (2022)",
+"name":"El engaño","info":"2022",
 "url":"https://41414142.xyz/video/tt14923008/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/ZmbSkGEpXFufbDhgfTnSrFAguo.jpg",
-"name":"Winnie the Pooh: Blood and Honey (2023)",
+"name":"Winnie the Pooh: Blood and Honey","info":"2023",
 "url":"https://41414142.xyz/video/tt19623240/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/tIFq7whMaQaduV990viTHv12YlY.jpg",
-"name":"Black Lotus (2023)",
+"name":"Black Lotus","info":"2023",
 "url":"https://41414142.xyz/video/tt15895490/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/tNkEDkstcH0waaOkKV3hdipnCoi.jpg",
-"name":"Stay Out of the Basement (2023)",
+"name":"Stay Out of the Basement","info":"2023",
 "url":"https://41414142.xyz/video/tt23028288/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/h1r6A3fTe2urhf9ZTdgY0KAhOwc.jpg",
-"name":"Código Banshee (2022)",
+"name":"Código Banshee","info":"2022",
 "url":"https://41414142.xyz/video/tt15438542/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/4zWxQ0hymf6S2wQfj0lY8rfgvjZ.jpg",
-"name":"El último hombre sobre la Tierra (2022)",
+"name":"El último hombre sobre la Tierra","info":"2022",
 "url":"https://41414142.xyz/video/tt26082988/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/ditEcoA44lPySL0qqSEA3sXJIS2.jpg",
-"name":"The Day After Halloween (2022)",
+"name":"The Day After Halloween","info":"2022",
 "url":"https://41414142.xyz/video/tt17175444/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/hrATQE8ScQceohwInaMluluNEaf.jpg",
-"name":"Batman: The Doom That Came to Gotham (2023)",
+"name":"Batman: The Doom That Came to Gotham","info":"2023",
 "url":"https://41414142.xyz/video/tt24223450/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/xrQhWZcCJFSAWsaBpAY5VrQryZX.jpg",
-"name":"Hair-Trigger (2022)",
+"name":"Hair-Trigger","info":"2022",
 "url":"https://41414142.xyz/video/tt11241394/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/s0Qx9YL1JSpYKm1hu0Ovj0IJ1SN.jpg",
-"name":"Borderland (2023)",
+"name":"Borderland","info":"2023",
 "url":"https://41414142.xyz/video/tt8019518/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/cqo0hVifRmsSwHg6tAP1nF3f9eB.jpg",
-"name":"Monster of The Deep (2022)",
+"name":"Monster of The Deep","info":"2022",
 "url":"https://41414142.xyz/video/3562321478/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/jZ1PhCyXEySYR7f9q52KYb62Bwp.jpg",
-"name":"Paint (2023)",
+"name":"Paint","info":"2023",
 "url":"https://41414142.xyz/video/tt14472156/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/sCencQt3ir73FCjJ4MW4VNidP59.jpg",
-"name":"Perempuan Bergaun Merah (2022)",
+"name":"Perempuan Bergaun Merah","info":"2022",
 "url":"https://41414142.xyz/video/tt11710112/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/uAnwuVnnJ52ro72DaVUXKmBHnzq.jpg",
-"name":"El poderoso Victoria (2021)",
+"name":"El poderoso Victoria","info":"2021",
 "url":"https://41414142.xyz/video/tt11872724/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/ohxEF8mZb7eVeUZonUk60BAVN5u.jpg",
-"name":"The Black Demon (2023)",
+"name":"The Black Demon","info":"2023",
 "url":"https://41414142.xyz/video/tt10279472/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/o9hwOE1FeOelkNxfsGtTNrlWnyq.jpg",
-"name":"The Girl Who Escaped: The Kara Robinson Story (2023)",
+"name":"The Girl Who Escaped: The Kara Robinson Story","info":"2023",
 "url":"https://41414142.xyz/video/tt25602750/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/s9nwiVMOVvnS2Jt6hdy7UHoFSD0.jpg",
-"name":"Organ Trail (2023)",
+"name":"Organ Trail","info":"2023",
 "url":"https://41414142.xyz/video/tt18071972/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/c9f6mFZqkyz4AD0sxGmynE1pe0v.jpg",
-"name":"The Best Man (2023)",
+"name":"The Best Man","info":"2023",
 "url":"https://41414142.xyz/video/tt13400336/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/pD1o9B0ibENdNroYrBCQemG2jnr.jpg",
-"name":"Last Sentinel (2023)",
+"name":"Last Sentinel","info":"2023",
 "url":"https://41414142.xyz/video/tt5153956/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/wunUnz175JuZJPOXFKV16Ru1bZr.jpg",
-"name":"The Irish Mob (2023)",
+"name":"The Irish Mob","info":"2023",
 "url":"https://41414142.xyz/video/tt20858256/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/2EyqCN2r7gObxSpdfb9eU1yEQ8W.jpg",
-"name":"Ruido mental (2023)",
+"name":"Ruido mental","info":"2023",
 "url":"https://41414142.xyz/video/tt21326658/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/cAoAgzOCxSytYBqqCQulhXNR3LB.jpg",
-"name":"La elefanta del mago (2023)",
+"name":"La elefanta del mago","info":"2023",
 "url":"https://41414142.xyz/video/tt2560092/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/A70rat4oypHnFsb4J4MoSciNo3I.jpg",
-"name":"El rey de las sombras (2023)",
+"name":"El rey de las sombras","info":"2023",
 "url":"https://41414142.xyz/video/tt26763229/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/tdXSgI3jxRbZOoBWxvpnMjkRfBV.jpg",
-"name":"The Black Belt The True History of Fernando Terere ()",
+"name":"The Black Belt The True History of Fernando Terere","info":"",
 "url":"https://41414142.xyz/video/tt23651588/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/oA7E73LT4xIgPOiix9lvIvYhM4Z.jpg",
-"name":"El asistente (2023)",
+"name":"El asistente","info":"2023",
 "url":"https://41414142.xyz/video/tt23873674/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/xEZ3h6D7MdMpszVjCWibLEsbjx6.jpg",
-"name":"Mi suegra me odia (2022)",
+"name":"Mi suegra me odia","info":"2022",
 "url":"https://41414142.xyz/video/tt23709686/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/Af1vSPTbraVVqc6kB3Avm55gxcq.jpg",
-"name":"El estrangulador de Boston (2023)",
+"name":"El estrangulador de Boston","info":"2023",
 "url":"https://41414142.xyz/video/tt2560078/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/d07xtqwq1uriQ1hda6qeu8Skt5m.jpg",
-"name":"La Exorcista (2022)",
+"name":"La Exorcista","info":"2022",
 "url":"https://41414142.xyz/video/tt14927188/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/rdYEj6wJd6lbMiHpIN4rXTYNGn1.jpg",
-"name":"¡Shazam! La furia de los dioses (2023)",
+"name":"¡Shazam! La furia de los dioses","info":"2023",
 "url":"https://41414142.xyz/video/tt10151854/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/82bbuVzKQIihJaMZJRMH2VZwv8x.jpg",
-"name":"Creatures of Necessity (2022)",
+"name":"Creatures of Necessity","info":"2022",
 "url":"https://41414142.xyz/video/tt10741388/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/gGtzr9huoZFm0SoQmXYAAcwO4ty.jpg",
-"name":"Ya era hora (2022)",
+"name":"Ya era hora","info":"2022",
 "url":"https://41414142.xyz/video/tt15654800/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/oxi29Eg7JymhqV5QkSrMviUb3e9.jpg",
-"name":"Control (2022)",
+"name":"Control","info":"2022",
 "url":"https://41414142.xyz/video/tt14036276/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/ylr0lRmfpmTzTI7A4J7UDjuO71F.jpg",
-"name":"Novembre (2022)",
+"name":"Novembre","info":"2022",
 "url":"https://41414142.xyz/video/tt14542254/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/72RnBWx8LdwN2vYzu0Bk2NQQkXQ.jpg",
-"name":"Al Límite del Peligro (2021)",
+"name":"Al Límite del Peligro","info":"2021",
 "url":"https://41414142.xyz/video/tt13982526/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/nRy2Leg6ED6TKcW9MyVDP932HRb.jpg",
-"name":"El Compositor (2019)",
+"name":"El Compositor","info":"2019",
 "url":"https://41414142.xyz/video/tt9724734/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/t86d7Us4hW9yVqf8ctDj834d1RD.jpg",
-"name":"Jailangkung: Sandekala (2022)",
+"name":"Jailangkung: Sandekala","info":"2022",
 "url":"https://41414142.xyz/video/tt21600496/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/kyLu1gq6R9MXsvb0yjmvNU90aWB.jpg",
-"name":"Nanahimik ang Gabi (2022)",
+"name":"Nanahimik ang Gabi","info":"2022",
 "url":"https://41414142.xyz/video/tt25147662/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/clAzJXKTRXOfmLovb8vyJsixB1H.jpg",
-"name":"Chasing The Dragon (2020)",
+"name":"Chasing The Dragon","info":"2020",
 "url":"https://41414142.xyz/video/tt25505104/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/meBdUcg308d7jhoVShOXxJDU8pn.jpg",
-"name":"Talbis Iblis (2022)",
+"name":"Talbis Iblis","info":"2022",
 "url":"https://41414142.xyz/video/tt19718170/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/mkG0xsFoony3JhCPmP7V4JkN9hB.jpg",
-"name":"La caminante del polvo (2019)",
+"name":"La caminante del polvo","info":"2019",
 "url":"https://41414142.xyz/video/tt6816388/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/8zEopQaHm48Q7mGFbOsBIZ329fm.jpg",
-"name":"La gran tormenta (2022)",
+"name":"La gran tormenta","info":"2022",
 "url":"https://41414142.xyz/video/tt17080412/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/g7fD1EHgctNSjBUzAOfxEsHaB2k.jpg",
-"name":"Hasta el fondo: La historia de Pornhub ()",
+"name":"Hasta el fondo: La historia de Pornhub","info":"",
 "url":"https://41414142.xyz/video/tt26739529/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/3RE9DNBCvuso5OPZPg71ryntNjx.jpg",
-"name":"Benny loves you (2019)",
+"name":"Benny loves you","info":"2019",
 "url":"https://41414142.xyz/video/tt3917506/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/aOI5BmzZDKdkbXoRKTxznbzUerm.jpg",
-"name":"Blackbird (2022)",
+"name":"Blackbird","info":"2022",
 "url":"https://41414142.xyz/video/tt8246646/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/8ukeEdnTaS74CgRiRsV146uZCDA.jpg",
-"name":"Maid in Malacañang (2022)",
+"name":"Maid in Malacañang","info":"2022",
 "url":"https://41414142.xyz/video/tt21279138/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/q4cLHdAJCHqAWIIplCHEyG6JgrR.jpg",
-"name":"Spoonful of Sugar (2022)",
+"name":"Spoonful of Sugar","info":"2022",
 "url":"https://41414142.xyz/video/tt21815772/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/C3vBAnh0D8bCZnGhfWb64YJkmD.jpg",
-"name":"The Retaliators (2021)",
+"name":"The Retaliators","info":"2021",
 "url":"https://41414142.xyz/video/tt11261830/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/l445VWScAf5DjpiVenFwfHwIvHG.jpg",
-"name":"Karleksbevis (2022)",
+"name":"Karleksbevis","info":"2022",
 "url":"https://41414142.xyz/video/tt17640238/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/l5SB4myR9UekeDGDJU2pkqTSfxx.jpg",
-"name":"Blood Harvest (2023)",
+"name":"Blood Harvest","info":"2023",
 "url":"https://41414142.xyz/video/tt15169036/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/utC68GeR21AviTiosDBIVpqIp6N.jpg",
-"name":"Mari(dos) (2023)",
+"name":"Mari(dos","info":"2023",
 "url":"https://41414142.xyz/video/tt18393816/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/9jbxvKB937BWeYAmMKZTqPxBLsk.jpg",
-"name":"Neon Genesis Evangelion: The End of Evangelion (1997)",
+"name":"Neon Genesis Evangelion: The End of Evangelion","info":"1997",
 "url":"https://41414142.xyz/video/tt0169858/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/i30ZaOHjIllEeQrL67IqKs8kk4A.jpg",
-"name":"Oso vicioso (2023)",
+"name":"Oso vicioso","info":"2023",
 "url":"https://41414142.xyz/video/tt14209916/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/nJNxJdD5F3cAXglCtwjumTB5tl7.jpg",
-"name":"El cuarto pasajero (2022)",
+"name":"El cuarto pasajero","info":"2022",
 "url":"https://41414142.xyz/video/tt13932410/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/1VtHaELqLMovl8EueBWHDtihhzF.jpg",
-"name":"The Ritual Killer (2023)",
+"name":"The Ritual Killer","info":"2023",
 "url":"https://41414142.xyz/video/tt13141250/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/cx98TpMEUnD9Rrh074nxMBY593q.jpg",
-"name":"Seductores Irresistibles (2022)",
+"name":"Seductores Irresistibles","info":"2022",
 "url":"https://41414142.xyz/video/0907326297/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/yfrZKSNBn5hbJayAsHY2hVTqiNz.jpg",
-"name":"The Last Heist (2022)",
+"name":"The Last Heist","info":"2022",
 "url":"https://41414142.xyz/video/tt21045742/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/gUFHThondPpmjqeh3XI1yXnCRDa.jpg",
-"name":"The Apology (2022)",
+"name":"The Apology","info":"2022",
 "url":"https://41414142.xyz/video/tt22494914/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/r7ky7t3RVVdJI9RrOxR9MCJWDdB.jpg",
-"name":"Full River Red (2023)",
+"name":"Full River Red","info":"2023",
 "url":"https://41414142.xyz/video/tt21148018/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/hGGsyRi27b3Kf8pnVl93Y2JszFC.jpg",
-"name":"Huge Shark (2021)",
+"name":"Huge Shark","info":"2021",
 "url":"https://41414142.xyz/video/tt15134424/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/eX6tDFp4RhhjZaa1HUDUzFGPWYk.jpg",
-"name":"Géminis: El Planeta Oscuro (2022)",
+"name":"Géminis: El Planeta Oscuro","info":"2022",
 "url":"https://41414142.xyz/video/tt5656994/",
 "embed":"true"
 },
@@ -4338,271 +4343,271 @@
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/tzF2BndyY3HIf2KjJR1FBYoIqTp.jpg",
-"name":"Hit Team (2022)",
+"name":"Hit Team","info":"2022",
 "url":"https://41414142.xyz/video/tt24962414/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/bBuYSnNDogl64gYi37GR65lkcca.jpg",
-"name":"Kingdom of the Dinosaurs (2022)",
+"name":"Kingdom of the Dinosaurs","info":"2022",
 "url":"https://41414142.xyz/video/tt14118090/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/sNIUbrxPIKndBUXAzXbzYg085gY.jpg",
-"name":"Meteor: First Impact (2022)",
+"name":"Meteor: First Impact","info":"2022",
 "url":"https://41414142.xyz/video/tt19034784/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/zS7XPQgMoh0xtsOqFvzdpLeOHmL.jpg",
-"name":"Nightmare Neighborhood Moms (2022)",
+"name":"Nightmare Neighborhood Moms","info":"2022",
 "url":"https://41414142.xyz/video/tt14629026/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/jTnbZazSO57DXIHI7UzIkhYRCcz.jpg",
-"name":"Wrath: A Seven Deadly Sins Story (2022)",
+"name":"Wrath: A Seven Deadly Sins Story","info":"2022",
 "url":"https://41414142.xyz/video/tt18271950/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/9vYJfuYcCrN1GWW8x3MS7To4A3T.jpg",
-"name":"Children of the Corn (2020)",
+"name":"Children of the Corn","info":"2020",
 "url":"https://41414142.xyz/video/tt12311866/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/89uBJh6y1AQ7KE7bDO2u2mTU6N.jpg",
-"name":"She Came From The Woods (2022)",
+"name":"She Came From The Woods","info":"2022",
 "url":"https://41414142.xyz/video/tt14905554/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/eCvBFo3jjKViSuhcsOdVbcsFCq4.jpg",
-"name":"Luther: Cae la noche (2023)",
+"name":"Luther: Cae la noche","info":"2023",
 "url":"https://41414142.xyz/video/tt3155298/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/w7X1ra5lYbiZ5WnkCikSThKCMZm.jpg",
-"name":"¿Encontró lo que buscaba? ()",
+"name":"¿Encontró lo que buscaba?","info":"",
 "url":"https://41414142.xyz/video/tt26739643/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/ijgY6uYwNqkVIgG9T6TTkdgt2Wi.jpg",
-"name":"Puedes hacerlo Chang (2023)",
+"name":"Puedes hacerlo Chang","info":"2023",
 "url":"https://41414142.xyz/video/tt13650494/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/sFaDyM9qe2eZ4TMEpB9ozWWVhUm.jpg",
-"name":"Tangos, tequilas, y algunas mentiras (2023)",
+"name":"Tangos, tequilas, y algunas mentiras","info":"2023",
 "url":"https://41414142.xyz/video/tt26919159/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/p2rgpxCwXwgTXaymErpHwx6luG2.jpg",
-"name":"The Flood (2019)",
+"name":"The Flood","info":"2019",
 "url":"https://41414142.xyz/video/THEFLOOD2019X/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/dhqu9rInT9IOa2w0TU22YMEgGus.jpg",
-"name":"65: Al borde de la extinción (2023)",
+"name":"65: Al borde de la extinción","info":"2023",
 "url":"https://41414142.xyz/video/tt12261776/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/u1WvYS8FRczTY3hv3CBBQzf1vht.jpg",
-"name":"Operación Fortune: El gran engaño (2023)",
+"name":"Operación Fortune: El gran engaño","info":"2023",
 "url":"https://41414142.xyz/video/tt7985704/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/tg1dJHA60iuLxAHtUYD01LL7P10.jpg",
-"name":"The Walk (2022)",
+"name":"The Walk","info":"2022",
 "url":"https://41414142.xyz/video/tt11278608/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/1AnXfjxFqMsQmUPSvt9YxUJhfFw.jpg",
-"name":"Dead for a Dollar (2022)",
+"name":"Dead for a Dollar","info":"2022",
 "url":"https://41414142.xyz/video/tt14895206/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/kcTVF6AxGhME5auzcbII14U3E9f.jpg",
-"name":"The Tiger's Nest (2022)",
+"name":"The Tiger's Nest","info":"2022",
 "url":"https://41414142.xyz/video/tt7527028/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/7a2G4a4A6nDb8K1PVFUcsOT1u3s.jpg",
-"name":"Ghosts of the Ozarks (2021)",
+"name":"Ghosts of the Ozarks","info":"2021",
 "url":"https://41414142.xyz/video/tt11186952/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/lFDe7l7Lgv6x515382KOfreNI1T.jpg",
-"name":"La fabulosa aventura de Sharpay (2011)",
+"name":"La fabulosa aventura de Sharpay","info":"2011",
 "url":"https://41414142.xyz/video/tt1629440/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/4nOYmPqBgbVEYJun5EB9Vk9tqSA.jpg",
-"name":"Scream 6 (2023)",
+"name":"Scream 6","info":"2023",
 "url":"https://41414142.xyz/video/tt17663992/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/cDIFHdr6wLVKq4adU7y8g6iGUop.jpg",
-"name":"Buio (2019)",
+"name":"Buio","info":"2019",
 "url":"https://41414142.xyz/video/tt10481954/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/qzgGmE8EJH3gOUlxSYhm8AHJUu2.jpg",
-"name":"On the Come Up (2022)",
+"name":"On the Come Up","info":"2022",
 "url":"https://41414142.xyz/video/tt9783730/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/1VaUdyXtfc77SOO3sY1o2yJhIJz.jpg",
-"name":"Muy lejos de aquí (2023)",
+"name":"Muy lejos de aquí","info":"2023",
 "url":"https://41414142.xyz/video/tt18747542/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/8k3JpWtTjYNupCbMKW8vkEEmbWf.jpg",
-"name":"Malvada (2022)",
+"name":"Malvada","info":"2022",
 "url":"https://41414142.xyz/video/tt21817022/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/nZie3WZuSb45EUXoQmUhLLnsjFr.jpg",
-"name":"Marlowe (2022)",
+"name":"Marlowe","info":"2022",
 "url":"https://41414142.xyz/video/tt6722802/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/rR7uEhqQE2ZuQQOhuPyQnV6vnoH.jpg",
-"name":"Missing (2023)",
+"name":"Missing","info":"2023",
 "url":"https://41414142.xyz/video/tt10855768/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/jixBLmH4gQuTKTenZr89egvqZbW.jpg",
-"name":"80 for Brady (2023)",
+"name":"80 for Brady","info":"2023",
 "url":"https://41414142.xyz/video/tt18079362/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/eZx7SUnQetww3ePIlvTUDYuZMo9.jpg",
-"name":"Los Amantes del Engaño (2022)",
+"name":"Los Amantes del Engaño","info":"2022",
 "url":"https://41414142.xyz/video/tt14534796/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/ocC1i2ea5R4N1bkJ2cQ7dEMT3Ki.jpg",
-"name":"Lagaslas (2023)",
+"name":"Lagaslas","info":"2023",
 "url":"https://41414142.xyz/video/tt26671717/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/6z8VVFdWX8nbvRIJkZVDlOUOJWc.jpg",
-"name":"Suki (2023)",
+"name":"Suki","info":"2023",
 "url":"https://41414142.xyz/video/tt26734145/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/x54tAgLfS51fO5EcipNJJ9tfSRK.jpg",
-"name":"The Paper Tigers (2020)",
+"name":"The Paper Tigers","info":"2020",
 "url":"https://41414142.xyz/video/tt6060444/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/dnwf2DyI41EkWvJnOLfWV6DFRNW.jpg",
-"name":"Snow Day (2022)",
+"name":"Snow Day","info":"2022",
 "url":"https://41414142.xyz/video/tt23622516/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/y63Sa7F2YFQPDSNQpS45p1iwTJ1.jpg",
-"name":"Demoníaca (2020)",
+"name":"Demoníaca","info":"2020",
 "url":"https://41414142.xyz/video/tt10229558/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/fcFMd3HdyX7r5gtFwVnn2qr5Yhq.jpg",
-"name":"Creed III (2023)",
+"name":"Creed III","info":"2023",
 "url":"https://41414142.xyz/video/tt11145118/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/9vyakwEUCT4eB9XdyGQLC3HQXfu.jpg",
-"name":"Equal Standard (2020)",
+"name":"Equal Standard","info":"2020",
 "url":"https://41414142.xyz/video/tt8171000/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/z4WsK588j8Cj1uRjVbOFd8gcwHa.jpg",
-"name":"Living (2022)",
+"name":"Living","info":"2022",
 "url":"https://41414142.xyz/video/tt9051908/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/lnPIicmgQ3tAJQdlRBh2oaMTxs8.jpg",
-"name":"10 días de un buen hombre (2023)",
+"name":"10 días de un buen hombre","info":"2023",
 "url":"https://41414142.xyz/video/tt23334464/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/cyawjtxqR4XesB5sJuwV4SsMmuc.jpg",
-"name":"Eres tú (2023)",
+"name":"Eres tú","info":"2023",
 "url":"https://41414142.xyz/video/tt14463514/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/3JysDbn3kZ1nc4a1yQgkg81KIdZ.jpg",
-"name":"Barbie Skipper y su gran aventura como canguro ()",
+"name":"Barbie Skipper y su gran aventura como canguro","info":"",
 "url":"https://41414142.xyz/video/tt26931203/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/aCy61aU7BMG7SfhkaAaasS0KzUO.jpg",
-"name":"Sayen (2023)",
+"name":"Sayen","info":"2023",
 "url":"https://41414142.xyz/video/tt19869024/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/5aaAySq2nI9kYQZzom7ymvoN2Kh.jpg",
-"name":"KonoSuba. La Película. La Leyenda del Carmesí (2019)",
+"name":"KonoSuba. La Película. La Leyenda del Carmesí","info":"2019",
 "url":"https://41414142.xyz/video/tt9239552/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/93ukueajvdIKusWvAzMBe6zX3hN.jpg",
-"name":"La Decisión De Partir (2022)",
+"name":"La Decisión De Partir","info":"2022",
 "url":"https://41414142.xyz/video/tt12477480/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/keO3Mc1z6nyQxu7kKsWWOi0WXzF.jpg",
-"name":"Khutulun: La Princesa Guerrera (2021)",
+"name":"Khutulun: La Princesa Guerrera","info":"2021",
 "url":"https://41414142.xyz/video/tt15238852/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/fbuRh2bTCqcuamIQuldqLBTwRjg.jpg",
-"name":"El triángulo de la tristeza (2022)",
+"name":"El triángulo de la tristeza","info":"2022",
 "url":"https://41414142.xyz/video/tt7322224/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/xm6N21UjaUSK9LF7kfDSaGJU7fx.jpg",
-"name":"The Jack in the Box: El despertar (2022)",
+"name":"The Jack in the Box: El despertar","info":"2022",
 "url":"https://41414142.xyz/video/tt12764628/",
 "embed":"true"
 },
@@ -4614,32 +4619,265 @@
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/8b1eK5Z8oe2qAqAbxSN33tLnLwq.jpg",
-"name":"Esta noche duermes conmigo (2023)",
+"name":"Esta noche duermes conmigo","info":"2023",
 "url":"https://41414142.xyz/video/tt26548664/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/6TZ2WEoCbn9ozX2Rg4CwVz0NGT3.jpg",
-"name":"Horimiya (2021)",
+"name":"Horimiya","info":"2021",
 "url":"https://41414142.xyz/video/tt13521004-FILM/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/p98DxMJbXjI6ITI9aFh3U0u5oF7.jpg",
-"name":"Magic Mike: El último baile (2023)",
+"name":"Magic Mike: El último baile","info":"2023",
 "url":"https://41414142.xyz/video/tt16280138/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/iJpOqMUiIPSAQfwKgmhW0oYjGDg.jpg",
-"name":"La Absoluta (2022)",
+"name":"La Absoluta","info":"2022",
 "url":"https://41414142.xyz/video/tt21613486/",
 "embed":"true"
 },
 {
 "image":"https://image.tmdb.org/t/p/w154/nSNqH0hi9wKLdRL1sXEJ71qAyW3.jpg",
-"name":"Sleepaway Slasher (2020)",
+"name":"Sleepaway Slasher","info":"2020",
 "url":"https://41414142.xyz/video/tt13068068/",
+"embed":"true"
+},
+{
+"image":"https://image.tmdb.org/t/p/w154/fkpEMJi9Niw3sbi47HvYXvUkLco.jpg",
+"name":"Momias","info":"2023",
+"url":"https://41414142.xyz/video/tt23177868/",
+"embed":"true"
+},
+{
+"image":"https://image.tmdb.org/t/p/w154/ukck5O6t0gyZYOtCUHiBhhtEJcR.jpg",
+"name":"Tenemos un fantasma","info":"2023",
+"url":"https://41414142.xyz/video/tt7798604/",
+"embed":"true"
+},
+{
+"image":"https://image.tmdb.org/t/p/w154/h11pzG8yK70Ly5MkNHvhPH9m84n.jpg",
+"name":"Bruiser","info":"2022",
+"url":"https://41414142.xyz/video/tt21833464/",
+"embed":"true"
+},
+{
+"image":"https://image.tmdb.org/t/p/w154/oJ1k2v7NFjKn3aTo2yvIyznUsc4.jpg",
+"name":"City of Spies","info":"2022",
+"url":"https://41414142.xyz/video/tt6192618/",
+"embed":"true"
+},
+{
+"image":"https://image.tmdb.org/t/p/w154/becstskDYP8uARdePBcxA1ZxB9m.jpg",
+"name":"12 Theses","info":"2021",
+"url":"https://41414142.xyz/video/tt4103990/",
+"embed":"true"
+},
+{
+"image":"https://image.tmdb.org/t/p/w154/ff9iMXJjtRdm58nRzM88sNr5CTu.jpg",
+"name":"Die Hart the Movie","info":"2023",
+"url":"https://41414142.xyz/video/tt26198528/",
+"embed":"true"
+},
+{
+"image":"https://image.tmdb.org/t/p/w154/op2y1gvqKhAh4yAPLwc4PlX3XRv.jpg",
+"name":"Project Wolf Hunting","info":"2022",
+"url":"https://41414142.xyz/video/tt15575470/",
+"embed":"true"
+},
+{
+"image":"https://image.tmdb.org/t/p/w154/4zWZCWFkHeQ6KYDQCud1cvVpn3D.jpg",
+"name":"Cómo satisfacer a una mujer","info":"2022",
+"url":"https://41414142.xyz/video/tt10530838/",
+"embed":"true"
+},
+{
+"image":"https://image.tmdb.org/t/p/w154/aF0CmJl2rP7MvKxgNzKdKOk03rJ.jpg",
+"name":"Me llamo Chihiro","info":"2023",
+"url":"https://41414142.xyz/video/tt21825858/",
+"embed":"true"
+},
+{
+"image":"https://image.tmdb.org/t/p/w154/ldUxaYswPrXRMVgamUouERzkS1B.jpg",
+"name":"Dealer","info":"2021",
+"url":"https://41414142.xyz/video/tt9559504/",
+"embed":"true"
+},
+{
+"image":"https://image.tmdb.org/t/p/w154/d0pt6KlVvmtG0uhccWjgWfIqJee.jpg",
+"name":"The Mummy Resurrection","info":"2022",
+"url":"https://41414142.xyz/video/tt20141822/",
+"embed":"true"
+},
+{
+"image":"https://image.tmdb.org/t/p/w154/sqWzRtUJt60Oce4GA0yNroeAJIF.jpg",
+"name":"Look Into the Fire","info":"2022",
+"url":"https://41414142.xyz/video/tt7013708/",
+"embed":"true"
+},
+{
+"image":"https://image.tmdb.org/t/p/w154/gqsr9Gy06I5AE0TU3YZPrkXs6XO.jpg",
+"name":"Rescue","info":"2022",
+"url":"https://41414142.xyz/video/tt14010416/",
+"embed":"true"
+},
+{
+"image":"https://image.tmdb.org/t/p/w154/lvm6yZsdgnM0vJeM4mlOAUVeDES.jpg",
+"name":"Paradise City","info":"2022",
+"url":"https://41414142.xyz/video/tt14656632/",
+"embed":"true"
+},
+{
+"image":"https://image.tmdb.org/t/p/w154/pJ4oropHOAxt8fS6jzBh5VtKEyE.jpg",
+"name":"The Bounty Killer","info":"2018",
+"url":"https://41414142.xyz/video/tt3209242/",
+"embed":"true"
+},
+{
+"image":"https://image.tmdb.org/t/p/w154/sm52BShkIiDmccCeZDbgKHb0ivW.jpg",
+"name":"Broadcast Signal Intrusion","info":"2021",
+"url":"https://41414142.xyz/video/tt11151336/",
+"embed":"true"
+},
+{
+"image":"https://image.tmdb.org/t/p/w154/3OKBFYRVSKkBVJ7WpKogTVQfUqC.jpg",
+"name":"Los extraños","info":"2023",
+"url":"https://41414142.xyz/video/tt16437278/",
+"embed":"true"
+},
+{
+"image":"https://image.tmdb.org/t/p/w154/6BZAYG6oooTLv72w9ePKvbpqDlj.jpg",
+"name":"The System","info":"2022",
+"url":"https://41414142.xyz/video/tt14037272/",
+"embed":"true"
+},
+{
+"image":"https://image.tmdb.org/t/p/w154/6K110gLF5QZHLlzvVWisQ2kHF2X.jpg",
+"name":"El piloto","info":"2023",
+"url":"https://41414142.xyz/video/tt5884796/",
+"embed":"true"
+},
+{
+"image":"https://image.tmdb.org/t/p/w154/pzqZfs6DuYx67eqCnkc5FdpMIt7.jpg",
+"name":"A Brilliant Monster","info":"2018",
+"url":"https://41414142.xyz/video/tt6534422/",
+"embed":"true"
+},
+{
+"image":"https://image.tmdb.org/t/p/w154/dgVvFEIdYtT1vUkgrd7rjCcY69Y.jpg",
+"name":"Scorched Earth","info":"2022",
+"url":"https://41414142.xyz/video/tt15015460/",
+"embed":"true"
+},
+{
+"image":"https://image.tmdb.org/t/p/w154/wUiN09IRVhbDrffXbMuwmq9e4Tq.jpg",
+"name":"Carnifex","info":"2022",
+"url":"https://41414142.xyz/video/tt18252340/",
+"embed":"true"
+},
+{
+"image":"https://image.tmdb.org/t/p/w154/u2H6mLPMt5GDNCjFQUjw8cwICE3.jpg",
+"name":"Neneh Superstar","info":"2022",
+"url":"https://41414142.xyz/video/tt21828496/",
+"embed":"true"
+},
+{
+"image":"https://image.tmdb.org/t/p/w154/b8mT42o3MXAuvRdElJZaqY6eUiZ.jpg",
+"name":"Una serie de eventos desafortunados","info":"2004",
+"url":"https://dood.to/e/319frg2kdw58",
+"embed":"true"
+},
+{
+"image":"https://image.tmdb.org/t/p/w154/pZyeoBDQJFPGfd0Mu8XIElGBjZz.jpg",
+"name":"When You Finish Saving The World","info":"2022",
+"url":"https://41414142.xyz/video/tt12121582/",
+"embed":"true"
+},{
+"image":"https://image.tmdb.org/t/p/w154/kwxkBFH0nB0yiaPbhUjvdaxa896.jpg",
+"name":"Broil (2020)",
+"url":"https://41414142.xyz/video/tt8997712/",
+"embed":"true"
+},
+{
+"image":"https://image.tmdb.org/t/p/w154/kRc3v0eKJbIpBBGUOwEZ4A56eFz.jpg",
+"name":"Operación: Soldados de juguete (1991)",
+"url":"https://41414142.xyz/video/tt0103112/",
+"embed":"true"
+},
+{
+"image":"https://image.tmdb.org/t/p/w154/sVXFM0Lt4eVP6bX3UNCnF62WTK2.jpg",
+"name":"La gran seducción (2013)",
+"url":"https://41414142.xyz/video/tt2319580/",
+"embed":"true"
+},
+{
+"image":"https://image.tmdb.org/t/p/w154/kPo5erO0S3Syuec5uSrMl0AVeTN.jpg",
+"name":"Una historia de Brooklyn (2005)",
+"url":"https://41414142.xyz/video/tt0367089/",
+"embed":"true"
+},
+{
+"image":"https://image.tmdb.org/t/p/w154/468foMrROMKsaF8HWmQaZ5nhDrR.jpg",
+"name":"En la oscuridad (2019)",
+"url":"https://41414142.xyz/video/tt9135260/",
+"embed":"true"
+},
+{
+"image":"https://image.tmdb.org/t/p/w154/mBgynPDplmo5JTY9VfGqY35OjDu.jpg",
+"name":"Megalodón 2: La fosa (2023)",
+"url":"https://41414142.xyz/video/tt9224104/",
+"embed":"true"
+},
+{
+"image":"https://image.tmdb.org/t/p/w154/5jmbrS5563WNSMNWM3AFfuzYwVJ.jpg",
+"name":"Collide (2022)",
+"url":"https://41414142.xyz/video/tt17527124/",
+"embed":"true"
+},
+{
+"image":"https://image.tmdb.org/t/p/w154/3JGYYi5yF3ildtjvMjAeQ99CRMc.jpg",
+"name":"Mare (2020)",
+"url":"https://41414142.xyz/video/tt5080908/",
+"embed":"true"
+},
+{
+"image":"https://image.tmdb.org/t/p/w154/r5ojWbIulYkXPLlqcWDNsBKpslG.jpg",
+"name":"Bezos (2023)",
+"url":"https://41414142.xyz/video/tt15559582/",
+"embed":"true"
+},
+{
+"image":"https://image.tmdb.org/t/p/w154/8dbYBkUap1W2VJWjwnGlP5U0Esb.jpg",
+"name":"Cryptid (2022)",
+"url":"https://41414142.xyz/video/tt4974812/",
+"embed":"true"
+},
+{
+"image":"https://image.tmdb.org/t/p/w154/wPZDf3GMMldNcTWnpEiHkte6hYK.jpg",
+"name":"BTS: Permission to Dance on Stage – LA (2022)",
+"url":"https://41414142.xyz/video/tt22010428/",
+"embed":"true"
+},
+{
+"image":"https://image.tmdb.org/t/p/w154/uQI0fm8uPild3U5spX0I6MapSHB.jpg",
+"name":"BTS: Bring the Soul: The Movie (2019)",
+"url":"https://41414142.xyz/video/tt10545076/",
+"embed":"true"
+},
+{
+"image":"https://image.tmdb.org/t/p/w154/6PZDoWHFAIiKSsc7OS7LmLa2oVz.jpg",
+"name":"El novio de mi madre (2007)",
+"url":"https://41414142.xyz/video/tt0466839/",
+"embed":"true"
+},
+{
+"image":"https://image.tmdb.org/t/p/w154/xF14Liu2qQgagvAMK6l1UL1MKb8.jpg",
+"name":"Oldboy (2003)",
+"url":"https://41414142.xyz/video/tt0364569/",
 "embed":"true"
 },
 {
@@ -4781,17 +5019,259 @@
 "embed":"true"
 },
 {
-"image":"https://image.tmdb.org/t/p/w154/b8mT42o3MXAuvRdElJZaqY6eUiZ.jpg",
-"name":"Una serie de eventos desafortunados (2004)",
-"url":"https://dood.to/e/319frg2kdw58",
-"embed":"true"
-},
-{
 "image":"https://image.tmdb.org/t/p/w154/pZyeoBDQJFPGfd0Mu8XIElGBjZz.jpg",
 "name":"When You Finish Saving The World (2022)",
 "url":"https://41414142.xyz/video/tt12121582/",
 "embed":"true"
-}
-     ]}
-  ]
-}
+},
+{
+"image":"https://image.tmdb.org/t/p/w154/pZCamRrMWGotEoZV0y51uVGozXg.jpg",
+"name":"The Wandering Earth 2 (2023)",
+"url":"https://41414142.xyz/video/tt13539646/",
+"embed":"true"
+},
+{
+"image":"https://image.tmdb.org/t/p/w154/uaXlIdfqaIxkDpU5nqLVkiCIYas.jpg",
+"name":"El mundo de la posverdad (2022)",
+"url":"https://41414142.xyz/video/tt22463402/",
+"embed":"true"
+},
+{
+"image":"https://image.tmdb.org/t/p/w154/sIRXUvoIRdMIcGSqrBujVhR3TEK.jpg",
+"name":"The Asadas (2020)",
+"url":"https://41414142.xyz/video/tt9860350/",
+"embed":"true"
+},
+{
+"image":"https://image.tmdb.org/t/p/w154/vKzdwficUcFNisOM5mN3XXXUzA6.jpg",
+"name":"Tren Nocturno (2023)",
+"url":"https://41414142.xyz/video/tt15727212/",
+"embed":"true"
+},
+{
+"image":"https://image.tmdb.org/t/p/w154/zPWQ9ehYIpWvudoxF4L9VZ4iB6d.jpg",
+"name":"Mega Lightning (2023)",
+"url":"https://41414142.xyz/video/tt19119598/",
+"embed":"true"
+},
+{
+"image":"https://image.tmdb.org/t/p/w154/5DNRr2juXdwtvktwXxwuk9Usk8O.jpg",
+"name":"Infinity Pool (2023)",
+"url":"https://41414142.xyz/video/tt10365998/",
+"embed":"true"
+},
+{
+"image":"https://image.tmdb.org/t/p/w154/to4cAjZoTBjCHLq81UtElEZiP7T.jpg",
+"name":"Imani (2023)",
+"url":"https://41414142.xyz/video/tt21967864/",
+"embed":"true"
+},
+{
+"image":"https://image.tmdb.org/t/p/w154/9YTeSeNQ7Y1P3cJmvRlUwOmrUxi.jpg",
+"name":"Find Her (2022)",
+"url":"https://41414142.xyz/video/tt7111864/",
+"embed":"true"
+},
+{
+"image":"https://image.tmdb.org/t/p/w154/isakDIarsnOyp2M9kTVjJ8dt2uL.jpg",
+"name":"Delusional (2022)",
+"url":"https://41414142.xyz/video/tt9652550/",
+"embed":"true"
+},
+{
+"image":"https://image.tmdb.org/t/p/w154/yQTRmPzKAdLodknnPVtImm6FWPZ.jpg",
+"name":"Consecration (2023)",
+"url":"https://41414142.xyz/video/tt14993352/",
+"embed":"true"
+},
+{
+"image":"https://image.tmdb.org/t/p/w154/3g8AAw4IfUM2BuFe2nXCMlewSiE.jpg",
+"name":"Bring Out the Fear (2021)",
+"url":"https://41414142.xyz/video/tt11492524/",
+"embed":"true"
+},
+{
+"image":"https://image.tmdb.org/t/p/w154/fDeqyKwEtms2IFtT8SDvURZWqAF.jpg",
+"name":"Battlebox (2023)",
+"url":"https://41414142.xyz/video/tt14085258/",
+"embed":"true"
+},
+{
+"image":"https://image.tmdb.org/t/p/w154/5AoLseh165m3phMhlSQbPGyKByb.jpg",
+"name":"Battle for Pandora (2022)",
+"url":"https://41414142.xyz/video/tt23924182/",
+"embed":"true"
+},
+{
+"image":"https://image.tmdb.org/t/p/w154/waoIRPDcCfodCrs7wOmTmjivIIm.jpg",
+"name":"The Doll (2017)",
+"url":"https://41414142.xyz/video/tt5176832/",
+"embed":"true"
+},
+{
+"image":"https://image.tmdb.org/t/p/w154/i76BhdIAtEGl3ey4enEnKBVHF7Z.jpg",
+"name":"Isla de sombras (2020)",
+"url":"https://41414142.xyz/video/tt11456366/",
+"embed":"true"
+},
+{
+"image":"https://image.tmdb.org/t/p/w154/isV4LOn5txZ30RS2MuWhpNZj7x.jpg",
+"name":"Hide and Seek (2021)",
+"url":"https://41414142.xyz/video/tt7975192/",
+"embed":"true"
+},
+{
+"image":"https://image.tmdb.org/t/p/w154/kVwudGk77ilXN4TwJn0B3pZtS6N.jpg",
+"name":"Identidad desbloqueada (2023)",
+"url":"https://41414142.xyz/video/tt26160190/",
+"embed":"true"
+},
+{
+"image":"https://image.tmdb.org/t/p/w154/5g9Ty5NqRWGXJoBbwR38bGeOFT9.jpg",
+"name":"Thang Máy",
+"url":"https://41414142.xyz/video/tt13017046/",
+"embed":"true"
+},
+{
+"image":"https://image.tmdb.org/t/p/w154/jTNYlTEijZ6c8Mn4gvINOeB2HWM.jpg",
+"name":"Ant-Man y la Avispa: Quantumanía (2023)",
+"url":"https://41414142.xyz/video/tt10954600/",
+"embed":"true"
+},
+{
+"image":"https://image.tmdb.org/t/p/w154/zrU5uN3plB7EQK9BLbOqKD6Z9aZ.jpg",
+"name":"Embaucadores (2023)",
+"url":"https://41414142.xyz/video/tt12573454/",
+"embed":"true"
+},
+{
+"image":"https://image.tmdb.org/t/p/w154/dfYOmisdbiVTXdcQji35pKywPFI.jpg",
+"name":"Plan A (2021)",
+"url":"https://41414142.xyz/video/tt5448338/",
+"embed":"true"
+},
+{
+"image":"https://image.tmdb.org/t/p/w154/e3Tg3uJYL4n0M12KsgysZxrWBZU.jpg",
+"name":"The Go-Getters (2018)",
+"url":"https://41414142.xyz/video/tt6085642/",
+"embed":"true"
+},
+{
+"image":"https://image.tmdb.org/t/p/w154/16y3zp7pD4oFHPHUJQc1rnXKyvV.jpg",
+"name":"¡Tiburon a la vista! (2022)",
+"url":"https://41414142.xyz/video/tt14962428/",
+"embed":"true"
+},
+{
+"image":"https://image.tmdb.org/t/p/w154/aVw74MES2R0kdSN8JhbJC8Xpne9.jpg",
+"name":"Huesera (2022)",
+"url":"https://41414142.xyz/video/tt11718516/",
+"embed":"true"
+},
+{
+"image":"https://image.tmdb.org/t/p/w154/t9GfrGusyXkp8E8jvcAeAtgiXQD.jpg",
+"name":"Shook (2021)",
+"url":"https://41414142.xyz/video/tt7211648/",
+"embed":"true"
+},
+{
+"image":"https://image.tmdb.org/t/p/w154/cmWTZj9zzT9KFt3XyL0gssL7Ig8.jpg",
+"name":"Little Dixie (2023)",
+"url":"https://41414142.xyz/video/tt13614388/",
+"embed":"true"
+},
+{
+"image":"https://image.tmdb.org/t/p/w154/uznaVbYbfeW2t2KyqGk0ivh9wSO.jpg",
+"name":"Malcriados (2023)",
+"url":"https://41414142.xyz/video/tt12058412/",
+"embed":"true"
+},
+{
+"image":"https://image.tmdb.org/t/p/w154/4zjnfnmbyKaGS2brcTErff4eh4j.jpg",
+"name":"Lord of the Streets (2022)",
+"url":"https://41414142.xyz/video/tt17219636/",
+"embed":"true"
+},
+{
+"image":"https://image.tmdb.org/t/p/w154/9mFHSHWce77Pi5zwkfCL35KU6MW.jpg",
+"name":"Amor al cuadrado otra vez (2023)",
+"url":"https://41414142.xyz/video/tt26369131/",
+"embed":"true"
+},
+{
+"image":"https://image.tmdb.org/t/p/w154/gBiZdPAWLSPLE4sX6BzWMzaJylP.jpg",
+"name":"A Todas Partes (2023)",
+"url":"https://41414142.xyz/video/tt12616964/",
+"embed":"true"
+},
+{
+"image":"https://image.tmdb.org/t/p/w154/68qUoVSL7BVirc9U3a1O3zKfsAM.jpg",
+"name":"Entre el Amor y la Amistad (2023)",
+"url":"https://41414142.xyz/video/tt25830860/",
+"embed":"true"
+},
+{
+"image":"https://image.tmdb.org/t/p/w154/yMZdLhcbszstxmdOH4cuuMxaSM7.jpg",
+"name":"Luz Mala (2022)",
+"url":"https://41414142.xyz/video/tt23777532/",
+"embed":"true"
+},
+{
+"image":"https://image.tmdb.org/t/p/w154/8YHXvW1GWEcXAZXXSHfTsaGi4i2.jpg",
+"name":"Matadero (2022)",
+"url":"https://41414142.xyz/video/tt12390388/",
+"embed":"true"
+},
+{
+"image":"https://image.tmdb.org/t/p/w154/n4WFqga2OXJMudjCmggKeDiuD7N.jpg",
+"name":"Shark Side of the Moon (2022)",
+"url":"https://41414142.xyz/video/tt21426434/",
+"embed":"true"
+},
+{
+"image":"https://image.tmdb.org/t/p/w154/69LC4gUzrT0MHBIHUApcPUwF3LV.jpg",
+"name":"Sueños de una escritora en Nueva York (2020)",
+"url":"https://41414142.xyz/video/tt2222052/",
+"embed":"true"
+},
+{
+"image":"https://image.tmdb.org/t/p/w154/pRNSIJyGM7cR8xAHee0obKXpzIl.jpg",
+"name":"Remember Member (2022)",
+"url":"https://41414142.xyz/video/tt21250176/",
+"embed":"true"
+},
+{
+"image":"https://image.tmdb.org/t/p/w154/qaDHPHRmhjaHsrCLONhK6thxOWB.jpg",
+"name":"Modelo 77 (2022)",
+"url":"https://41414142.xyz/video/tt15128358/",
+"embed":"true"
+},
+{
+"image":"https://image.tmdb.org/t/p/w154/3I0PW56JtibtB7FjEO48yvTKgdK.jpg",
+"name":"Meet Me In Paris (2023)",
+"url":"https://41414142.xyz/video/tt26689543/",
+"embed":"true"
+},
+{
+"image":"https://image.tmdb.org/t/p/w154/gpU7sY0ypI9xTdsYGomNCpisjJ0.jpg",
+"name":"Todo lo que respira (2022)",
+"url":"https://41414142.xyz/video/tt16377862/",
+"embed":"true"
+},
+{
+"image":"https://image.tmdb.org/t/p/w154/gpU7sY0ypI9xTdsYGomNCpisjJ0.jpg",
+"name":"Todo lo que respira (2022)",
+"url":"<p class="text-opacity m-b-20 font-size-13">@
+",
+"embed":"true"
+},
+{
+"image":"https://image.tmdb.org/t/p/w154/gpU7sY0ypI9xTdsYGomNCpisjJ0.jpg",
+"name":"Todo lo que respira (2022)",
+"url":"<p class="text-opacity m-b-20 font-size-13">@
+",
+"embed":"true"
+},
+
+]}
+]}
