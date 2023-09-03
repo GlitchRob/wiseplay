@@ -10,6 +10,83 @@
 "name":"Recién agregado",
 "stations": [
 {
+"image":"https://image.tmdb.org/t/p/w154/5KffN0UcuAKJdUAcOvZ21OrqXc8.jpg",
+"name":"Boogeyman: La puerta del miedo",
+"url":"https://41414142.xyz/video/tt0357507/",
+"info":"2005",
+"embed":"true"
+},
+{
+"image":"https://image.tmdb.org/t/p/w154/rozwpOPiTEYnXygWGvUPST4lVQa.jpg",
+"name":"Bob Esponja presenta: La zona intermareal",
+"url":"https://41414142.xyz/video/tt22640250/",
+"info":"2023",
+"embed":"true"
+},
+{
+"image":"https://image.tmdb.org/t/p/w154/ic1LmfuGibGJMYjdz1Pobxeouon.jpg",
+"name":"Ellas hablan",
+"url":"https://41414142.xyz/video/tt13669038/",
+"info":"2022",
+"embed":"true"
+},
+{
+"image":"https://image.tmdb.org/t/p/w154/vBl0qexSJrQiUTvcXgQpGFUmP7a.jpg",
+"name":"Retribution",
+"url":"https://41414142.xyz/video/tt6906292/",
+"info":"2023",
+"embed":"true"
+},
+{
+"image":"https://image.tmdb.org/t/p/w154/r94waWYiNhXoAuCEWBCf2XEEegx.jpg",
+"name":"See You On Venus",
+"url":"https://41414142.xyz/video/tt14960612/",
+"info":"2023",
+"embed":"true"
+},
+{
+"image":"https://image.tmdb.org/t/p/w154/e5pzii2bPCfDLmtplwh6jd7UKTn.jpg",
+"name":"Lost in the Stars",
+"url":"https://41414142.xyz/video/tt17507018/",
+"info":"2022",
+"embed":"true"
+},
+{
+"image":"https://image.tmdb.org/t/p/w154/hX4gnhnszSqrTXVi0p4BQBSLqV7.jpg",
+"name":"We Make Antiques! Osaka Dreams",
+"url":"https://41414142.xyz/video/tt23220464/",
+"info":"2023",
+"embed":"true"
+},
+{
+"image":"https://image.tmdb.org/t/p/w154/vdQWE5gjut4Omw9NTIDfZYqP0k5.jpg",
+"name":"Un día y medio",
+"url":"https://41414142.xyz/video/tt20414642/",
+"info":"2023",
+"embed":"true"
+},
+{
+"image":"https://image.tmdb.org/t/p/w154/iMAWgK9Z3C2L0MaI17VqwdZi8bJ.jpg",
+"name":"Devotion. Una historia de héroes",
+"url":"https://41414142.xyz/video/tt7693316/",
+"info":"2022",
+"embed":"true"
+},
+{
+"image":"https://image.tmdb.org/t/p/w154/rlqvwdyAetUY5M32IfuvWqPUxXl.jpg",
+"name":"Tsunami",
+"url":"https://41414142.xyz/video/tt1153040/",
+"info":"Haeundae)",
+"embed":"true"
+},
+{
+"image":"https://image.tmdb.org/t/p/w154/ovgNfybarNvW6feJUch0afO73Bx.jpg",
+"name":"Libéranos del mal",
+"url":"https://41414142.xyz/video/tt12763920/",
+"info":"2020",
+"embed":"true"
+},
+{
 "image":"https://image.tmdb.org/t/p/w154/hSnvrM0rY4sBA2s8XygP76YBDJJ.jpg",
 "name":"No es otra estúpida película americana","info":"2001",
 "url":"https://41414142.xyz/video/tt0277371/",
@@ -6146,7 +6223,6 @@
 "name":"Los renglones torcidos de Dios","info":"2022",
 "url":"https://41414142.xyz/video/tt13229894/",
 "embed":"true"
-},
-
+}
 ]}
 ]}
