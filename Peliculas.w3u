@@ -6207,12 +6207,6 @@
 "embed":"true"
 },
 {
-"image":"https://image.tmdb.org/t/p/w154/hB2VqiLDiHAyLdZ1dlXIGqDJy06.jpg",
-"name":"Los renglones torcidos de Dios","info":"2022",
-"url":"https://41414142.xyz/video/tt13229894/",
-"embed":"true"
-},
-{
 "image":"https://image.tmdb.org/t/p/w154/8C8S8nCS60vS7l857W5Qr6aaEW6.jpg",
 "name":"Soldier Boy","info":"2019",
 "url":"https://41414142.xyz/video/tt9848962/",
@@ -6228,6 +6222,48 @@
 "image":"https://image.tmdb.org/t/p/w154/tcHe72gXZD0gyfWiHZrGEFfuULE.jpg",
 "name":"Yo creo en Papá Noel",
 "url":"https://41414142.xyz/video/tt23722792/",
+"info":"2022",
+"embed":"true"
+},
+{
+"image":"https://image.tmdb.org/t/p/w154/ckKdDHnhZAAQVVHzfqxDkOdwlcq.jpg",
+"name":"El Misterio de la Tierra de los Dulces",
+"url":"https://41414142.xyz/video/tt9024936/",
+"info":"2022",
+"embed":"true"
+},
+{
+"image":"https://image.tmdb.org/t/p/w154/mcDGQ2nBftKijYVNFcm0rWsaPiU.jpg",
+"name":"Topside",
+"url":"https://41414142.xyz/video/tt10506876/",
+"info":"2020",
+"embed":"true"
+},
+{
+"image":"https://image.tmdb.org/t/p/w154/xX0fcz8cX3OjOPeb5x7Q08mRto4.jpg",
+"name":"Una Navidad Encantada",
+"url":"https://41414142.xyz/video/tt15341380/",
+"info":"2021",
+"embed":"true"
+},
+{
+"image":"https://image.tmdb.org/t/p/w154/be8QfFTIOLG2dEaqladEFcWv1hO.jpg",
+"name":"Nebo",
+"url":"https://41414142.xyz/video/tt15815090/",
+"info":"2021",
+"embed":"true"
+},
+{
+"image":"https://image.tmdb.org/t/p/w154/fXZ7oH22HMAqQ8Svdm1Y7Zt7Vgh.jpg",
+"name":"A plena luz: El caso Narvarte",
+"url":"https://41414142.xyz/video/tt23709118/",
+"info":"2022",
+"embed":"true"
+},
+{
+"image":"https://image.tmdb.org/t/p/w154/gBBCBMXKzWRADtliUYfV69aVIcz.jpg",
+"name":"Huevitos Congelados",
+"url":"https://41414142.xyz/video/tt8101238/",
 "info":"2022",
 "embed":"true"
 }
