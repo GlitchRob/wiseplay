@@ -608,9 +608,9 @@
 "embed":"true"
 },
 {
-"image":"https://image.tmdb.org/t/p/w154/8a50yUe9q3dlpNPK7AHLFE8Fkc0.jpg",
-"name":"Big Mouth: Artista de la estafa",
-"url":"https://raw.githubusercontent.com/GlitchRob/wiseplay/main/Big Mouth: Artista de la estafa.ser",
+"image":"https://image.tmdb.org/t/p/w154/u3BwKkSZGKJ5Qvpq1fmBbK33971.jpg",
+"name":"The O.C.",
+"url":"https://raw.githubusercontent.com/GlitchRob/wiseplay/main/The O.C..ser",
 "embed":"true"
 },
 {
@@ -1547,6 +1547,12 @@
 "image":"https://image.tmdb.org/t/p/w154/8a50yUe9q3dlpNPK7AHLFE8Fkc0.jpg",
 "name":"Big Mouth: Artista de la estafa",
 "url":"https://raw.githubusercontent.com/GlitchRob/wiseplay/main/Big_Mouth_Artista_de_la_estafa.ser",
+"embed":"true"
+},
+{
+"image":"https://image.tmdb.org/t/p/w154/u3BwKkSZGKJ5Qvpq1fmBbK33971.jpg",
+"name":"The O.C.",
+"url":"https://raw.githubusercontent.com/GlitchRob/wiseplay/main/The_O.C..ser",
 "embed":"true"
 }
 ]}
