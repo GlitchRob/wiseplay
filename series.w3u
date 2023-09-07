@@ -608,7 +608,7 @@
 "embed":"true"
 },
 {
-"image":"https://image.tmdb.org/t/p/w154/u3BwKkSZGKJ5Qvpq1fmBbK33971.jpg",
+"image":"",
 "name":"The O.C.",
 "url":"https://raw.githubusercontent.com/GlitchRob/wiseplay/main/The O.C..ser",
 "embed":"true"
@@ -1553,6 +1553,12 @@
 "image":"https://image.tmdb.org/t/p/w154/u3BwKkSZGKJ5Qvpq1fmBbK33971.jpg",
 "name":"The O.C.",
 "url":"https://raw.githubusercontent.com/GlitchRob/wiseplay/main/The_O.C..ser",
+"embed":"true"
+},
+{
+"image":"https://pelisimg.online/cover/chica-rara.jpg",
+"name":"Awkward. (Chica rara)",
+"url":"https://raw.githubusercontent.com/GlitchRob/wiseplay/main/Chica_rara.ser",
 "embed":"true"
 }
 ]}
