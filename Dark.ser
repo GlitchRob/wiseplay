@@ -1,0 +1,904 @@
+{
+  "name": "Dark",
+  "info": "Series recopiladas de series kao",
+  "image": "https://image.tmdb.org/t/p/w342/qhvjEJjeyCzTRNWw9RDZuuQMJKO.jpg",
+  "author": "iCatz",
+  "telegram": "t.me/iCatz_entertainment",
+  "url": "https://raw.githubusercontent.com/GlitchRob/wiseplay/main/Dark.ser",
+  "groups": [
+{
+"name": "Temporada 1",
+"image":"https://image.tmdb.org/t/p/w342/qhvjEJjeyCzTRNWw9RDZuuQMJKO.jpg",
+"stations":[
+{
+"name":"199 - T1:C1",
+"url":"https://41414142.xyz/video/DARK-1X10/-1x01",
+"embed":"true"
+},
+{
+"name":"199: T1:C2",
+"url":"https://41414142.xyz/video/DARK-1X10/-1x02", "embed":"true"
+},
+{
+"name":"199: T1:C3",
+"url":"https://41414142.xyz/video/DARK-1X10/-1x03", "embed":"true"
+},
+{
+"name":"199: T1:C4",
+"url":"https://41414142.xyz/video/DARK-1X10/-1x04",
+"embed":"true"
+},
+{
+"name":"199: T1:C5",
+"url":"https://41414142.xyz/video/DARK-1X10/-1x05",
+"embed":"true"
+},
+{
+"name":"199: T1:C6",
+"url":"https://41414142.xyz/video/DARK-1X10/-1x06",
+"embed":"true"
+},
+{
+"name":"199: T1:C7",
+"url":"https://41414142.xyz/video/DARK-1X10/-1x07",
+"embed":"true"
+},
+{
+"name":"199: T1:C8",
+"url":"https://41414142.xyz/video/DARK-1X10/-1x08",
+"embed":"true"
+},
+{
+"name":"199: T1:C9",
+"url":"https://41414142.xyz/video/DARK-1X10/-1x09",
+"embed":"true"
+},
+{
+"name":"199: T1:C10",
+"url":"https://41414142.xyz/video/DARK-1X10/-1x10",
+"embed":"true"},
+{
+"name":"199: T1:C11",
+"url":"https://41414142.xyz/video/DARK-1X10/-1x11",
+"embed":"true"
+},
+{
+"name":"199: T1:C12",
+"url":"https://41414142.xyz/video/DARK-1X10/-1x12",
+"embed":"true"
+},
+{
+"name":"199: T1:C13",
+"url":"https://41414142.xyz/video/DARK-1X10/-1x13",
+"embed":"true"
+},
+{
+"name":"199: T1:C14",
+"url":"https://41414142.xyz/video/DARK-1X10/-1x14",
+"embed":"true"
+},
+{
+"name":"199: T1:C15",
+"url":"https://41414142.xyz/video/DARK-1X10/-1x15",
+"embed":"true"
+},
+{
+"name":"199: T1:C16",
+"url":"https://41414142.xyz/video/DARK-1X10/-1x16",
+"embed":"true"
+},
+{
+"name":"199: T1:C17",
+"url":"https://41414142.xyz/video/DARK-1X10/-1x17",
+"embed":"true"
+},
+{
+"name":"199: T1:C18",
+"url":"https://41414142.xyz/video/DARK-1X10/-1x18",
+"embed":"true"
+},
+{
+"name":"199: T1:C19",
+"url":"https://41414142.xyz/video/DARK-1X10/-1x19",
+"embed":"true"
+},
+{
+"name":"199: T1:C20",
+"url":"https://41414142.xyz/video/DARK-1X10/-1x20",
+"embed":"true"
+},
+{
+"name":"199: T1:C21",
+"url":"https://41414142.xyz/video/DARK-1X10/-1x21",
+"embed":"true"
+},
+{
+"name":"199: T1:C22",
+"url":"https://41414142.xyz/video/DARK-1X10/-1x22",
+"embed":"true"
+}
+]},
+{
+"name": "Temporada 2",
+"image":"https://image.tmdb.org/t/p/w342/qhvjEJjeyCzTRNWw9RDZuuQMJKO.jpg",
+"stations":[
+{
+"name":"199: T2:C1",
+"url":"https://41414142.xyz/video/DARK-1X10/-2x01", "embed":"true"
+},
+{
+"name":"199: T2:C2",
+"url":"https://41414142.xyz/video/DARK-1X10/-2x02", "embed":"true"
+},
+{
+"name":"199: T2:C3",
+"url":"https://41414142.xyz/video/DARK-1X10/-2x03", "embed":"true"
+},
+{
+"name":"199: T2:C4",
+"url":"https://41414142.xyz/video/DARK-1X10/-2x04",
+"embed":"true"
+},
+{
+"name":"199: T2:C5",
+"url":"https://41414142.xyz/video/DARK-1X10/-2x05",
+"embed":"true"
+},
+{
+"name":"199: T2:C6",
+"url":"https://41414142.xyz/video/DARK-1X10/-2x06",
+"embed":"true"
+},
+{
+"name":"199: T2:C7",
+"url":"https://41414142.xyz/video/DARK-1X10/-2x07",
+"embed":"true"
+},
+{
+"name":"199: T2:C8",
+"url":"https://41414142.xyz/video/DARK-1X10/-2x08",
+"embed":"true"
+},
+{
+"name":"199: T2:C9",
+"url":"https://41414142.xyz/video/DARK-1X10/-2x09",
+"embed":"true"
+},
+{
+"name":"199: T2:C10",
+"url":"https://41414142.xyz/video/DARK-1X10/-2x10",
+"embed":"true"},
+{
+"name":"199: T2:C11",
+"url":"https://41414142.xyz/video/DARK-1X10/-2x11",
+"embed":"true"
+},
+{
+"name":"199: T2:C12",
+"url":"https://41414142.xyz/video/DARK-1X10/-2x12",
+"embed":"true"
+},
+{
+"name":"199: T2:C13",
+"url":"https://41414142.xyz/video/DARK-1X10/-2x13",
+"embed":"true"
+},
+{
+"name":"199: T2:C14",
+"url":"https://41414142.xyz/video/DARK-1X10/-2x14",
+"embed":"true"
+},
+{
+"name":"199: T2:C15",
+"url":"https://41414142.xyz/video/DARK-1X10/-2x15",
+"embed":"true"
+},
+{
+"name":"199: T2:C16",
+"url":"https://41414142.xyz/video/DARK-1X10/-2x16",
+"embed":"true"
+},
+{
+"name":"199: T2:C17",
+"url":"https://41414142.xyz/video/DARK-1X10/-2x17",
+"embed":"true"
+},
+{
+"name":"199: T2:C18",
+"url":"https://41414142.xyz/video/DARK-1X10/-2x18",
+"embed":"true"
+},
+{
+"name":"199: T2:C19",
+"url":"https://41414142.xyz/video/DARK-1X10/-2x19",
+"embed":"true"
+},
+{
+"name":"199: T2:C20",
+"url":"https://41414142.xyz/video/DARK-1X10/-2x20",
+"embed":"true"
+},
+{
+"name":"199: T2:C21",
+"url":"https://41414142.xyz/video/DARK-1X10/-2x21",
+"embed":"true"
+},
+{
+"name":"199: T2:C22",
+"url":"https://41414142.xyz/video/DARK-1X10/-2x22",
+"embed":"true"
+},
+{
+"name":"199: T2:C23",
+"url":"https://41414142.xyz/video/DARK-1X10/-2x23",
+"embed":"true"
+},
+{
+"name":"199: T2:C24",
+"url":"https://41414142.xyz/video/DARK-1X10/-2x24",
+"embed":"true"
+}
+]},
+{
+"name": "Temporada 3",
+"image":"https://image.tmdb.org/t/p/w342/qhvjEJjeyCzTRNWw9RDZuuQMJKO.jpg",
+"stations":[
+{
+"name":"199: T3:C1",
+"url":"https://41414142.xyz/video/DARK-1X10/-3x01", "embed":"true"
+},
+{
+"name":"199: T3:C2",
+"url":"https://41414142.xyz/video/DARK-1X10/-3x02", "embed":"true"
+},
+{
+"name":"199: T3:C3",
+"url":"https://41414142.xyz/video/DARK-1X10/-3x03", "embed":"true"
+},
+{
+"name":"199: T3:C4",
+"url":"https://41414142.xyz/video/DARK-1X10/-3x04",
+"embed":"true"
+},
+{
+"name":"199: T3:C5",
+"url":"https://41414142.xyz/video/DARK-1X10/-3x05",
+"embed":"true"
+},
+{
+"name":"199: T3:C6",
+"url":"https://41414142.xyz/video/DARK-1X10/-3x06",
+"embed":"true"
+},
+{
+"name":"199: T3:C7",
+"url":"https://41414142.xyz/video/DARK-1X10/-3x07",
+"embed":"true"
+},
+{
+"name":"199: T3:C8",
+"url":"https://41414142.xyz/video/DARK-1X10/-3x08",
+"embed":"true"
+},
+{
+"name":"199: T3:C9",
+"url":"https://41414142.xyz/video/DARK-1X10/-3x09",
+"embed":"true"
+},
+{
+"name":"199: T3:C10",
+"url":"https://41414142.xyz/video/DARK-1X10/-3x10",
+"embed":"true"},
+{
+"name":"199: T3:C11",
+"url":"https://41414142.xyz/video/DARK-1X10/-3x11",
+"embed":"true"
+},
+{
+"name":"199: T3:C12",
+"url":"https://41414142.xyz/video/DARK-1X10/-3x12",
+"embed":"true"
+},
+{
+"name":"199: T3:C13",
+"url":"https://41414142.xyz/video/DARK-1X10/-3x13",
+"embed":"true"
+},
+{
+"name":"199: T3:C14",
+"url":"https://41414142.xyz/video/DARK-1X10/-3x14",
+"embed":"true"
+},
+{
+"name":"199: T3:C15",
+"url":"https://41414142.xyz/video/DARK-1X10/-3x15",
+"embed":"true"
+},
+{
+"name":"199: T3:C16",
+"url":"https://41414142.xyz/video/DARK-1X10/-3x16",
+"embed":"true"
+},
+{
+"name":"199: T3:C17",
+"url":"https://41414142.xyz/video/DARK-1X10/-3x17",
+"embed":"true"
+},
+{
+"name":"199: T3:C18",
+"url":"https://41414142.xyz/video/DARK-1X10/-3x18",
+"embed":"true"
+},
+{
+"name":"199: T3:C19",
+"url":"https://41414142.xyz/video/DARK-1X10/-3x19",
+"embed":"true"
+},
+{
+"name":"199: T3:C20",
+"url":"https://41414142.xyz/video/DARK-1X10/-3x20",
+"embed":"true"
+},
+{
+"name":"199: T3:C21",
+"url":"https://41414142.xyz/video/DARK-1X10/-3x21",
+"embed":"true"
+},
+{
+"name":"199: T3:C22",
+"url":"https://41414142.xyz/video/DARK-1X10/-3x22",
+"embed":"true"
+},
+{
+"name":"199: T3:C23",
+"url":"https://41414142.xyz/video/DARK-1X10/-3x23",
+"embed":"true"
+},
+{
+"name":"199: T3:C24",
+"url":"https://41414142.xyz/video/DARK-1X10/-3x24",
+"embed":"true"
+}
+]},
+{
+"name": "Temporada 4",
+"image":"https://image.tmdb.org/t/p/w342/qhvjEJjeyCzTRNWw9RDZuuQMJKO.jpg",
+"stations":[
+{
+"name":"199: T4:C1",
+"url":"https://41414142.xyz/video/DARK-1X10/-4x01", "embed":"true"
+},
+{
+"name":"199: T4:C2",
+"url":"https://41414142.xyz/video/DARK-1X10/-4x02", "embed":"true"
+},
+{
+"name":"199: T4:C3",
+"url":"https://41414142.xyz/video/DARK-1X10/-4x03", "embed":"true"
+},
+{
+"name":"199: T4:C4",
+"url":"https://41414142.xyz/video/DARK-1X10/-4x04",
+"embed":"true"
+},
+{
+"name":"199: T4:C5",
+"url":"https://41414142.xyz/video/DARK-1X10/-4x05",
+"embed":"true"
+},
+{
+"name":"199: T4:C6",
+"url":"https://41414142.xyz/video/DARK-1X10/-4x06",
+"embed":"true"
+},
+{
+"name":"199: T4:C7",
+"url":"https://41414142.xyz/video/DARK-1X10/-4x07",
+"embed":"true"
+},
+{
+"name":"199: T4:C8",
+"url":"https://41414142.xyz/video/DARK-1X10/-4x08",
+"embed":"true"
+},
+{
+"name":"199: T4:C9",
+"url":"https://41414142.xyz/video/DARK-1X10/-4x09",
+"embed":"true"
+},
+{
+"name":"199: T4:C10",
+"url":"https://41414142.xyz/video/DARK-1X10/-4x10",
+"embed":"true"},
+{
+"name":"199: T4:C11",
+"url":"https://41414142.xyz/video/DARK-1X10/-4x11",
+"embed":"true"
+},
+{
+"name":"199: T4:C12",
+"url":"https://41414142.xyz/video/DARK-1X10/-4x12",
+"embed":"true"
+},
+{
+"name":"199: T4:C13",
+"url":"https://41414142.xyz/video/DARK-1X10/-4x13",
+"embed":"true"
+},
+{
+"name":"199: T4:C14",
+"url":"https://41414142.xyz/video/DARK-1X10/-4x14",
+"embed":"true"
+},
+{
+"name":"199: T4:C15",
+"url":"https://41414142.xyz/video/DARK-1X10/-4x15",
+"embed":"true"
+},
+{
+"name":"199: T4:C16",
+"url":"https://41414142.xyz/video/DARK-1X10/-4x16",
+"embed":"true"
+}
+]},
+{
+"name": "Temporada 5",
+"image":"https://image.tmdb.org/t/p/w342/qhvjEJjeyCzTRNWw9RDZuuQMJKO.jpg",
+"stations":[
+{
+"name":"199: T5:C1",
+"url":"https://41414142.xyz/video/DARK-1X10/-5x01", "embed":"true"
+},
+{
+"name":"199: T5:C2",
+"url":"https://41414142.xyz/video/DARK-1X10/-5x02", "embed":"true"
+},
+{
+"name":"199: T5:C3",
+"url":"https://41414142.xyz/video/DARK-1X10/-5x03", "embed":"true"
+},
+{
+"name":"199: T5:C4",
+"url":"https://41414142.xyz/video/DARK-1X10/-5x04",
+"embed":"true"
+},
+{
+"name":"199: T5:C5",
+"url":"https://41414142.xyz/video/DARK-1X10/-5x05",
+"embed":"true"
+},
+{
+"name":"199: T5:C6",
+"url":"https://41414142.xyz/video/DARK-1X10/-5x06",
+"embed":"true"
+},
+{
+"name":"199: T5:C7",
+"url":"https://41414142.xyz/video/DARK-1X10/-5x07",
+"embed":"true"
+},
+{
+"name":"199: T5:C8",
+"url":"https://41414142.xyz/video/DARK-1X10/-5x08",
+"embed":"true"
+},
+{
+"name":"199: T5:C9",
+"url":"https://41414142.xyz/video/DARK-1X10/-5x09",
+"embed":"true"
+},
+{
+"name":"199: T5:C10",
+"url":"https://41414142.xyz/video/DARK-1X10/-5x10",
+"embed":"true"},
+{
+"name":"199: T5:C11",
+"url":"https://41414142.xyz/video/DARK-1X10/-5x11",
+"embed":"true"
+},
+{
+"name":"199: T5:C12",
+"url":"https://41414142.xyz/video/DARK-1X10/-5x12",
+"embed":"true"
+},
+{
+"name":"199: T5:C13",
+"url":"https://41414142.xyz/video/DARK-1X10/-5x13",
+"embed":"true"
+},
+{
+"name":"199: T5:C14",
+"url":"https://41414142.xyz/video/DARK-1X10/-5x14",
+"embed":"true"
+},
+{
+"name":"199: T5:C15",
+"url":"https://41414142.xyz/video/DARK-1X10/-5x15",
+"embed":"true"
+},
+{
+"name":"199: T5:C16",
+"url":"https://41414142.xyz/video/DARK-1X10/-5x16",
+"embed":"true"
+},
+{
+"name":"199: T5:C17",
+"url":"https://41414142.xyz/video/DARK-1X10/-5x17",
+"embed":"true"
+},
+{
+"name":"199: T5:C18",
+"url":"https://41414142.xyz/video/DARK-1X10/-5x18",
+"embed":"true"
+},
+{
+"name":"199: T5:C19",
+"url":"https://41414142.xyz/video/DARK-1X10/-5x19",
+"embed":"true"
+},
+{
+"name":"199: T5:C20",
+"url":"https://41414142.xyz/video/DARK-1X10/-5x20",
+"embed":"true"
+},
+{
+"name":"199: T5:C21",
+"url":"https://41414142.xyz/video/DARK-1X10/-5x21",
+"embed":"true"
+},
+{
+"name":"199: T5:C22",
+"url":"https://41414142.xyz/video/DARK-1X10/-5x22",
+"embed":"true"
+},
+{
+"name":"199: T5:C23",
+"url":"https://41414142.xyz/video/DARK-1X10/-5x23",
+"embed":"true"
+},
+{
+"name":"199: T5:C24",
+"url":"https://41414142.xyz/video/DARK-1X10/-5x24",
+"embed":"true"
+}
+]},
+{
+"name": "Temporada 6",
+"image":"https://image.tmdb.org/t/p/w342/qhvjEJjeyCzTRNWw9RDZuuQMJKO.jpg",
+"stations":[
+{
+"name":"199: T6:C1",
+"url":"https://41414142.xyz/video/DARK-1X10/-6x01", "embed":"true"
+},
+{
+"name":"199: T6:C2",
+"url":"https://41414142.xyz/video/DARK-1X10/-6x02", "embed":"true"
+},
+{
+"name":"199: T6:C3",
+"url":"https://41414142.xyz/video/DARK-1X10/-6x03", "embed":"true"
+},
+{
+"name":"199: T6:C4",
+"url":"https://41414142.xyz/video/DARK-1X10/-6x04",
+"embed":"true"
+},
+{
+"name":"199: T6:C5",
+"url":"https://41414142.xyz/video/DARK-1X10/-6x05",
+"embed":"true"
+},
+{
+"name":"199: T6:C6",
+"url":"https://41414142.xyz/video/DARK-1X10/-6x06",
+"embed":"true"
+},
+{
+"name":"199: T6:C7",
+"url":"https://41414142.xyz/video/DARK-1X10/-6x07",
+"embed":"true"
+},
+{
+"name":"199: T6:C8",
+"url":"https://41414142.xyz/video/DARK-1X10/-6x08",
+"embed":"true"
+},
+{
+"name":"199: T6:C9",
+"url":"https://41414142.xyz/video/DARK-1X10/-6x09",
+"embed":"true"
+},
+{
+"name":"199: T6:C10",
+"url":"https://41414142.xyz/video/DARK-1X10/-6x10",
+"embed":"true"},
+{
+"name":"199: T6:C11",
+"url":"https://41414142.xyz/video/DARK-1X10/-6x11",
+"embed":"true"
+},
+{
+"name":"199: T6:C12",
+"url":"https://41414142.xyz/video/DARK-1X10/-6x12",
+"embed":"true"
+},
+{
+"name":"199: T6:C13",
+"url":"https://41414142.xyz/video/DARK-1X10/-6x13",
+"embed":"true"
+},
+{
+"name":"199: T6:C14",
+"url":"https://41414142.xyz/video/DARK-1X10/-6x14",
+"embed":"true"
+},
+{
+"name":"199: T6:C15",
+"url":"https://41414142.xyz/video/DARK-1X10/-6x15",
+"embed":"true"
+},
+{
+"name":"199: T6:C16",
+"url":"https://41414142.xyz/video/DARK-1X10/-6x16",
+"embed":"true"
+},
+{
+"name":"199: T6:C17",
+"url":"https://41414142.xyz/video/DARK-1X10/-6x17",
+"embed":"true"
+},
+{
+"name":"199: T6:C18",
+"url":"https://41414142.xyz/video/DARK-1X10/-6x18",
+"embed":"true"
+},
+{
+"name":"199: T6:C19",
+"url":"https://41414142.xyz/video/DARK-1X10/-6x19",
+"embed":"true"
+},
+{
+"name":"199: T6:C20",
+"url":"https://41414142.xyz/video/DARK-1X10/-6x20",
+"embed":"true"
+},
+{
+"name":"199: T6:C21",
+"url":"https://41414142.xyz/video/DARK-1X10/-6x21",
+"embed":"true"
+},
+{
+"name":"199: T6:C22",
+"url":"https://41414142.xyz/video/DARK-1X10/-6x22",
+"embed":"true"
+}
+]},
+{
+"name": "Temporada 7",
+"image":"https://image.tmdb.org/t/p/w342/qhvjEJjeyCzTRNWw9RDZuuQMJKO.jpg",
+"stations":[
+{
+"name":"199: T7:C1",
+"url":"https://41414142.xyz/video/DARK-1X10/-7x01", "embed":"true"
+},
+{
+"name":"199: T7:C2",
+"url":"https://41414142.xyz/video/DARK-1X10/-7x02", "embed":"true"
+},
+{
+"name":"199: T7:C3",
+"url":"https://41414142.xyz/video/DARK-1X10/-7x03", "embed":"true"
+},
+{
+"name":"199: T7:C4",
+"url":"https://41414142.xyz/video/DARK-1X10/-7x04",
+"embed":"true"
+},
+{
+"name":"199: T7:C5",
+"url":"https://41414142.xyz/video/DARK-1X10/-7x05",
+"embed":"true"
+},
+{
+"name":"199: T7:C6",
+"url":"https://41414142.xyz/video/DARK-1X10/-7x06",
+"embed":"true"
+},
+{
+"name":"199: T7:C7",
+"url":"https://41414142.xyz/video/DARK-1X10/-7x07",
+"embed":"true"
+},
+{
+"name":"199: T7:C8",
+"url":"https://41414142.xyz/video/DARK-1X10/-7x08",
+"embed":"true"
+},
+{
+"name":"199: T7:C9",
+"url":"https://41414142.xyz/video/DARK-1X10/-7x09",
+"embed":"true"
+},
+{
+"name":"199: T7:C10",
+"url":"https://41414142.xyz/video/DARK-1X10/-7x10",
+"embed":"true"},
+{
+"name":"199: T7:C11",
+"url":"https://41414142.xyz/video/DARK-1X10/-7x11",
+"embed":"true"
+},
+{
+"name":"199: T7:C12",
+"url":"https://41414142.xyz/video/DARK-1X10/-7x12",
+"embed":"true"
+},
+{
+"name":"199: T7:C13",
+"url":"https://41414142.xyz/video/DARK-1X10/-7x13",
+"embed":"true"
+},
+{
+"name":"199: T7:C14",
+"url":"https://41414142.xyz/video/DARK-1X10/-7x14",
+"embed":"true"
+},
+{
+"name":"199: T7:C15",
+"url":"https://41414142.xyz/video/DARK-1X10/-7x15",
+"embed":"true"
+},
+{
+"name":"199: T7:C16",
+"url":"https://41414142.xyz/video/DARK-1X10/-7x16",
+"embed":"true"
+},
+{
+"name":"199: T7:C17",
+"url":"https://41414142.xyz/video/DARK-1X10/-7x17",
+"embed":"true"
+},
+{
+"name":"199: T7:C18",
+"url":"https://41414142.xyz/video/DARK-1X10/-7x18",
+"embed":"true"
+},
+{
+"name":"199: T7:C19",
+"url":"https://41414142.xyz/video/DARK-1X10/-7x19",
+"embed":"true"
+},
+{
+"name":"199: T7:C20",
+"url":"https://41414142.xyz/video/DARK-1X10/-7x20",
+"embed":"true"
+},
+{
+"name":"199: T7:C21",
+"url":"https://41414142.xyz/video/DARK-1X10/-7x21",
+"embed":"true"
+},
+{
+"name":"199: T7:C22",
+"url":"https://41414142.xyz/video/DARK-1X10/-7x22",
+"embed":"true"
+},
+{
+"name":"199: T7:C23",
+"url":"https://41414142.xyz/video/DARK-1X10/-7x23",
+"embed":"true"
+}
+]},
+{
+"name": "Temporada 8",
+"image":"https://image.tmdb.org/t/p/w342/qhvjEJjeyCzTRNWw9RDZuuQMJKO.jpg",
+"stations":[
+{
+"name":"199: T8:C1",
+"url":"https://41414142.xyz/video/DARK-1X10/-8x01", "embed":"true"
+},
+{
+"name":"199: T8:C2",
+"url":"https://41414142.xyz/video/DARK-1X10/-8x02", "embed":"true"
+},
+{
+"name":"199: T8:C3",
+"url":"https://41414142.xyz/video/DARK-1X10/-8x03", "embed":"true"
+},
+{
+"name":"199: T8:C4",
+"url":"https://41414142.xyz/video/DARK-1X10/-8x04",
+"embed":"true"
+},
+{
+"name":"199: T8:C5",
+"url":"https://41414142.xyz/video/DARK-1X10/-8x05",
+"embed":"true"
+},
+{
+"name":"199: T8:C6",
+"url":"https://41414142.xyz/video/DARK-1X10/-8x06",
+"embed":"true"
+},
+{
+"name":"199: T8:C7",
+"url":"https://41414142.xyz/video/DARK-1X10/-8x07",
+"embed":"true"
+},
+{
+"name":"199: T8:C8",
+"url":"https://41414142.xyz/video/DARK-1X10/-8x08",
+"embed":"true"
+},
+{
+"name":"199: T8:C9",
+"url":"https://41414142.xyz/video/DARK-1X10/-8x09",
+"embed":"true"
+},
+{
+"name":"199: T8:C10",
+"url":"https://41414142.xyz/video/DARK-1X10/-8x10",
+"embed":"true"},
+{
+"name":"199: T8:C11",
+"url":"https://41414142.xyz/video/DARK-1X10/-8x11",
+"embed":"true"
+},
+{
+"name":"199: T8:C12",
+"url":"https://41414142.xyz/video/DARK-1X10/-8x12",
+"embed":"true"
+},
+{
+"name":"199: T8:C13",
+"url":"https://41414142.xyz/video/DARK-1X10/-8x13",
+"embed":"true"
+},
+{
+"name":"199: T8:C14",
+"url":"https://41414142.xyz/video/DARK-1X10/-8x14",
+"embed":"true"
+},
+{
+"name":"199: T8:C15",
+"url":"https://41414142.xyz/video/DARK-1X10/-8x15",
+"embed":"true"
+},
+{
+"name":"199: T8:C16",
+"url":"https://41414142.xyz/video/DARK-1X10/-8x16",
+"embed":"true"
+},
+{
+"name":"199: T8:C17",
+"url":"https://41414142.xyz/video/DARK-1X10/-8x17",
+"embed":"true"
+},
+{
+"name":"199: T8:C18",
+"url":"https://41414142.xyz/video/DARK-1X10/-8x18",
+"embed":"true"
+},
+{
+"name":"199: T8:C19",
+"url":"https://41414142.xyz/video/DARK-1X10/-8x19",
+"embed":"true"
+},
+{
+"name":"199: T8:C20",
+"url":"https://41414142.xyz/video/DARK-1X10/-8x20",
+"embed":"true"
+},
+{
+"name":"199: T8:C21",
+"url":"https://41414142.xyz/video/DARK-1X10/-8x21",
+"embed":"true"
+},
+{
+"name":"199: T8:C22",
+"url":"https://41414142.xyz/video/DARK-1X10/-8x22",
+"embed":"true"
+}
+]},
+]}
+],"url":"no"}
