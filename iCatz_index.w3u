@@ -3,7 +3,7 @@
     "nombre": "Fresca de 600 ML",
     "precio": 22,
     "categoria": "Abarrotes",
-    "descripcion": "Es que necesito esa $22 mexicanos",
+    "descripcion": "$22 mexicanos",
     "imagen": "https://imgs.search.brave.com/1oKaV94b2nU9qlrODRAlLk93z4mjgl3wqaaAyv88V2U/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdXBl/cm1lYXQubXgvY2Ru/L3Nob3AvZmlsZXMv/ZTViNTg2YWMxZGQy/NjA3OGM4MDAzOTFj/M2UzM2MwNDJfZ3Jh/bmRlLmpwZz92PTE3/MTg3MjMxODU"
   },
   {
@@ -12,5 +12,12 @@
     "categoria": "Abarrotes",
     "descripcion": "Coca-cola 600 ml a solo $22 mexicanos",
     "imagen": "https://imgs.search.brave.com/9c97joft5RIFITlT6tC5K_TWItKs-jXS-eWuag_ivCc/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jb21l/cmNpYWx0cmV2aW5v/LmNvbS9pbWFnZXMv/ODExLmpwZz91PTE3/NDAxODA4OTc"
+  },
+  {
+    "nombre": "Fanta 600ml",
+    "precio": 15,
+    "categoria": "Abarrotes",
+    "descripcion": "Famta sabor naranja",
+    "imagen": "https://imgs.search.brave.com/TFNPbeiiMsn_m8tbKWx5q-n3TLCgdDsMO3c6y5euFC8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9yZXMu/Y2xvdWRpbmFyeS5j/b20vcmlxcmEvaW1h/Z2UvdXBsb2FkL3df/OTA2LGhfOTA2LGNf/Zml0LHFfYXV0byxm/X2F1dG8vdjE2Nzg4/MTEyNTMvc2VsbGVy/cy8zL3Zhbjhma3Np/eGNhemw4YXppZGdk/LmpwZw"
   }
 ]
