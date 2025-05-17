@@ -1,9 +1,16 @@
 [
   {
-    "nombre": "Coca-cola de 600 ML",
+    "nombre": "Fresca de 600 ML",
     "precio": 22,
     "categoria": "Abarrotes",
-    "descripcion": "Coca-cola de 600 ML 22 pesos mexicanos",
+    "descripcion": "Es que necesito esa $22 mexicanos",
+    "imagen": "https://imgs.search.brave.com/1oKaV94b2nU9qlrODRAlLk93z4mjgl3wqaaAyv88V2U/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdXBl/cm1lYXQubXgvY2Ru/L3Nob3AvZmlsZXMv/ZTViNTg2YWMxZGQy/NjA3OGM4MDAzOTFj/M2UzM2MwNDJfZ3Jh/bmRlLmpwZz92PTE3/MTg3MjMxODU"
+  },
+  {
+    "nombre": "Coca-cola 600 ML",
+    "precio": 22,
+    "categoria": "Abarrotes",
+    "descripcion": "Coca-cola 600 ml a solo $22 mexicanos",
     "imagen": "https://imgs.search.brave.com/9c97joft5RIFITlT6tC5K_TWItKs-jXS-eWuag_ivCc/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jb21l/cmNpYWx0cmV2aW5v/LmNvbS9pbWFnZXMv/ODExLmpwZz91PTE3/NDAxODA4OTc"
   }
 ]
