@@ -1,1 +1,9 @@
-{"name":"Series iCatz","author":"Listas w3u de series para wiseplay.","image":"img/playlists.png","url":"https://raw.githubusercontent.com/GlitchRob/wiseplay/main/iCatz_index.w3u","telegram":"@Codigos_ZalTV_Latam","info":"Pedidos en @iCatz","epg":"","stations":[{"name":"DARK","info":"Serie | Netflix - Español latino • Múltiples servidores","image":"http://br.web.img2.acsta.net/pictures/19/06/11/21/33/0075880.jpg","url":"https://raw.githubusercontent.com/GlitchRob/wiseplay/main/D4RK.w3u"}]}
+[
+  {
+    "nombre": "Coca-cola de 600 ML",
+    "precio": 22,
+    "categoria": "Abarrotes",
+    "descripcion": "Coca-cola de 600 ML 22 pesos mexicanos",
+    "imagen": "https://imgs.search.brave.com/9c97joft5RIFITlT6tC5K_TWItKs-jXS-eWuag_ivCc/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jb21l/cmNpYWx0cmV2aW5v/LmNvbS9pbWFnZXMv/ODExLmpwZz91PTE3/NDAxODA4OTc"
+  }
+]
