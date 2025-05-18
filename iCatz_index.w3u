@@ -82,5 +82,12 @@
     "categoria": "Abarrotes",
     "descripcion": "Aceite Vegetal 123 965ml",
     "imagen": "https://imgs.search.brave.com/W6vFvzvKeuCrZekgJ278qJdDhD-52_d_OAYJwAG37uw/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pNS53/YWxtYXJ0aW1hZ2Vz/LmNvbS5teC9nci9p/bWFnZXMvcHJvZHVj/dC1pbWFnZXMvaW1n/X2xhcmdlLzAwMDAw/MDA3NTAwMjM0TC5q/cGc_b2RuSGVpZ2h0/PTYxMiZvZG5XaWR0/aD02MTImb2RuQmc9/RkZGRkZG"
+  },
+  {
+    "nombre": "Leche Lala 1.8l",
+    "precio": 36,
+    "categoria": "Lácteos",
+    "descripcion": "Leche lala entera",
+    "imagen": "https://imgs.search.brave.com/g9qeFnaK827qmkiLXCNlq83-178TkXQRID-3lbBFI0M/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9mYXJt/YWNpYXNrbHlucy52/dGV4YXNzZXRzLmNv/bS9hcnF1aXZvcy9p/ZHMvMTY2MjM4LTgw/MC1hdXRvP3Y9NjM3/OTM1MjY0MTc1MzAw/MDAwJndpZHRoPTgw/MCZoZWlnaHQ9YXV0/byZhc3BlY3Q9dHJ1/ZQ"
   }
 ]
