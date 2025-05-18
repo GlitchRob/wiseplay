@@ -61,5 +61,19 @@
     "categoria": "Abarrotes",
     "descripcion": "Chiles jalapeños la costeña enteros",
     "imagen": "https://imgs.search.brave.com/bJb0BKZ3kkusL1XQTEmJcNAchmTTYHq4aOjRLKjCDwY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90aWVu/ZGFzY29ycGlvbi5t/YXlvcmVvZW5saW5l/YS5teC9jZG4vc2hv/cC9maWxlcy8xODVf/MV8xXzMyNTJkMDAz/LTQ5NzYtNDU1Zi05/ZjhhLTA5ZWVjNWM4/YjllYS5qcGc_dj0x/NzQ0NzQyNDU2Jndp/ZHRoPTE0NDU"
+  },
+  {
+    "nombre": "Sal la fina",
+    "precio": 23,
+    "categoria": "Abarrotes",
+    "descripcion": "Sal yodada La Fina",
+    "imagen": "https://imgs.search.brave.com/_M3yNhekG3Wx6P2y-gJtWen0UuKx-edkQ4YzrW1j9dY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMtbmEuc3NsLWlt/YWdlcy1hbWF6b24u/Y29tL2ltYWdlcy9J/LzcxajdhMUlGY2NM/LmpwZw"
+  },
+  {
+    "nombre": "Tang Uva",
+    "precio": 5,
+    "categoria": "Abarrotes",
+    "descripcion": "Polvo para preparar bebidas sabor uva",
+    "imagen": "https://imgs.search.brave.com/hrURN9vilpcM-4uZcHgRQrNrGDlFfCgeHzyLriFV8Ow/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9yZXMu/Y2xvdWRpbmFyeS5j/b20vcmlxcmEvaW1h/Z2UvdXBsb2FkL3df/OTA2LGhfOTA2LGNf/Zml0LHFfYXV0byxm/X2F1dG8vdjE2OTQx/MDY4NjYvc2VsbGVy/cy8yL2xkbzhibmli/M2I4d2E0ZHR3MXVk/LmpwZw"
   }
 ]
