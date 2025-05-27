@@ -1,12 +1,16 @@
 [
   {
+    "id": 1,
     "title": "Stranger Things",
     "genre": "Ciencia Ficción",
-    "image": "https://image.tmdb.org/t/p/w500/path_to_image.jpg"
+    "image": "https://image.tmdb.org/t/p/w500/path.jpg",
+    "description": "Un grupo de niños descubre secretos paranormales en su ciudad.",
+    "seasons": 4
   },
   {
-    "title": "The Witcher",
-    "genre": "Fantasía",
-    "image": "https://image.tmdb.org/t/p/w500/path_to_image2.jpg"
+    "id": 2,
+    "title": "Inception",
+    "genre": "Ciencia Ficción",
+    "image": "https://image.tmdb.org/t/p/w500/path2.jpg"
   }
 ]
